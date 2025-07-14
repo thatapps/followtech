@@ -1,0 +1,10 @@
+{
+  "visible": true,
+  "title": "Awesome Product",
+  "text": "Check out this amazing product now!",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+  "buttonText": "Buy Now",
+  "buttonLink": "https://play.google.com/store/apps/details?id=get.unfollowers.followers.instagram.tracker",
+  "rating": 5,
+  "showStartAppBanner": false
+}
