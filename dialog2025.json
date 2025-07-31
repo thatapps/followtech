@@ -1,6 +1,6 @@
 {
-  "showDialogLogin": true,
-  "showDialogMain": true,
+  "showDialogLogin": false,
+  "showDialogMain": false,
   "dialogClosedVisible": true,
   "languages": {
     "en": {
