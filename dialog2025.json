@@ -17,7 +17,7 @@
     }
   },
   "imageUrl": "https://example.com/image.jpg",
-  "buttonLink": "https://example.com"
+  "buttonLink": "https://example.com",
   "highlight_search": true,
   "primaryUrl": "https://iproyal.com/ip-lookup/",
   "backupUrl": "https://whatismyipaddress.com/",
