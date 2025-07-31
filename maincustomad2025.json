@@ -1,5 +1,5 @@
 {
-  "ad_visible": true,
+  "ad_visible": false,
   "ad_app_icon": "https://example.com/images/app_icon.png",
   "ad_headline": {
     "en": "Amazing App!",
