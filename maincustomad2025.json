@@ -1,0 +1,20 @@
+{
+  "ad_visible": true,
+  "ad_app_icon": "https://example.com/images/app_icon.png",
+  "ad_headline": {
+    "en": "Amazing App!",
+    "es": "¡Aplicación Asombrosa!",
+    "fr": "Application incroyable!"
+  },
+  "ad_body": {
+    "en": "This app changes your life.",
+    "es": "Esta aplicación cambia tu vida.",
+    "fr": "Cette application change votre vie."
+  },
+  "ad_call_to_action": {
+    "en": "Install Now",
+    "es": "Instalar ahora",
+    "fr": "Installer maintenant"
+  },
+  "ad_url": "https://play.google.com/store/apps/details?id=com.example.app"
+}
