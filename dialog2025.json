@@ -1,10 +1,23 @@
 {
-  "showDialog": false,
-  "title": "Welcome!",
-  "text": "Check out our latest features.",
-  "imageUrl": "",
-  "buttonText": "Learn More",
-  "buttonLink": "",
+  "showDialogLogin": true,
+  "showDialogMain": true,
+  "dialogClosedVisible": true,
+  "languages": {
+    "en": {
+      "title": "Welcome",
+      "text": "Hello, welcome!",
+      "buttonText": "OK",
+      "dialogClosedText": "Close"
+    },
+    "de": {
+      "title": "Willkommen",
+      "text": "Hallo, willkommen!",
+      "buttonText": "OK",
+      "dialogClosedText": "Schließen"
+    }
+  },
+  "imageUrl": "https://example.com/image.jpg",
+  "buttonLink": "https://example.com"
   "highlight_search": true,
   "primaryUrl": "https://iproyal.com/ip-lookup/",
   "backupUrl": "https://whatismyipaddress.com/",
