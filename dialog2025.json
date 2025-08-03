@@ -20,6 +20,6 @@
   "buttonLink": "https://example.com",
   "highlight_search": true,
   "primaryUrl": "https://iproyal.com/ip-lookup/",
-  "backupUrl": "https://whatismyipaddress.com/",
+  "backupUrl": "https://www.iplocation.net/",
   "enableCheckLocation": true
 }
