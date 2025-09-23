@@ -13,5 +13,5 @@
     "selectorCountScript": "document.querySelectorAll('a.button.is-success').length",
     "selector": "a.button.is-success"
   },
-  "premium_main": "true"
+  "premium_main": "false"
 }
