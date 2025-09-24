@@ -15,7 +15,7 @@
             "banner_ad_unit_id_login_main": "ca-app-pub-6264397123968867/5310860678",
             "native_enabled_login_main": true,
             "native_ad_unit_id_login_main": "ca-app-pub-6264397123968867/4137433702",
-            "interstitial_enabled_login_main": true,
+            "interstitial_enabled_login_main": false,
             "interstitial_ad_unit_id_login_main": "ca-app-pub-6264397123968867/6572025359",
 
             //Saved Post
@@ -43,7 +43,7 @@
 
              "banner_enabled_fullscreen": false,
              "banner_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/5310860678",
-             "native_enabled_fullscreen": true,
+             "native_enabled_fullscreen": false,
              "native_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/4137433702",
              "interstitial_enabled_fullscreen": false,
              "interstitial_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/9637118491",
