@@ -1,6 +1,6 @@
 {
   "ad_visible": true,
-  "ad_app_icon": "https://raw.githubusercontent.com/thatapps/glowtwin/refs/heads/main/story/logo512.png",
+  "ad_app_icon": "https://raw.githubusercontent.com/thatapps/followtech/refs/heads/main/story/logo512.png",
  "ad_headline": { 
 "en": "Instagram Downloader", 
 "de": "Instagram-Downloader", 
@@ -136,5 +136,5 @@
     "nl": "Nu installeren",
     "tr": "Şimdi Yükle"
   },
-  "ad_url": "https://play.google.com/store/apps/details?id=storydownloader.instagram.storysaver.downloader.story"
+  "ad_url": "https://play.google.com/store/apps/details?id=downloader.storysaver.instagram.freevideodownload"
 }
