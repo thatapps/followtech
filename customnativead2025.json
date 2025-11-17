@@ -2,7 +2,7 @@
   "visible": true,
   "title": "Awesome Product",
   "text": "Check out this amazing product now!",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+  "image": "https://raw.githubusercontent.com/thatapps/followtech/refs/heads/main/story/logo512.png",
   "buttonText": "Buy Now",
   "buttonLink": "https://play.google.com/store/apps/details?id=get.unfollowers.followers.instagram.tracker",
   "rating": 5,
