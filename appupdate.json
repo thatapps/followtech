@@ -1,0 +1,8 @@
+{ 
+    "version": "1.6", 
+    "messages": {
+        "en": [ "<b>What's new</b>", "<ul><li>Feature A</li><li>Bug fixes</li></ul>" ], "es": [ "<b>Novedades</b>", "<ul><li>Función A</li><li>Correcciones</li></ul>" ] 
+        
+    } 
+
+}
