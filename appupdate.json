@@ -1,5 +1,5 @@
 { 
-    "version": "1.30", 
+    "version": "1.31", 
     "messages": {
         "en": [ "<b>What's new</b>", "<ul><li>Feature A</li><li>Bug fixes</li></ul>" ], "es": [ "<b>Novedades</b>", "<ul><li>Función A</li><li>Correcciones</li></ul>" ] 
         
