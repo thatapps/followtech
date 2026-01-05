@@ -4,7 +4,7 @@
     "banner_enabled_main": false,
     "native_enabled_main": true,
      "interstitial_enabled_main": true,
-      "app_open_enabled_main": false,
+      "app_open_enabled_main": true,
        "banner_ad_unit_id": "ca-app-pub-6264397123968867/5310860678",
         "native_ad_unit_id": "ca-app-pub-6264397123968867/4137433702",
          "interstitial_ad_unit_id": "ca-app-pub-6264397123968867/6572025359",
