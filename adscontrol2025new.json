@@ -7,8 +7,8 @@
   "interstitialAd": {
     "show_admob_interstitial": true,
     "show_custom_interstitial": false,
-    "show_custom_interstitialAd_Failed": false,
-    "show_StartApp_interstitialAd": true,
+    "show_custom_interstitialAd_Failed": true,
+    "show_StartApp_interstitialAd": false,
     
     "title": { 
 "en": "Instagram Downloader", 
