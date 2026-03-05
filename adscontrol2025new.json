@@ -3,6 +3,7 @@
     "show_admob_native_ad": true,
     "show_custom_native_ad": false,
     "show_startapp_banner": false
+    "show_app_share_dialog": true
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
