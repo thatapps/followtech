@@ -21,6 +21,6 @@
   "highlight_search": true,
   "primaryUrl": "https://iproyal.com/ip-lookup/",
   "backupUrl": "https://www.iplocation.net/",
-  "listUpdateThresholdHours": "12",
+  "listUpdateThresholdHours": "6",
   "enableCheckLocation": false
 }
