@@ -1,5 +1,5 @@
 { 
-    "version": "1.42", 
+    "version": "1.43", 
     "messages": {
         "en": [ "<b>What's New</b>", "<ul><li>Important Update</li><li>Account Engagement Rate Score Added</li><li>Who Visited My Profile Added</li><li>Premium Issues Fixed</li><li>New Reminder To Sync In Notification</li><li>Downloads And Sync Speed Improved</li><li>Stories Issues Fixed</li><li>App Speed Improved</li><li>Bugs Fixed</li><li>Theme Option In Menu</li><li>Language And Theme Option In Menu</li></ul>" ],
         "de": ["<b>Was gibt's Neues</b>", "<ul><li>Wichtiges Update</li><li>Interaktionsrate für Konten hinzugefügt</li><li>'Wer hat mein Profil besucht' hinzugefügt</li><li>Premium-Probleme behoben</li><li>Neue Erinnerung zum Synchronisieren in Benachrichtigungen</li><li>Download- und Synchronisationsgeschwindigkeit verbessert</li><li>Story-Probleme behoben</li><li>App-Geschwindigkeit verbessert</li><li>Fehler behoben</li><li>Design-Option im Menü</li><li>Sprach- und Design-Option im Menü</li></ul>"],
