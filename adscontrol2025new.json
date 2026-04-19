@@ -1,7 +1,7 @@
 {
   "adConfig": {
-    "show_native_login": false,
-    "show_admob_native_ad": false,
+    "show_native_login": true,
+    "show_admob_native_ad": true,
     "show_custom_native_ad": false,
     "show_startapp_banner": false
   },  
