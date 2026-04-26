@@ -1,5 +1,5 @@
 { 
-    "version": "1.46", 
+    "version": "1.49", 
     "messages": {
   "en": [ "<b>What's New</b>", "<ul><li>Major Update</li><li>New Streak Bonus Feature Added</li><li>Fixed Resolved crashes, Premium subscription issues, and Stories glitches.</li><li>New Who Visited My Profile & Engagement Rate Score</li><li>New Sync functionality with smart notification reminders</li><li>Improved Fresher design and faster app performance.</li><li>Resolved crashes for mid-range devices</li><li>New Theme & Language settings in the main menu.</li></ul>" ],
   "de": [ "<b>Was gibt es Neues</b>", "<ul><li>Großes Update</li><li>Neue Streak-Bonus-Funktion hinzugefügt</li><li>Behobene Abstürze, Probleme mit Premium-Abonnements und Story-Fehler gelöst.</li><li>Neu: Wer hat mein Profil besucht & Engagement-Rate-Score</li><li>Neue Synchronisierungsfunktion mit intelligenten Benachrichtigungserinnerungen</li><li>Verbessertes, frischeres Design und schnellere App-Leistung.</li><li>Abstürze bei Mittelklassegeräten behoben</li><li>Neue Themen- und Spracheinstellungen im Hauptmenü.</li></ul>" ],
