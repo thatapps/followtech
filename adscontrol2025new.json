@@ -13,7 +13,7 @@
     
     
      "is_insight_unlocked": true, // False means it will show dialog
-     "show_mass_unfollow": true,  //Show Mass Unfollow in Lists
+     "show_mass_unfollow": false,  //Show Mass Unfollow in Lists
      
     "show_reward_ad_profile_visitors": true
   },  
