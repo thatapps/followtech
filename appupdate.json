@@ -3,179 +3,175 @@
     "messages": {
    "en": [
     "<b>What's New</b>",
-    "<ul><li>Major Update Fixed Last Update Issues</li><li>New Mass Unfollow</li><li>New Streak Premium Bonus</li><li>Fixed Resolved crashes, Premium subscription issues, and Stories glitches.</li><li>Improved Who Visited My Profile & Engagement Rate Score</li><li>Improved Sync functionality with smart notification reminders</li><li>Improved Fresher design and faster app performance.</li><li>Resolved crashes for mid-range devices</li><li>New Theme & Language settings in the main menu.</li></ul>"
+    "<ul><li>Major Update Fixed Last Update Issues</li><li>New Mass Unfollow</li><li>New Streak Premium Bonus</li><li>Fixed Resolved crashes, Premium subscription issues, and Stories glitches.</li></ul>"
   ],
    "de": [
     "<b>Was gibt's Neues</b>",
-    "<ul><li>Großes Update – Fehler der letzten Version behoben</li><li>Neues Massen-Entfolgen</li><li>Neuer Streak-Premium-Bonus</li><li>Behoben: Abstürze, Probleme mit dem Premium-Abo und Stories-Fehler gelöst.</li><li>Verbessert: Profilbesucher & Interaktionsrate-Score</li><li>Verbessert: Synchronisierung mit smarten Benachrichtigungserinnerungen</li><li>Verbessert: Frischeres Design und schnellere App-Performance.</li><li>Abstürze bei Mittelklasse-Geräten behoben</li><li>Neue Design- und Spracheinstellungen im Hauptmenü.</li></ul>"
+    "<ul><li>Großes Update – Fehler der letzten Version behoben</li><li>Neues Massen-Entfolgen</li><li>Neuer Streak-Premium-Bonus</li><li>Behoben: Abstürze, Probleme mit dem Premium-Abo und Stories-Fehler.</li></ul>"
   ],
   "hi": [
     "<b>नया क्या है</b>",
-    "<ul><li>बड़ा अपडेट - पिछले अपडेट की समस्याएं ठीक की गईं</li><li>नया मास अनफॉलो (Mass Unfollow)</li><li>नया स्ट्रीक प्रीमियम बोनस</li><li>ठीक किया गया: क्रैश, प्रीमियम सब्सक्रिप्शन की समस्याएं और स्टोरीज़ की खामियां दूर की गईं।</li><li>बेहतर: किसने मेरा प्रोफाइल देखा और एंगेजमेंट रेट स्कोर</li><li>बेहतर: स्मार्ट नोटिफिकेशन रिमाइंडर के साथ सिंक फंक्शनलिटी</li><li>बेहतर: ताज़ा डिज़ाइन और तेज़ ऐप परफॉर्मेंस।</li><li>मिड-रेंज डिवाइस के लिए क्रैश की समस्या हल की गई</li><li>मुख्य मेनू में नई थीम और भाषा सेटिंग्स।</li></ul>"
+    "<ul><li>बड़ा अपडेट - पिछले अपडेट की समस्याएं ठीक की गईं</li><li>नया मास अनफॉलो</li><li>नया स्ट्रीक प्रीमियम बोनस</li><li>ठीक किया: क्रैश, प्रीमियम सदस्यता समस्याएं, और कहानियां की समस्याएं।</li></ul>"
   ],
   "be": [
     "<b>Што новага</b>",
-    "<ul><li>Асноўнае абнаўленне — выпраўлены памылкі мінулай версіі</li><li>Новае масавае адпісванне</li><li>Новы прэміум-бонус за серыю дзён (Streak)</li><li>Выпраўлена: вырашаны праблемы з вылетамі, прэміум-падпіскай і памылкамі ў гісторыях.</li><li>Палепшана: «Хто наведваў мой профіль» і рэйтынг уцягнутасці</li><li>Палепшана: функцыя сінхранізацыі з разумнымі напамінамі</li><li>Палепшана: свежы дызайн і больш хуткая праца праграмы.</li><li>Выпраўлены вылеты на прыладах сярэдняга класа</li><li>Новыя налады тэмы і мовы ў галоўным меню.</li></ul>"
+    "<ul><li>Асноўнае абнаўленне — выпраўлены памылкі мінулай версіі</li><li>Новае масавае адпісванне</li><li>Новы прэміум-бонус Streak</li><li>Выпраўлена: збоі, праблемы з прэміум-падпіскай і памылкі Stories.</li></ul>"
   ],
   "fi": [
     "<b>Mitä uutta</b>",
-    "<ul><li>Suuri päivitys – edellisen päivityksen ongelmat korjattu</li><li>Uusi Mass Unfollow (massaseuraamisen lopetus)</li><li>Uusi Streak-premium-bonus</li><li>Korjattu: sovelluksen kaatumiset, premium-tilauksen ongelmat ja tarinoiden (Stories) virheet ratkaistu.</li><li>Parannettu: Kuka vieraili profiilissani & sitoutumisaste</li><li>Parannettu: Synkronointi älykkäillä ilmoitusmuistutuksilla</li><li>Parannettu: Uusi ulkoasu ja nopeampi suorituskyky.</li><li>Korjattu keskitason laitteiden kaatumisongelmat</li><li>Uudet teema- ja kieliasetukset päävalikossa.</li></ul>"
+    "<ul><li>Suuri päivitys – edellisen päivityksen ongelmat korjattu</li><li>Uusi Mass Unfollow</li><li>Uusi Streak Premium -bonus</li><li>Korjattu: sovelluksen kaatumisesta, Premium-tilausongelmista ja Stories-virheistä.</li></ul>"
   ],
   "ru": [
     "<b>Что нового</b>",
-    "<ul><li>Крупное обновление — исправлены ошибки прошлой версии</li><li>Новая функция массовой отписки</li><li>Новый премиум-бонус за серию дней (Streak)</li><li>Исправлено: устранены вылеты, проблемы с премиум-подпиской и баги в историях.</li><li>Улучшено: «Кто посещал мой профиль» и рейтинг вовлеченности</li><li>Улучшено: синхронизация с умными уведомлениями-напоминаниями</li><li>Улучшено: обновленный дизайн и ускоренная работа приложения.</li><li>Решена проблема вылетов на устройствах среднего сегмента</li><li>Новые настройки темы и языка в главном меню.</li></ul>"
+    "<ul><li>Крупное обновление — исправлены ошибки прошлой версии</li><li>Новая функция массовой отписки</li><li>Новый премиум-бонус Streak</li><li>Исправлено: сбои, проблемы с премиум-подпиской и ошибки Stories.</li></ul>"
   ],
   "pt": [
     "<b>O que há de novo</b>",
-    "<ul><li>Atualização Principal – Erros da última versão corrigidos</li><li>Novo Deixar de Seguir em Massa</li><li>Novo Bónus Premium de Streak</li><li>Corrigido: Resolvidos crashes, problemas na assinatura Premium e falhas nos Stories.</li><li>Melhorado: Quem visitou o meu perfil e pontuação de taxa de interação</li><li>Melhorado: Funcionalidade de sincronização com lembretes inteligentes</li><li>Melhorado: Design renovado e desempenho mais rápido.</li><li>Resolvidos crashes em dispositivos de gama média</li><li>Novas definições de tema e idioma no menu principal.</li></ul>"
+    "<ul><li>Atualização Principal – Erros da última versão corrigidos</li><li>Novo Deixar de Seguir em Massa</li><li>Novo Bónus Premium de Streak</li><li>Corrigido: Resolvidos crashes, problemas de subscrição Premium e erros de Stories.</li></ul>"
   ],
   "bg": [
     "<b>Какво ново</b>",
-    "<ul><li>Основна актуализация – поправени грешки от последната версия</li><li>Ново масово отписване (Mass Unfollow)</li><li>Нов Streak Premium бонус</li><li>Поправено: Решени проблеми със сривове, Premium абонамент и грешки в Stories.</li><li>Подобрено: Кой е посетил профила ми и рейтинг на ангажираност</li><li>Подобрено: Синхронизация с умни известия за напомняне</li><li>Подобрено: По-свеж дизайн и по-бърза работа на приложението.</li><li>Решени проблеми със сривове при устройства от среден клас</li><li>Нови настройки за тема и език в главното меню.</li></ul>"
+    "<ul><li>Основна актуализация – поправени грешки от последната версия</li><li>Ново масово отписване</li><li>Нов Premium бонус за Streak</li><li>Поправено: Разрешени срива, проблеми с Premium абонамента и грешки на Stories.</li></ul>"
   ],
   "fil": [
     "<b>Ano'ng Bago</b>",
-    "<ul><li>Pangunahing Update – Inayos ang mga isyu sa huling update</li><li>Bagong Mass Unfollow</li><li>Bagong Streak Premium Bonus</li><li>Inayos: Nilutas ang mga pag-crash, isyu sa Premium subscription, at glitches sa Stories.</li><li>Pinahusay: Sino ang Bumisita sa Aking Profile at Engagement Rate Score</li><li>Pinahusay: Sync functionality na may smart notification reminders</li><li>Pinahusay: Mas bagong design at mas mabilis na performance ng app.</li><li>Inayos ang mga pag-crash para sa mga mid-range na device</li><li>Bagong Theme at Language settings sa main menu.</li></ul>"
+    "<ul><li>Pangunahing Update – Inayos ang mga isyu sa huling update</li><li>Bagong Mass Unfollow</li><li>Bagong Streak Premium Bonus</li><li>Inayos: Nilutas ang mga pag-crash, isyu sa Premium subscription at Stories glitches.</li></ul>"
   ],
   "lt": [
     "<b>Kas naujo</b>",
-    "<ul><li>Pagrindinis atnaujinimas – ištaisytos ankstesnės versijos klaidos</li><li>Naujas masinis sekimo atšaukimas</li><li>Naujas „Streak“ Premium bonusas</li><li>Ištaisyta: pašalinti strigimai, Premium prenumeratos problemos ir „Stories“ klaidos.</li><li>Patobulinta: „Kas lankėsi mano profilyje“ ir įsitraukimo rodiklis</li><li>Patobulinta: sinchronizacija su išmaniais priminimais</li><li>Patobulinta: atnaujintas dizainas ir greitesnis programėlės veikimas.</li><li>Ištaisyti strigimai vidutinės klasės įrenginiuose</li><li>Nauji temos ir kalbos nustatymai pagrindiniame meniu.</li></ul>"
+    "<ul><li>Pagrindinis atnaujinimas – ištaisytos ankstesnės versijos klaidos</li><li>Naujas masinis sekimo atšaukimas</li><li>Naujas „Streak" Premium bonusas</li><li>Ištaisyta: Pašalinti iškrypimai, Premium prenumeratos problemos ir Stories klaidos.</li></ul>"
   ],
   "hr": [
     "<b>Što je novo</b>",
-    "<ul><li>Glavno ažuriranje – ispravljeni problemi iz prošle verzije</li><li>Novo masovno otpraćivanje</li><li>Novi Streak Premium bonus</li><li>Ispravljeno: Riješena rušenja, problemi s Premium pretplatom i greške u pričama (Stories).</li><li>Poboljšano: Tko je posjetio moj profil i ocjena angažmana</li><li>Poboljšano: Funkcija sinkronizacije s pametnim podsjetnicima</li><li>Poboljšano: Svježiji dizajn i brži rad aplikacije.</li><li>Riješena rušenja na uređajima srednje klase</li><li>Nove postavke teme i jezika u glavnom izborniku.</li></ul>"
+    "<ul><li>Glavno ažuriranje – ispravljeni problemi iz prošle verzije</li><li>Novo masovno otpraćivanje</li><li>Novi Streak Premium bonus</li><li>Ispravljeno: Riješena rušenja, problemi s Premium pretplatom i greške Stories.</li></ul>"
   ],
   "fr": [
     "<b>Quoi de neuf</b>",
-    "<ul><li>Mise à jour majeure – Correction des problèmes de la dernière version</li><li>Nouveau désabonnement en masse</li><li>Nouveau bonus Premium de série (Streak)</li><li>Corrigé : Résolution des plantages, des problèmes d'abonnement Premium et des bugs de Stories.</li><li>Amélioré : Qui a visité mon profil et score de taux d'engagement</li><li>Amélioré : Fonctionnalité de synchronisation avec rappels intelligents</li><li>Amélioré : Design rafraîchi et performances accrues.</li><li>Plantages résolus pour les appareils de milieu de gamme</li><li>Nouveaux paramètres de thème et de langue dans le menu principal.</li></ul>"
+    "<ul><li>Mise à jour majeure – Correction des problèmes de la dernière version</li><li>Nouveau désabonnement en masse</li><li>Nouveau bonus Premium de série (Streak)</li><li>Corrigé : Résolu les plantages, les problèmes d'abonnement Premium et les erreurs Stories.</li></ul>"
   ],
   "hu": [
     "<b>Újdonságok</b>",
-    "<ul><li>Fő frissítés – Az előző verzió hibái javítva</li><li>Új tömeges követés-leállítás</li><li>Új Streak Premium bónusz</li><li>Javítva: Összeomlások, Premium előfizetési hibák és Stories problémák megoldva.</li><li>Fejlesztve: Profil megtekintők és elkötelezettségi mutató</li><li>Fejlesztve: Szinkronizáció okos emlékeztetőkkel</li><li>Fejlesztve: Frissebb dizájn és gyorsabb működés.</li><li>Középkategóriás eszközök összeomlásai javítva</li><li>Új téma- és nyelvbeállítások a főmenüben.</li></ul>"
+    "<ul><li>Fő frissítés – Az előző verzió hibái javítva</li><li>Új tömeges követés-leállítás</li><li>Új Streak Premium bónusz</li><li>Javítva: Összeomlások, Premium előfizetési problémák és Stories hibák.</li></ul>"
   ],
   "uk": [
     "<b>Що нового</b>",
-    "<ul><li>Головне оновлення — виправлено помилки попередньої версії</li><li>Нова функція масової відписки</li><li>Новий преміум-бонус за серію днів (Streak)</li><li>Виправлено: усунуто вильоти, проблеми з преміум-підпискою та помилки в історіях.</li><li>Покращено: «Хто відвідував мій профіль» та рейтинг залученості</li><li>Покращено: синхронізація з розумними сповіщеннями-нагадуваннями</li><li>Покращено: оновлений дизайн та швидша робота додатка.</li><li>Виправлено вильоти на пристроях середнього сегмента</li><li>Нові налаштування теми та мови в головному меню.</li></ul>"
+    "<ul><li>Головне оновлення — виправлено помилки попередньої версії</li><li>Нова функція масової відписки</li><li>Новий преміум-бонус Streak</li><li>Виправлено: Усунені збої, проблеми з преміум-підпискою та помилки Stories.</li></ul>"
   ],
   "sk": [
     "<b>Čo je nové</b>",
-    "<ul><li>Hlavná aktualizácia – chyby z poslednej verzie opravené</li><li>Nové hromadné zrušenie sledovania</li><li>Nový Streak Premium bonus</li><li>Opravené: Vyriešené pády, problémy s Premium predplatným a chyby v Stories.</li><li>Vylepšené: Kto navštívil môj profil a skóre miery zapojenia</li><li>Vylepšené: Synchronizácia s inteligentnými pripomienkami</li><li>Vylepšené: Sviežejší dizajn a rýchlejší výkon aplikácie.</li><li>Vyriešené pády na zariadeniach strednej triedy</li><li>Nové nastavenia témy a jazyka v hlavnom menu.</li></ul>"
+    "<ul><li>Hlavná aktualizácia – chyby z poslednej verzie opravené</li><li>Nové hromadné zrušenie sledovania</li><li>Nový Streak Premium bonus</li><li>Opravené: Vyriešené pádu, problémy s Premium predplatným a chyby Stories.</li></ul>"
   ],
   "sl": [
     "<b>Kaj je novega</b>",
-    "<ul><li>Glavna posodobitev – odpravljene težave prejšnje različice</li><li>Novo množično odpremljanje</li><li>Nov Streak Premium bonus</li><li>Popravljeno: Odpravljene sesutja, težave s Premium naročnino in napake v zgodbah (Stories).</li><li>Izboljšano: Kdo je obiskal moj profil in ocena stopnje vpletenosti</li><li>Izboljšano: Sinhronizacija s pametnimi opomniki</li><li>Izboljšano: Svež dizajn in hitrejše delovanje aplikacije.</li><li>Odpravljena sesutja na napravah srednjega razreda</li><li>Nove nastavitve teme in jezika v glavnem meniju.</li></ul>"
+    "<ul><li>Glavna posodobitev – odpravljene težave prejšnje različice</li><li>Novo množično odpremljanje</li><li>Nov Streak Premium bonus</li><li>Popravljeno: Odpravljene sesutja, težave s Premium naročnino in napake Stories.</li></ul>"
   ],
   "ca": [
     "<b>Novetats</b>",
-    "<ul><li>Actualització principal: problemes de l'última versió corregits</li><li>Nou Deixar de seguir en massa</li><li>Nou bonus Premium de ratxa (Streak)</li><li>Corregit: resolts els errors de tancament, problemes de subscripció Premium i fallades a Stories.</li><li>Millorat: Qui ha visitat el meu perfil i puntuació d'interacció</li><li>Millorat: funcionalitat de sincronització amb recordatoris intel·ligents</li><li>Millorat: disseny més fresc i millor rendiment de l'aplicació.</li><li>Errors de tancament resolts per a dispositius de gama mitjana</li><li>Noves configuracions de tema i idioma al menú principal.</li></ul>"
+    "<ul><li>Actualització principal: problemes de l'última versió corregits</li><li>Nou Deixar de seguir en massa</li><li>Nou bonus Premium de ratxa (Streak)</li><li>Corregit: resolts els errors, problemes de subscripció Premium i errades de Stories.</li></ul>"
   ],
   "mk": [
     "<b>Што е ново</b>",
-    "<ul><li>Главна надградба – поправени проблемите од минатата верзија</li><li>Ново масовно отследување</li><li>Нов Streak Premium бонус</li><li>Поправено: Решени падови, проблеми со Premium претплата и грешки во Stories.</li><li>Подобрено: Кој го посетил мојот профил и рејтинг на ангажираност</li><li>Подобрено: Синхронизација со паметни потсетници</li><li>Подобрено: Посвеж дизајн и побрза работа на апликацијата.</li><li>Решени падови кај уреди од средна класа</li><li>Нови поставки за тема и јазик во главното мени.</li></ul>"
+    "<ul><li>Главна надградба – поправени проблемите од минатата верзија</li><li>Ново масовно отследување</li><li>Нов Premium бонус Streak</li><li>Поправено: Исправени пропадања, проблеми со Premium претплата и грешки на Stories.</li></ul>"
   ],
   "sq": [
     "<b>Çfarë ka të re</b>",
-    "<ul><li>Përditësim Kryesor – Rregulluar problemet e fundit</li><li>Opsion i ri për Mass Unfollow</li><li>Bonus i ri Premium për Streak</li><li>Rregulluar: Zgjidhur mbylljet e papritura, problemet me abonimin Premium dhe gabimet në Stories.</li><li>Përmirësuar: Kush e vizitoi profilin tim dhe vlerësimi i angazhimit</li><li>Përmirësuar: Sinkronizimi me kujtesa inteligjente të njoftimeve</li><li>Përmirësuar: Dizajn i ri dhe performancë më e shpejtë e aplikacionit.</li><li>Zgjidhur mbylljet e papritura për pajisjet e rangut të mesëm</li><li>Cilësime të reja për temën dhe gjuhën në menunë kryesore.</li></ul>"
+    "<ul><li>Përditësim Kryesor – Rregulluar problemet e fundit</li><li>Opsion i ri për Mass Unfollow</li><li>Bonus i ri Premium për Streak</li><li>Rregulluar: Zgjidhur mbylljet e papritura, probleme me abonimin Premium dhe gabimet e Stories.</li></ul>"
   ],
   "ml": [
     "<b>എന്താണ് പുതിയത്</b>",
-    "<ul><li>പ്രധാന അപ്‌ഡേറ്റ് - അവസാന അപ്‌ഡേറ്റിലെ പ്രശ്നങ്ങൾ പരിഹരിച്ചു</li><li>പുതിയ മാസ് അൺഫോളോ (Mass Unfollow)</li><li>പുതിയ സ്ട്രീക്ക് പ്രീമിയം ബോണസ്</li><li>പരിഹരിച്ചു: ക്രാഷുകൾ, പ്രീമിയം സബ്‌സ്‌ക്രിപ്‌ഷൻ പ്രശ്നങ്ങൾ, സ്റ്റോറീസ് പിശകുകൾ എന്നിവ പരിഹരിച്ചു.</li><li>മെച്ചപ്പെടുത്തി: എന്റെ പ്രൊഫൈൽ സന്ദർശിച്ചവർ & എൻഗേജ്‌മെന്റ് റേറ്റ് സ്കോർ</li><li>മെച്ചപ്പെടുത്തി: സ്മാർട്ട് നോട്ടിഫിക്കേഷൻ റിമൈൻഡറുകളുള്ള സിങ്ക് ഫീച്ചർ</li><li>മെച്ചപ്പെടുത്തി: പുതിയ ഡിസൈനും വേഗതയേറിയ ആപ്പ് പെർഫോമൻസും.</li><li>മിഡ്-റേഞ്ച് ഉപകരണങ്ങൾക്കായുള്ള ക്രാഷ് പ്രശ്നങ്ങൾ പരിഹരിച്ചു</li><li>മെയിൻ മെനുവിൽ പുതിയ തീം, ഭാഷാ ക്രമീകരണങ്ങൾ.</li></ul>"
+    "<ul><li>പ്രധാന അപ്‌ഡേറ്റ് - അവസാന അപ്‌ഡേറ്റിലെ പ്രശ്നങ്ങൾ പരിഹരിച്ചു</li><li>പുതിയ Mass Unfollow</li><li>പുതിയ Streak Premium ബോണസ്</li><li>പരിഹരിച്ചു: ക്രാഷ്, Premium സബ്സ്ക്രിപ്ഷൻ പ്രശ്നങ്ങൾ, Stories പ്രശ്നങ്ങൾ.</li></ul>"
   ],
   "sr": [
     "<b>Шта је ново</b>",
-    "<ul><li>Главно ажурирање – исправљени проблеми из прошле верзије</li><li>Ново масовно отпраћивање</li><li>Нови Streak Premium бонус</li><li>Исправљено: Решена рушења, проблеми са Премиум претплатом и грешке у причама (Stories).</li><li>Побољшано: Ко је посетио мој профил и оцена ангажовања</li><li>Побољшано: Синхронизација са паметним подсетницима</li><li>Побољшано: Освежен дизајн и бржи рад апликације.</li><li>Решена рушења на уређајима средње класе</li><li>Нова подешавања теме и језика у главном менију.</li></ul>"
+    "<ul><li>Главно ажурирање – исправљени проблеми из прошле верзије</li><li>Ново масовно отпраћивање</li><li>Нови Streak Premium бонус</li><li>Исправљено: Решена рушења, проблеми са Premium претплатом и грешке Stories.</li></ul>"
   ],
   "sv": [
     "<b>Vad är nytt</b>",
-    "<ul><li>Stor uppdatering – Fel från senaste versionen åtgärdade</li><li>Nytt Mass Unfollow</li><li>Ny Streak Premium-bonus</li><li>Åtgärdat: Löst krascher, problem med Premium-prenumeration och Stories-fel.</li><li>Förbättrat: Vilka som besökt min profil & engagemangsgrad</li><li>Förbättrat: Synkronisering med smarta aviseringar</li><li>Förbättrat: Fräschare design och snabbare app-prestanda.</li><li>Löst krascher för mellanklass-enheter</li><li>Nya tema- och språkinställningar i huvudmenyn.</li></ul>"
+    "<ul><li>Stor uppdatering – Fel från senaste versionen åtgärdade</li><li>Nytt Mass Unfollow</li><li>Ny Streak Premium-bonus</li><li>Åtgärdat: Löst krascher, problem med Premium-prenumeration och Stories-fel.</li></ul>"
   ],
   "ko": [
     "<b>새로운 기능</b>",
-    "<ul><li>주요 업데이트 - 지난 업데이트 문제 해결</li><li>새로운 대량 언팔로우 기능</li><li>새로운 스트릭(Streak) 프리미엄 보너스</li><li>수정: 앱 종료 현상, 프리미엄 구독 문제 및 스토리 오류 해결.</li><li>개선: 프로필 방문자 확인 및 참여율 점수</li><li>개선: 스마트 알림 리마인더를 통한 동기화 기능</li><li>개선: 세련된 디자인 및 더 빠른 앱 성능.</li><li>중급 사양 기기에서의 앱 종료 문제 해결</li><li>메인 메뉴에 새로운 테마 및 언어 설정 추가.</li></ul>"
+    "<ul><li>주요 업데이트 - 지난 업데이트 문제 해결</li><li>새로운 대량 언팔로우 기능</li><li>새로운 스트릭(Streak) 프리미엄 보너스</li><li>수정: 앱 종료, 프리미엄 구독 문제 및 스토리 오류 해결.</li></ul>"
   ],
   "af": [
     "<b>Wat is nuut</b>",
-    "<ul><li>Groot Opdatering – Vorige foute reggestel</li><li>Nuwe Mass Unfollow</li><li>Nuwe Streak Premium-bonus</li><li>Reggestel: Toepassingsfoute, Premium-intekeningprobleme en Stories-foute opgelos.</li><li>Verbeter: Wie het my profiel besoek & interaksietelling</li><li>Verbeter: Sinkronisering met slim kennisgewings</li><li>Verbeter: Nuwe ontwerp en vinniger prestasie.</li><li>Toepassingsfoute vir middelklas-toestelle opgelos</li><li>Nuwe tema- en taalinstellings in die hoofkieslys.</li></ul>"
+    "<ul><li>Groot Opdatering – Vorige foute reggestel</li><li>Nuwe Mass Unfollow</li><li>Nuwe Streak Premium-bonus</li><li>Reggestel: Toepassingsfoute, Premium-intekeningprobleme en Stories-foute opgelós.</li></ul>"
   ],
   "in": [
     "<b>Apa yang Baru</b>",
-    "<ul><li>Pembaruan Besar – Masalah pada pembaruan terakhir diperbaiki</li><li>Fitur Mass Unfollow Baru</li><li>Bonus Streak Premium Baru</li><li>Diperbaiki: Masalah crash, langganan Premium, dan bug pada Stories telah diatasi.</li><li>Ditingkatkan: Siapa yang Mengunjungi Profil Saya & Skor Tingkat Interaksi</li><li>Ditingkatkan: Fungsi sinkronisasi dengan pengingat notifikasi pintar</li><li>Ditingkatkan: Desain lebih segar dan performa aplikasi lebih cepat.</li><li>Masalah crash pada perangkat kelas menengah telah diatasi</li><li>Pengaturan Tema & Bahasa baru di menu utama.</li></ul>"
+    "<ul><li>Pembaruan Besar – Masalah pada pembaruan terakhir diperbaiki</li><li>Fitur Mass Unfollow Baru</li><li>Bonus Streak Premium Baru</li><li>Diperbaiki: Masalah crash, langganan Premium dan error Stories.</li></ul>"
   ],
   "ms": [
     "<b>Apa yang Baharu</b>",
-    "<ul><li>Kemas Kini Utama – Masalah kemas kini terakhir diperbaiki</li><li>Ciri Mass Unfollow Baharu</li><li>Bonus Streak Premium Baharu</li><li>Diperbaiki: Masalah crash, langganan Premium, dan pepijat Stories telah diselesaikan.</li><li>Dipertingkatkan: Siapa yang Melawat Profil Saya & Skor Kadar Interaksi</li><li>Dipertingkatkan: Fungsi penyelarasan dengan peringatan pemberitahuan pintar</li><li>Dipertingkatkan: Reka bentuk lebih segar dan prestasi aplikasi lebih pantas.</li><li>Masalah crash untuk peranti kelas pertengahan telah diselesaikan</li><li>Tetapan Tema & Bahasa baharu dalam menu utama.</li></ul>"
+    "<ul><li>Kemas Kini Utama – Masalah kemas kini terakhir diperbaiki</li><li>Ciri Mass Unfollow Baharu</li><li>Bonus Streak Premium Baharu</li><li>Diperbaiki: Masalah crash, langganan Premium dan ralat Stories.</li></ul>"
   ],
   "el": [
     "<b>Τι νέο υπάρχει</b>",
-    "<ul><li>Σημαντική ενημέρωση – Διορθώθηκαν τα προβλήματα της τελευταίας έκδοσης</li><li>Νέα λειτουργία Mass Unfollow</li><li>Νέο Streak Premium Bonus</li><li>Διορθώθηκε: Επιλύθηκαν τα κολλήματα, τα προβλήματα με την Premium συνδρομή και τα σφάλματα στα Stories.</li><li>Βελτιώθηκε: Ποιος επισκέφθηκε το προφίλ μου & Σκορ αλληλεπίδρασης</li><li>Βελτιώθηκε: Λειτουργία συγχρονισμού με έξυπνες ειδοποιήσεις</li><li>Βελτιώθηκε: Φρέσκος σχεδιασμός και ταχύτερη απόδοση της εφαρμογής.</li><li>Επιλύθηκαν τα κολλήματα σε συσκευές μεσαίας κατηγορίας</li><li>Νέες ρυθμίσεις θέματος και γλώσσας στο κύριο μενού.</li></ul>"
+    "<ul><li>Σημαντική ενημέρωση – Διορθώθηκαν τα προβλήματα της τελευταίας έκδοσης</li><li>Νέα λειτουργία Mass Unfollow</li><li>Νέο Premium bonus Streak</li><li>Διορθώθηκε: Διορθώθησαν κατακλυσμοί, προβλήματα Premium συνδρομής και σφάλματα Stories.</li></ul>"
   ],
   "it": [
     "<b>Novità</b>",
-    "<ul><li>Aggiornamento principale – Risolti i problemi dell'ultima versione</li><li>Nuovo Unfollow di massa</li><li>Nuovo Bonus Premium Streak</li><li>Risolto: Risolti crash, problemi con l'abbonamento Premium e bug nelle Stories.</li><li>Migliorato: Chi ha visitato il mio profilo e punteggio del tasso di coinvolgimento</li><li>Migliorato: Funzionalità di sincronizzazione con promemoria intelligenti</li><li>Migliorato: Design rinnovato e prestazioni più veloci.</li><li>Risolti i crash per i dispositivi di fascia media</li><li>Nuove impostazioni di tema e lingua nel menu principale.</li></ul>"
+    "<ul><li>Aggiornamento principale – Risolti i problemi dell'ultima versione</li><li>Nuovo Unfollow di massa</li><li>Nuovo Bonus Premium Streak</li><li>Risolto: Risolti crash, problemi con l'abbonamento Premium e errori di Stories.</li></ul>"
   ],
   "es": [
     "<b>Novedades</b>",
-    "<ul><li>Actualización mayor: problemas de la última versión corregidos</li><li>Nuevo Dejar de seguir masivo</li><li>Nuevo bono Premium de racha (Streak)</li><li>Corregido: Resueltos errores de cierre, problemas de suscripción Premium y fallos en Stories.</li><li>Mejorado: Quién visitó mi perfil y puntuación de interacción</li><li>Mejorado: Funcionalidad de sincronización con recordatorios inteligentes</li><li>Mejorado: Diseño más fresco y mejor rendimiento de la aplicación.</li><li>Errores de cierre resueltos para dispositivos de gama media</li><li>Nuevos ajustes de tema e idioma en el menú principal.</li></ul>"
+    "<ul><li>Actualización mayor: problemas de la última versión corregidos</li><li>Nuevo Dejar de seguir masivo</li><li>Nuevo bono Premium de racha (Streak)</li><li>Corregido: Resueltos errores, problemas de suscripción Premium y errores de Stories.</li></ul>"
   ],
   "et": [
     "<b>Mis uut</b>",
-    "<ul><li>Suur uuendus – eelmise versiooni vead parandatud</li><li>Uus massiline jälgimise lõpetamine</li><li>Uus Streak Premium boonus</li><li>Parandatud: lahendatud krahhid, Premium-tellimuse probleemid ja Stories vead.</li><li>Täiustatud: Kes külastas minu profiili ja seotuse tase</li><li>Täiustatud: Sünkroonimine nutikate märguannetega</li><li>Täiustatud: Värske disain ja kiirem rakenduse töö.</li><li>Lahendatud krahhid keskklassi seadmetes</li><li>Uued teema- ja keeleseaded peamenüüs.</li></ul>"
+    "<ul><li>Suur uuendus – eelmise versiooni vead parandatud</li><li>Uus massiline jälgimise lõpetamine</li><li>Uus Streak Premium boonus</li><li>Parandatud: lahendatud krahhid, Premium-tellimuse probleemid ja Stories vead.</li></ul>"
   ],
   "cs": [
     "<b>Co je nového</b>",
-    "<ul><li>Hlavní aktualizace – chyby z poslední verze opraveny</li><li>Nové hromadné zrušení sledování</li><li>Nový Streak Premium bonus</li><li>Opraveno: Vyřešeny pády, problémy s Premium předplatným a chyby ve Stories.</li><li>Vylepšeno: Kdo navštívil můj profil a skóre míry zapojení</li><li>Vylepšeno: Synchronizace s chytrými připomínkami</li><li>Vylepšeno: Svěžejší design a rychlejší výkon aplikace.</li><li>Vyřešeny pády u zařízení střední třídy</li><li>Nová nastavení motivu a jazyka v hlavním menu.</li></ul>"
+    "<ul><li>Hlavní aktualizace – chyby z poslední verze opraveny</li><li>Nové hromadné zrušení sledování</li><li>Nový Streak Premium bonus</li><li>Opraveno: Vyřešeny pády, problémy s Premium předplatným a chyby Stories.</li></ul>"
   ],
   "eu": [
     "<b>Berrikuntzak</b>",
-    "<ul><li>Eguneratze nagusia – Azken eguneratzearen arazoak konponduta</li><li>Mass Unfollow berria</li><li>Streak Premium bonus berria</li><li>Konponduta: Kraskadurak, Premium harpidetza arazoak eta Stories akatsak konponduta.</li><li>Hobetuta: Nork bisitatu duen nire profila eta interakzio tasa</li><li>Hobetuta: Sinkronizazioa jakinarazpen-ohartarazle adimentsuekin</li><li>Hobetuta: Diseinu berritua eta aplikazioaren errendimendu azkarragoa.</li><li>Gama ertaineko gailuentzako kraskadurak konponduta</li><li>Gai eta hizkuntza ezarpen berriak menu nagusian.</li></ul>"
+    "<ul><li>Eguneratze nagusia – Azken eguneratzearen arazoak konponduta</li><li>Mass Unfollow berria</li><li>Streak Premium bonus berria</li><li>Konponduta: Kraskadurak, Premium harpidetza arazo eta Stories errorak konponduta.</li></ul>"
   ],
   "ar": [
     "<b>ما الجديد</b>",
-    "<ul><li>تحديث رئيسي - تم إصلاح مشاكل التحديث الأخير</li><li>ميزة إلغاء المتابعة الجماعي الجديدة</li><li>مكافأة ستريك (Streak) بريميوم الجديدة</li><li>تم الإصلاح: حل مشاكل التوقف المفاجئ، واشتراكات البريميوم، وأعطال القصص (Stories).</li><li>تحسين: من زار ملفي الشخصي ودرجة معدل التفاعل</li><li>تحسين: خاصية المزامنة مع تذكيرات الإشعارات الذكية</li><li>تحسين: تصميم أحدث وأداء أسرع للتطبيق.</li><li>حل مشكلة التوقف المفاجئ للأجهزة المتوسطة</li><li>إعدادات جديدة للمظهر واللغة في القائمة الرئيسية.</li></ul>"
+    "<ul><li>تحديث رئيسي - تم إصلاح مشاكل التحديث الأخير</li><li>ميزة إلغاء المتابعة الجماعي الجديدة</li><li>مكافأة ستريك Premium جديدة</li><li>تم الإصلاح: تم حل الأعطال ومشاكل الاشتراك Premium وأخطاء Stories.</li></ul>"
   ],
   "vi": [
     "<b>Có gì mới</b>",
-    "<ul><li>Cập nhật lớn – Đã sửa các lỗi của bản cập nhật trước</li><li>Tính năng Hủy theo dõi hàng loạt mới</li><li>Thưởng Streak Premium mới</li><li>Đã sửa: Khắc phục các sự cố treo máy, đăng ký Premium và lỗi Stories.</li><li>Cải thiện: Ai đã xem hồ sơ của tôi & Điểm tương tác</li><li>Cải thiện: Chức năng đồng bộ hóa với lời nhắc thông báo thông minh</li><li>Cải thiện: Thiết kế mới mẻ và hiệu suất ứng dụng nhanh hơn.</li><li>Khắc phục lỗi treo máy cho các thiết bị tầm trung</li><li>Cài đặt Chủ đề & Ngôn ngữ mới trong menu chính.</li></ul>"
+    "<ul><li>Cập nhật lớn – Đã sửa các lỗi của bản cập nhật trước</li><li>Tính năng Hủy theo dõi hàng loạt mới</li><li>Thưởng Streak Premium mới</li><li>Đã sửa: Đã khắc phục các sự cố, sự cố đăng ký Premium và lỗi Stories.</li></ul>"
   ],
   "th": [
     "<b>มีอะไรใหม่</b>",
-    "<ul><li>การอัปเดตครั้งใหญ่ – แก้ไขปัญหาจากการอัปเดตครั้งล่าสุด</li><li>ฟีเจอร์เลิกติดตามจำนวนมาก (Mass Unfollow) ใหม่</li><li>โบนัส Streak Premium ใหม่</li><li>แก้ไขแล้ว: แก้ไขปัญหาแอปค้าง, ปัญหาสมาชิก Premium และข้อผิดพลาดใน Stories</li><li>ปรับปรุง: ใครมาดูโปรไฟล์ของฉัน & คะแนนอัตราการมีส่วนร่วม</li><li>ปรับปรุง: ฟังก์ชันการซิงค์พร้อมการแจ้งเตือนอัจฉริยะ</li><li>ปรับปรุง: ดีไซน์ใหม่และประสิทธิภาพแอปที่เร็วขึ้น</li><li>แก้ไขปัญหาแอปค้างสำหรับอุปกรณ์ระดับกลาง</li><li>การตั้งค่าธีมและภาษาใหม่ในเมนูหลัก</li></ul>"
+    "<ul><li>การอัปเดตครั้งใหญ่ – แก้ไขปัญหาจากการอัปเดตครั้งล่าสุด</li><li>ฟีเจอร์ Unfollow แบบหมู่ใหม่</li><li>โบนัส Streak Premium ใหม่</li><li>แก้ไข: แก้ไขการขัดข้อง ปัญหาการสมัครสมาชิก Premium และข้อผิดพลาด Stories</li></ul>"
   ],
   "ja": [
     "<b>新機能</b>",
-    "<ul><li>大型アップデート - 前回のアップデートの問題を修正</li><li>新しい一括フォロー解除機能</li><li>新しいストリーク・プレミアムボーナス</li><li>修正：クラッシュ、プレミアム購読の問題、ストーリーズの不具合を解決。</li><li>改善：プロフィールの閲覧者確認とエンゲージメント率スコア</li><li>改善：スマート通知リマインダーによる同期機能</li><li>改善：デザインの刷新とアプリのパフォーマンス向上。</li><li>ミドルレンジ端末でのクラッシュ問題を解決</li><li>メインメニューに新しいテーマと言語設定を追加。</li></ul>"
+    "<ul><li>大型アップデート - 前回のアップデートの問題を修正</li><li>新しい一括フォロー解除機能</li><li>新しいストリーク・プレミアムボーナス</li><li>修正: クラッシュ、プレミアム購読の問題、Stories の問題を解決しました。</li></ul>"
   ],
   "az": [
     "<b>Yeniliklər</b>",
-    "<ul><li>Əsas Yeniləmə – Son yeniləmədəki problemlər düzəldildi</li><li>Yeni Kütləvi İzləmədən Çıxma (Mass Unfollow)</li><li>Yeni Streak Premium Bonusu</li><li>Düzəldildi: Çöküşlər, Premium abunə problemləri və Stories xətaları həll edildi.</li><li>Təkmilləşdirildi: Profilimə kim baxdı və nişanlılıq dərəcəsi</li><li>Təkmilləşdirildi: Ağıllı bildiriş xatırlatmaları ilə sinxronizasiya funksiyası</li><li>Təkmilləşdirildi: Daha yeni dizayn və daha sürətli tətbiq performansı.</li><li>Orta səviyyəli cihazlar üçün çöküşlər həll edildi</li><li>Əsas menyuda yeni Mövzu və Dil ayarları.</li></ul>"
+    "<ul><li>Əsas Yeniləmə – Son yeniləmədəki problemlər düzəldildi</li><li>Yeni Kütləvi İzləmədən Çıxma (Mass Unfollow)</li><li>Yeni Streak Premium Bonusu</li><li>Düzəldildi: Qırılmalar, Premium abonelik problemləri və Stories xətaları həll edildi.</li></ul>"
   ],
   "fa": [
     "<b>چه خبر</b>",
-    "<ul><li>به‌روزرسانی بزرگ - مشکلات به‌روزرسانی قبلی برطرف شد</li><li>قابلیت جدید آنفالو دسته‌جمعی</li><li>بونوس جدید استریک (Streak) پریمیوم</li><li>برطرف شد: رفع کرش‌ها، مشکلات اشتراک پریمیوم و باگ‌های استوری.</li><li>بهبود یافت: چه کسی از پروفایل من بازدید کرد و امتیاز نرخ تعامل</li><li>بهبود یافت: قابلیت همگام‌سازی با یادآورهای هوشمند اعلان</li><li>بهبود یافت: طراحی تازه‌تر و عملکرد سریع‌تر اپلیکیشن.</li><li>رفع مشکل کرش در دستگاه‌های میان‌رده</li><li>تنظیمات جدید تم و زبان در منوی اصلی.</li></ul>"
+    "<ul><li>به‌روزرسانی بزرگ - مشکلات به‌روزرسانی قبلی برطرف شد</li><li>قابلیت جدید آنفالو دسته‌جمعی</li><li>بونوس جدید Streak Premium</li><li>رفع شد: برطرف شدن خرابی‌ها، مشکلات اشتراک Premium و خطاهای Stories.</li></ul>"
   ],
   "pl": [
     "<b>Co nowego</b>",
-    "<ul><li>Główna aktualizacja – naprawiono błędy z poprzedniej wersji</li><li>Nowe masowe odobserwowanie</li><li>Nowy bonus Premium za serię (Streak)</li><li>Naprawiono: Rozwiązano problemy z zawieszaniem się, subskrypcją Premium i błędami w Stories.</li><li>Ulepszono: Kto odwiedził mój profil i wskaźnik zaangażowania</li><li>Ulepszono: Synchronizacja z inteligentnymi przypomnieniami</li><li>Ulepszono: Odświeżony wygląd i szybsze działanie aplikacji.</li><li>Rozwiązano problemy z zawieszaniem się na urządzeniach średniej klasy</li><li>Nowe ustawienia motywu i języka w menu głównym.</li></ul>"
+    "<ul><li>Główna aktualizacja – naprawiono błędy z poprzedniej wersji</li><li>Nowe masowe odobserwowanie</li><li>Nowy bonus Premium za serię (Streak)</li><li>Naprawiono: Rozwiązano awarie, problemy z subskrypcją Premium i błędy Stories.</li></ul>"
   ],
   "da": [
     "<b>Hvad er nyt</b>",
-    "<ul><li>Stor opdatering – fejl fra sidste opdatering rettet</li><li>Ny Mass Unfollow-funktion</li><li>Ny Streak Premium-bonus</li><li>Rettet: Løst nedbrud, problemer med Premium-abonnement og Stories-fejl.</li><li>Forbedret: Hvem har besøgt min profil & engagementsrate</li><li>Forbedret: Synkronisering med smarte notifikationspåmindelser</li><li>Forbedret: Friskere design og hurtigere ydeevne.</li><li>Nedbrud på melleklasse-enheder løst</li><li>Nye tema- og sprogindstillinger i hovedmenuen.</li></ul>"
+    "<ul><li>Stor opdatering – fejl fra sidste opdatering rettet</li><li>Ny Mass Unfollow-funktion</li><li>Ny Streak Premium-bonus</li><li>Rettet: Løst nedbrud, problemer med Premium-abonnement og Stories-fejl.</li></ul>"
   ],
   "ro": [
     "<b>Ce este nou</b>",
-    "<ul><li>Actualizare majoră – Problemele din ultima versiune au fost remediate</li><li>Funcție nouă de Unfollow în masă</li><li>Bonus nou Streak Premium</li><li>Remediat: Au fost rezolvate erorile de sistem, problemele cu abonamentul Premium și bug-urile la Stories.</li><li>Îmbunătățit: Cine mi-a vizitat profilul și scorul ratei de interacțiune</li><li>Îmbunătățit: Funcționalitate de sincronizare cu mementouri inteligente</li><li>Îmbunătățit: Design mai modern și performanță mai rapidă a aplicației.</li><li>Erorile de sistem pentru dispozitivele mid-range au fost rezolvate</li><li>Setări noi de temă și limbă în meniul principal.</li></ul>"
+    "<ul><li>Actualizare majoră – Problemele din ultima versiune au fost remediate</li><li>Funcție nouă de Unfollow în masă</li><li>Bonus nou Streak Premium</li><li>Remediat: Au fost rezolvate defecțiunile, problemele abonamentului Premium și erorile Stories.</li></ul>"
   ],
   "nl": [
     "<b>Wat is er nieuw</b>",
-    "<ul><li>Grote update – fouten uit de vorige versie opgelost</li><li>Nieuwe Mass Unfollow-functie</li><li>Nieuwe Streak Premium-bonus</li><li>Opgelost: Crashes, problemen met Premium-abonnementen en Stories-fouten verholpen.</li><li>Verbeterd: Wie heeft mijn profiel bezocht & betrokkenheidsscore</li><li>Verbeterd: Synchronisatie met slimme meldingen</li><li>Verbeterd: Frisser ontwerp en snellere app-prestaties.</li><li>Crashes op midrange-toestellen verholpen</li><li>Nieuwe thema- en taalinstellingen in het hoofdmenu.</li></ul>"
+    "<ul><li>Grote update – fouten uit de vorige versie opgelost</li><li>Nieuwe Mass Unfollow-functie</li><li>Nieuwe Streak Premium-bonus</li><li>Opgelost: Crashes, problemen met Premium-abonnement en Stories-fouten.</li></ul>"
   ],
   "tr": [
     "<b>Yenilikler</b>",
-    "<ul><li>Büyük Güncelleme – Son güncellemedeki sorunlar giderildi</li><li>Yeni Toplu Takibi Bırakma Özelliği</li><li>Yeni Streak Premium Bonusu</li><li>Düzeltildi: Çökmeler, Premium abonelik sorunları ve Hikayelerdeki hatalar giderildi.</li><li>İyileştirildi: Profilimi Kim Ziyaret Etti & Etkileşim Oranı Puanı</li><li>İyileştirildi: Akıllı bildirim hatırlatıcıları ile senkronizasyon özelliği</li><li>İyileştirildi: Daha taze tasarım ve daha hızlı uygulama performansı.</li><li>Orta segment cihazlar için çökme sorunları çözüldü</li><li>Ana menüde yeni Tema ve Dil ayarları.</li></ul>"
+    "<ul><li>Büyük Güncelleme – Son güncellemedeki sorunlar giderildi</li><li>Yeni Toplu Takibi Bırakma Özelliği</li><li>Yeni Streak Premium Bonusu</li><li>Düzeltildi: Çökmeler, Premium abonelik sorunları ve Stories hataları çözüldü.</li></ul>"
   ]
-
-}
-
-
 
 }
