@@ -1,177 +1,177 @@
 { 
-    "version": "1.54", 
+    "version": "1.55", 
     "messages": {
-   "en": [
+"en": [
     "<b>What's New</b>",
-    "<ul><li>Major Update Fixed Last Update Issues</li><li>New Mass Unfollow</li><li>New Streak Premium Bonus</li><li>Fixed Resolved crashes, Premium subscription issues, and Stories glitches.</li></ul>"
+    "<ul><li>Follower Tracker Widget Added</li><li>Professional Growth Trends Added</li><li>Advanced Best Time to Post Added</li><li>Account Health Indicator Added</li><li>Smart Growth Notifications Added</li><li>Streak Premium Bonus Improved</li><li>Mass Unfollow Improved</li><li>Major Bugs Fixed</li></ul>"
   ],
-   "de": [
+  "de": [
     "<b>Was gibt's Neues</b>",
-    "<ul><li>Großes Update – Fehler der letzten Version behoben</li><li>Neues Massen-Entfolgen</li><li>Neuer Streak-Premium-Bonus</li><li>Behoben: Abstürze, Probleme mit dem Premium-Abo und Stories-Fehler.</li></ul>"
+    "<ul><li>Follower-Tracker-Widget hinzugefügt</li><li>Professionelle Wachstumstrends hinzugefügt</li><li>Erweiterte beste Zeit zum Posten hinzugefügt</li><li>Konto-Gesundheitsindikator hinzugefügt</li><li>Intelligente Wachstumsbenachrichtigungen hinzugefügt</li><li>Streak-Premium-Bonus verbessert</li><li>Massen-Entfolgen verbessert</li><li>Wichtige Fehler behoben</li></ul>"
   ],
   "hi": [
     "<b>नया क्या है</b>",
-    "<ul><li>बड़ा अपडेट - पिछले अपडेट की समस्याएं ठीक की गईं</li><li>नया मास अनफॉलो</li><li>नया स्ट्रीक प्रीमियम बोनस</li><li>ठीक किया: क्रैश, प्रीमियम सदस्यता समस्याएं, और कहानियां की समस्याएं।</li></ul>"
+    "<ul><li>फॉलोअर ट्रैकर विजेट जोड़ा गया</li><li>व्यावसायिक विकास रुझान जोड़े गए</li><li>पोस्ट करने का उन्नत सर्वोत्तम समय जोड़ा गया</li><li>अकाउंट हेल्थ इंडिकेटर जोड़ा गया</li><li>स्मार्ट ग्रोथ नोटिफिकेशन जोड़े गए</li><li>स्ट्रिक प्रीमियम बोनस में सुधार किया गया</li><li>मास अनफॉलो में सुधार किया गया</li><li>बड़ी कमियां दूर की गईं</li></ul>"
   ],
   "be": [
     "<b>Што новага</b>",
-    "<ul><li>Асноўнае абнаўленне — выпраўлены памылкі мінулай версіі</li><li>Новае масавае адпісванне</li><li>Новы прэміум-бонус Streak</li><li>Выпраўлена: збоі, праблемы з прэміум-падпіскай і памылкі Stories.</li></ul>"
+    "<ul><li>Дададзены віджэт адсочвання падпісчыкаў</li><li>Дададзены тэндэнцыі прафесійнага росту</li><li>Дададзены пашыраны лепшы час для публікацыі</li><li>Дададзены індыкатар здароўя акаўнта</li><li>Дададзены разумныя апавяшчэнні пра рост</li><li>Палепшаны прэміум-бонус за серыю</li><li>Палепшана масавая адмена падпіскі</li><li>Выпраўлены асноўныя памылкі</li></ul>"
   ],
   "fi": [
     "<b>Mitä uutta</b>",
-    "<ul><li>Suuri päivitys – edellisen päivityksen ongelmat korjattu</li><li>Uusi Mass Unfollow</li><li>Uusi Streak Premium -bonus</li><li>Korjattu: sovelluksen kaatumisesta, Premium-tilausongelmista ja Stories-virheistä.</li></ul>"
+    "<ul><li>Seuraajien seurantavidjetti lisätty</li><li>Ammatilliset kasvutrendit lisätty</li><li>Kehittynyt paras aika postata lisätty</li><li>Tilin terveysindikaattori lisätty</li><li>Älykkäät kasvuilmoitukset lisätty</li><li>Putken Premium-bonus parannettu</li><li>Massapoisto seurannasta parannettu</li><li>Suuret virheet korjattu</li></ul>"
   ],
   "ru": [
     "<b>Что нового</b>",
-    "<ul><li>Крупное обновление — исправлены ошибки прошлой версии</li><li>Новая функция массовой отписки</li><li>Новый премиум-бонус Streak</li><li>Исправлено: сбои, проблемы с премиум-подпиской и ошибки Stories.</li></ul>"
+    "<ul><li>Добавлен виджет отслеживания подписчиков</li><li>Добавлены тенденции профессионального роста</li><li>Добавлено продвинутое лучшее время для публикации</li><li>Добавлен индикатор здоровья аккаунта</li><li>Добавлены умные уведомления о росте</li><li>Улучшен премиум-бонус за серию дней</li><li>Улучшена функция массовой отписки</li><li>Исправлены основные ошибки</li></ul>"
   ],
   "pt": [
     "<b>O que há de novo</b>",
-    "<ul><li>Atualização Principal – Erros da última versão corrigidos</li><li>Novo Deixar de Seguir em Massa</li><li>Novo Bónus Premium de Streak</li><li>Corrigido: Resolvidos crashes, problemas de subscrição Premium e erros de Stories.</li></ul>"
+    "<ul><li>Widget de rastreamento de seguidores adicionado</li><li>Tendências de crescimento profissional adicionadas</li><li>Melhor horário avançado para postar adicionado</li><li>Indicador de integridade da conta adicionado</li><li>Notificações de crescimento inteligente adicionadas</li><li>Bônus premium de sequência aprimorado</li><li>Deixar de seguir em massa aprimorado</li><li>Principais bugs corrigidos</li></ul>"
   ],
   "bg": [
     "<b>Какво ново</b>",
-    "<ul><li>Основна актуализация – поправени грешки от последната версия</li><li>Ново масово отписване</li><li>Нов Premium бонус за Streak</li><li>Поправено: Разрешени срива, проблеми с Premium абонамента и грешки на Stories.</li></ul>"
+    "<ul><li>Добавен е уиджет за проследяване на последователи</li><li>Добавени са тенденции за професионален растеж</li><li>Добавено е разширено най-добро време за публикуване</li><li>Добавен е индикатор за състоянието на акаунта</li><li>Добавени са интелигентни известия за растеж</li><li>Подобряване на премиум бонуса за серия</li><li>Подобрено масово прекратяване на следването</li><li>Отстранени са основни грешки</li></ul>"
   ],
   "fil": [
     "<b>Ano'ng Bago</b>",
-    "<ul><li>Pangunahing Update – Inayos ang mga isyu sa huling update</li><li>Bagong Mass Unfollow</li><li>Bagong Streak Premium Bonus</li><li>Inayos: Nilutas ang mga pag-crash, isyu sa Premium subscription at Stories glitches.</li></ul>"
+    "<ul><li>Idinagdag ang Widget ng Tagasubaybay ng Follower</li><li>Idinagdag ang Mga Trend sa Propesyonal na Paglago</li><li>Idinagdag ang Advanced na Pinakamagandang Oras para Mag-post</li><li>Idinagdag ang Tagapagpahiwatig ng Kalusugan ng Account</li><li>Idinagdag ang Mga Notification ng Smart Growth</li><li>Pinahusay ang Streak Premium na Bonus</li><li>Pinahusay ang Mass Unfollow</li><li>Inayos ang Mga Pangunahing Bug</li></ul>"
   ],
   "lt": [
     "<b>Kas naujo</b>",
-    "<ul><li>Pagrindinis atnaujinimas – ištaisytos ankstesnės versijos klaidos</li><li>Naujas masinis sekimo atšaukimas</li><li>Naujas „Streak" Premium bonusas</li><li>Ištaisyta: Pašalinti iškrypimai, Premium prenumeratos problemos ir Stories klaidos.</li></ul>"
+    "<ul><li>Pridėtas sekėjų sekimo valdiklis</li><li>Pridėtos profesinio augimo tendencijos</li><li>Pridėtas išplėstinis geriausias laikas skelbti</li><li>Pridėtas paskyros būsenos indikatorius</li><li>Pridėti išmanieji augimo pranešimai</li><li>Patobulinta „Streak“ premija</li><li>Patobulintas masinis sekimo atsisakymas</li><li>Ištaisytos pagrindinės klaidos</li></ul>"
   ],
   "hr": [
     "<b>Što je novo</b>",
-    "<ul><li>Glavno ažuriranje – ispravljeni problemi iz prošle verzije</li><li>Novo masovno otpraćivanje</li><li>Novi Streak Premium bonus</li><li>Ispravljeno: Riješena rušenja, problemi s Premium pretplatom i greške Stories.</li></ul>"
+    "<ul><li>Dodan widget za praćenje pratitelja</li><li>Dodani trendovi profesionalnog rasta</li><li>Dodano napredno najbolje vrijeme za objavu</li><li>Dodan indikator zdravlja računa</li><li>Dodane obavijesti o pametnom rastu</li><li>Poboljšan premium bonus za niz</li><li>Poboljšano masovno otpraćivanje</li><li>Ispravljene glavne pogreške</li></ul>"
   ],
   "fr": [
     "<b>Quoi de neuf</b>",
-    "<ul><li>Mise à jour majeure – Correction des problèmes de la dernière version</li><li>Nouveau désabonnement en masse</li><li>Nouveau bonus Premium de série (Streak)</li><li>Corrigé : Résolu les plantages, les problèmes d'abonnement Premium et les erreurs Stories.</li></ul>"
+    "<ul><li>Widget de suivi des abonnés ajouté</li><li>Tendances de croissance professionnelle ajoutées</li><li>Meilleur moment pour publier (avancé) ajouté</li><li>Indicateur de santé du compte ajouté</li><li>Notifications de croissance intelligentes ajoutées</li><li>Bonus premium de série amélioré</li><li>Désabonnement de masse amélioré</li><li>Bugs majeurs corrigés</li></ul>"
   ],
   "hu": [
     "<b>Újdonságok</b>",
-    "<ul><li>Fő frissítés – Az előző verzió hibái javítva</li><li>Új tömeges követés-leállítás</li><li>Új Streak Premium bónusz</li><li>Javítva: Összeomlások, Premium előfizetési problémák és Stories hibák.</li></ul>"
+    "<ul><li>Követőkövető modul hozzáadva</li><li>Szakmai növekedési trendek hozzáadva</li><li>Fejlett „Legjobb idő a posztolásra” funkció hozzáadva</li><li>Fiókállapot-jelző hozzáadva</li><li>Intelligens növekedési értesítések hozzáadva</li><li>Sorozat prémium bónusz továbbfejlesztve</li><li>Tömeges követés leállítása továbbfejlesztve</li><li>Súlyos hibák javítva</li></ul>"
   ],
   "uk": [
     "<b>Що нового</b>",
-    "<ul><li>Головне оновлення — виправлено помилки попередньої версії</li><li>Нова функція масової відписки</li><li>Новий преміум-бонус Streak</li><li>Виправлено: Усунені збої, проблеми з преміум-підпискою та помилки Stories.</li></ul>"
+    "<ul><li>Додано віджет відстеження підписників</li><li>Додано тенденції професійного зростання</li><li>Додано розширений найкращий час для публікації</li><li>Додано індикатор здоров'я облікового запису</li><li>Додано розумні сповіщення про зростання</li><li>Покращено преміум-бонус за серію днів</li><li>Покращено масове відписування</li><li>Виправлено основні помилки</li></ul>"
   ],
   "sk": [
     "<b>Čo je nové</b>",
-    "<ul><li>Hlavná aktualizácia – chyby z poslednej verzie opravené</li><li>Nové hromadné zrušenie sledovania</li><li>Nový Streak Premium bonus</li><li>Opravené: Vyriešené pádu, problémy s Premium predplatným a chyby Stories.</li></ul>"
+    "<ul><li>Pridaný widget na sledovanie sledovateľov</li><li>Pridané trendy profesionálneho rastu</li><li>Pridaný pokročilý najlepší čas na uverejňovanie</li><li>Pridaný indikátor zdravia účtu</li><li>Pridané upozornenia na inteligentný rast</li><li>Vylepšený prémiový bonus za sériu</li><li>Vylepšené hromadné zrušenie sledovania</li><li>Opravené hlavné chyby</li></ul>"
   ],
   "sl": [
     "<b>Kaj je novega</b>",
-    "<ul><li>Glavna posodobitev – odpravljene težave prejšnje različice</li><li>Novo množično odpremljanje</li><li>Nov Streak Premium bonus</li><li>Popravljeno: Odpravljene sesutja, težave s Premium naročnino in napake Stories.</li></ul>"
+    "<ul><li>Dodan pripomoček za sledenje sledilcem</li><li>Dodani trendi profesionalne rasti</li><li>Dodan napreden najboljši čas za objavo</li><li>Dodan indikator zdravja računa</li><li>Dodana pametna obvestila o rasti</li><li>Izboljšan premium bonus za niz</li><li>Izboljšano množično prenehanje sledenja</li><li>Odpravljene glavne napake</li></ul>"
   ],
   "ca": [
     "<b>Novetats</b>",
-    "<ul><li>Actualització principal: problemes de l'última versió corregits</li><li>Nou Deixar de seguir en massa</li><li>Nou bonus Premium de ratxa (Streak)</li><li>Corregit: resolts els errors, problemes de subscripció Premium i errades de Stories.</li></ul>"
+    "<ul><li>S'ha afegit el giny de seguiment de seguidors</li><li>S'han afegit les tendències de creixement professional</li><li>S'ha afegit la millor hora avançada per publicar</li><li>S'ha afegit l'indicador de salut del compte</li><li>S'han afegit les notificacions de creixement intel·ligent</li><li>S'ha millorat la bonificació de ratxa Premium</li><li>S'ha millorat la funció de deixar de seguir massivament</li><li>S'han corregit errors importants</li></ul>"
   ],
   "mk": [
     "<b>Што е ново</b>",
-    "<ul><li>Главна надградба – поправени проблемите од минатата верзија</li><li>Ново масовно отследување</li><li>Нов Premium бонус Streak</li><li>Поправено: Исправени пропадања, проблеми со Premium претплата и грешки на Stories.</li></ul>"
+    "<ul><li>Додаден е виџет за следење следбеници</li><li>Додадени се трендови на професионален раст</li><li>Додадено е напредно најдобро време за објавување</li><li>Додаден е индикатор за здравје на сметката</li><li>Додадени се паметни известувања за раст</li><li>Подобрен е премиум бонусот за серија</li><li>Подобрено е масовното отследување</li><li>Поправени се главните грешки</li></ul>"
   ],
   "sq": [
     "<b>Çfarë ka të re</b>",
-    "<ul><li>Përditësim Kryesor – Rregulluar problemet e fundit</li><li>Opsion i ri për Mass Unfollow</li><li>Bonus i ri Premium për Streak</li><li>Rregulluar: Zgjidhur mbylljet e papritura, probleme me abonimin Premium dhe gabimet e Stories.</li></ul>"
+    "<ul><li>Shtohet widget-i i gjurmimit të ndjekësve</li><li>Shtohen tendencat e rritjes profesionale</li><li>Shtohet koha e avancuar më e mirë për të postuar</li><li>Shtohet indikatori i shëndetit të llogarisë</li><li>Shtohen njoftimet e rritjes inteligjente</li><li>Përmirësohet bonusi premium i serisë</li><li>Përmirësohet ndjekja masive e ndalimit</li><li>Rregullohen gabimet kryesore</li></ul>"
   ],
   "ml": [
     "<b>എന്താണ് പുതിയത്</b>",
-    "<ul><li>പ്രധാന അപ്‌ഡേറ്റ് - അവസാന അപ്‌ഡേറ്റിലെ പ്രശ്നങ്ങൾ പരിഹരിച്ചു</li><li>പുതിയ Mass Unfollow</li><li>പുതിയ Streak Premium ബോണസ്</li><li>പരിഹരിച്ചു: ക്രാഷ്, Premium സബ്സ്ക്രിപ്ഷൻ പ്രശ്നങ്ങൾ, Stories പ്രശ്നങ്ങൾ.</li></ul>"
+    "<ul><li>ഫോളോവർ ട്രാക്കർ വിജറ്റ് ചേർത്തു</li><li>പ്രൊഫഷണൽ വളർച്ചാ ട്രെൻഡുകൾ ചേർത്തു</li><li>പോസ്റ്റ് ചെയ്യാനുള്ള വിപുലമായ മികച്ച സമയം ചേർത്തു</li><li>അക്കൗണ്ട് ഹെൽത്ത് ഇൻഡിക്കേറ്റർ ചേർത്തു</li><li>സ്മാർട്ട് ഗ്രോത്ത് നോട്ടിഫിക്കേഷനുകൾ ചേർത്തു</li><li>സ്ട്രീക്ക് പ്രീമിയം ബോണസ് മെച്ചപ്പെടുത്തി</li><li>മാസ് അൺഫോളോ മെച്ചപ്പെടുത്തി</li><li>പ്രധാന ബഗുകൾ പരിഹരിച്ചു</li></ul>"
   ],
   "sr": [
     "<b>Шта је ново</b>",
-    "<ul><li>Главно ажурирање – исправљени проблеми из прошле верзије</li><li>Ново масовно отпраћивање</li><li>Нови Streak Premium бонус</li><li>Исправљено: Решена рушења, проблеми са Premium претплатом и грешке Stories.</li></ul>"
+    "<ul><li>Додат је виџет за праћење пратилаца</li><li>Додати су трендови професионалног раста</li><li>Додато је напредно најбоље време за објављивање</li><li>Додат је индикатор здравља налога</li><li>Додата су паметна обавештења о расту</li><li>Побољшан је премијум бонус за низ</li><li>Побољшано је масовно отпраћивање</li><li>Исправљене су главне грешке</li></ul>"
   ],
   "sv": [
     "<b>Vad är nytt</b>",
-    "<ul><li>Stor uppdatering – Fel från senaste versionen åtgärdade</li><li>Nytt Mass Unfollow</li><li>Ny Streak Premium-bonus</li><li>Åtgärdat: Löst krascher, problem med Premium-prenumeration och Stories-fel.</li></ul>"
+    "<ul><li>Widget för följarspårning tillagd</li><li>Professionella tillväxttrender tillagda</li><li>Avancerad bästa tid att posta tillagd</li><li>Konto-hälsoindikator tillagd</li><li>Smarta tillväxtaviseringar tillagda</li><li>Premiumbonus för svit förbättrad</li><li>Massavföljning förbättrad</li><li>Större buggar åtgärdade</li></ul>"
   ],
   "ko": [
     "<b>새로운 기능</b>",
-    "<ul><li>주요 업데이트 - 지난 업데이트 문제 해결</li><li>새로운 대량 언팔로우 기능</li><li>새로운 스트릭(Streak) 프리미엄 보너스</li><li>수정: 앱 종료, 프리미엄 구독 문제 및 스토리 오류 해결.</li></ul>"
+    "<ul><li>팔로워 추적 위젯 추가됨</li><li>전문적인 성장 트렌드 추가됨</li><li>고급 게시 최적 시간 추가됨</li><li>계정 상태 지표 추가됨</li><li>스마트 성장 알림 추가됨</li><li>스트릭 프리미엄 보너스 개선됨</li><li>대량 언팔로우 기능 개선됨</li><li>주요 버그 수정됨</li></ul>"
   ],
   "af": [
     "<b>Wat is nuut</b>",
-    "<ul><li>Groot Opdatering – Vorige foute reggestel</li><li>Nuwe Mass Unfollow</li><li>Nuwe Streak Premium-bonus</li><li>Reggestel: Toepassingsfoute, Premium-intekeningprobleme en Stories-foute opgelós.</li></ul>"
+    "<ul><li>Volgertrap-nutsmiddel bygevoeg</li><li>Professionele groeitendense bygevoeg</li><li>Gevorderde beste tyd om te plaas bygevoeg</li><li>Rekeninggesondheidsaanwyser bygevoeg</li><li>Slim groei-kennisgewings bygevoeg</li><li>Streak Premium-bonus verbeter</li><li>Massa-ontvolg verbeter</li><li>Groot foute reggemaak</li></ul>"
   ],
-  "in": [
-    "<b>Apa yang Baru</b>",
-    "<ul><li>Pembaruan Besar – Masalah pada pembaruan terakhir diperbaiki</li><li>Fitur Mass Unfollow Baru</li><li>Bonus Streak Premium Baru</li><li>Diperbaiki: Masalah crash, langganan Premium dan error Stories.</li></ul>"
+   "in": [
+    "<b>Yang Baru</b>",
+    "<ul><li>Widget Pelacak Pengikut Ditambahkan</li><li>Tren Pertumbuhan Profesional Ditambahkan</li><li>Waktu Terbaik Lanjutan untuk Memposting Ditambahkan</li><li>Indikator Kesehatan Akun Ditambahkan</li><li>Notifikasi Pertumbuhan Pintar Ditambahkan</li><li>Bonus Premium Streak Ditingkatkan</li><li>Berhenti Mengikuti Massal Ditingkatkan</li><li>Bug Utama Diperbaiki</li></ul>"
   ],
   "ms": [
     "<b>Apa yang Baharu</b>",
-    "<ul><li>Kemas Kini Utama – Masalah kemas kini terakhir diperbaiki</li><li>Ciri Mass Unfollow Baharu</li><li>Bonus Streak Premium Baharu</li><li>Diperbaiki: Masalah crash, langganan Premium dan ralat Stories.</li></ul>"
+    "<ul><li>Widget Jejak Pengikut Ditambahkan</li><li>Trend Pertumbuhan Profesional Ditambahkan</li><li>Waktu Terbaik Lanjutan untuk Menyiarkan Ditambahkan</li><li>Petunjuk Kesihatan Akaun Ditambahkan</li><li>Pemberitahuan Pertumbuhan Pintar Ditambahkan</li><li>Bonus Premium Streak Ditambah Baik</li><li>Nyahikut Massal Ditambah Baik</li><li>Bug Utama Diperbaiki</li></ul>"
   ],
   "el": [
     "<b>Τι νέο υπάρχει</b>",
-    "<ul><li>Σημαντική ενημέρωση – Διορθώθηκαν τα προβλήματα της τελευταίας έκδοσης</li><li>Νέα λειτουργία Mass Unfollow</li><li>Νέο Premium bonus Streak</li><li>Διορθώθηκε: Διορθώθησαν κατακλυσμοί, προβλήματα Premium συνδρομής και σφάλματα Stories.</li></ul>"
+    "<ul><li>Προστέθηκε γραφικό στοιχείο παρακολούθησης ακόλουθων</li><li>Προστέθηκαν τάσεις επαγγελματικής ανάπτυξης</li><li>Προστέθηκε η προηγμένη καλύτερη ώρα για δημοσίευση</li><li>Προστέθηκε δείκτης υγείας λογαριασμού</li><li>Προστέθηκαν έξυπνες ειδοποιήσεις ανάπτυξης</li><li>Βελτιώθηκε το premium μπόνους σερί</li><li>Βελτιώθηκε η μαζική κατάργηση παρακολούθησης</li><li>Διορθώθηκαν σημαντικά σφάλματα</li></ul>"
   ],
   "it": [
     "<b>Novità</b>",
-    "<ul><li>Aggiornamento principale – Risolti i problemi dell'ultima versione</li><li>Nuovo Unfollow di massa</li><li>Nuovo Bonus Premium Streak</li><li>Risolto: Risolti crash, problemi con l'abbonamento Premium e errori di Stories.</li></ul>"
+    "<ul><li>Widget di monitoraggio dei follower aggiunto</li><li>Tendenze di crescita professionale aggiunte</li><li>Funzione avanzata 'Miglior momento per pubblicare' aggiunta</li><li>Indicatore dello stato dell'account aggiunto</li><li>Notifiche di crescita intelligenti aggiunte</li><li>Bonus premium della serie migliorato</li><li>Funzione di unfollow di massa migliorata</li><li>Bug principali corretti</li></ul>"
   ],
   "es": [
     "<b>Novedades</b>",
-    "<ul><li>Actualización mayor: problemas de la última versión corregidos</li><li>Nuevo Dejar de seguir masivo</li><li>Nuevo bono Premium de racha (Streak)</li><li>Corregido: Resueltos errores, problemas de suscripción Premium y errores de Stories.</li></ul>"
+    "<ul><li>Se ha añadido el widget de seguimiento de seguidores</li><li>Se han añadido las tendencias de crecimiento profesional</li><li>Se ha añadido la mejor hora avanzada para publicar</li><li>Se ha añadido el indicador de salud de la cuenta</li><li>Se han añadido las notificaciones de crecimiento inteligente</li><li>Se ha mejorado la bonificación de racha Premium</li><li>Se ha mejorado la función de dejar de seguir de forma masiva</li><li>Se han corregido errores importantes</li></ul>"
   ],
   "et": [
     "<b>Mis uut</b>",
-    "<ul><li>Suur uuendus – eelmise versiooni vead parandatud</li><li>Uus massiline jälgimise lõpetamine</li><li>Uus Streak Premium boonus</li><li>Parandatud: lahendatud krahhid, Premium-tellimuse probleemid ja Stories vead.</li></ul>"
+    "<ul><li>Jälgijate jälgimise vidin lisatud</li><li>Professionaalse kasvu trendid lisatud</li><li>Täpsem parim aeg postitamiseks lisatud</li><li>Konto tervislikkuse indikaator lisatud</li><li>Nutikad kasvuteavitused lisatud</li><li>Sajandi Premium-boonust parandatud</li><li>Massiline jälgimise lõpetamine parandatud</li><li>Suuremad vead parandatud</li></ul>"
   ],
   "cs": [
     "<b>Co je nového</b>",
-    "<ul><li>Hlavní aktualizace – chyby z poslední verze opraveny</li><li>Nové hromadné zrušení sledování</li><li>Nový Streak Premium bonus</li><li>Opraveno: Vyřešeny pády, problémy s Premium předplatným a chyby Stories.</li></ul>"
+    "<ul><li>Přidán widget pro sledování sledujících</li><li>Přidány trendy profesionálního růstu</li><li>Přidán pokročilý nejlepší čas pro příspěvky</li><li>Přidán indikátor zdraví účtu</li><li>Přidána chytrá upozornění na růst</li><li>Vylepšen prémiový bonus za sérii dní</li><li>Vylepšeno hromadné rušení sledování</li><li>Opraveny hlavní chyby</li></ul>"
   ],
   "eu": [
-    "<b>Berrikuntzak</b>",
-    "<ul><li>Eguneratze nagusia – Azken eguneratzearen arazoak konponduta</li><li>Mass Unfollow berria</li><li>Streak Premium bonus berria</li><li>Konponduta: Kraskadurak, Premium harpidetza arazo eta Stories errorak konponduta.</li></ul>"
+    "<b>Zer berri</b>",
+    "<ul><li>Jarraitzaileen jarraipena egiteko widget-a gehituta</li><li>Hazkunde profesionalaren joerak gehituta</li><li>Argitaratzeko une egokien aurreratua gehituta</li><li>Kontuaren osasun-adierazlea gehituta</li><li>Hazkunde adimendunaren jakinarazpenak gehituta</li><li>Bolada-sari Premium hobetua</li><li>Jarraitzeari uzte masiboa hobetua</li><li>Akats nagusiak konponduta</li></ul>"
   ],
   "ar": [
     "<b>ما الجديد</b>",
-    "<ul><li>تحديث رئيسي - تم إصلاح مشاكل التحديث الأخير</li><li>ميزة إلغاء المتابعة الجماعي الجديدة</li><li>مكافأة ستريك Premium جديدة</li><li>تم الإصلاح: تم حل الأعطال ومشاكل الاشتراك Premium وأخطاء Stories.</li></ul>"
+    "<ul><li>تم إضافة أدوات تتبع المتابعين</li><li>تم إضافة اتجاهات النمو المهني</li><li>تم إضافة ميزة الوقت المتقدم الأفضل للنشر</li><li>تم إضافة مؤشر صحة الحساب</li><li>تم إضافة إشعارات النمو الذكي</li><li>تم تحسين مكافأة الستريك المميزة</li><li>تم تحسين ميزة إلغاء المتابعة الجماعية</li><li>تم إصلاح الأخطاء الرئيسية</li></ul>"
   ],
   "vi": [
     "<b>Có gì mới</b>",
-    "<ul><li>Cập nhật lớn – Đã sửa các lỗi của bản cập nhật trước</li><li>Tính năng Hủy theo dõi hàng loạt mới</li><li>Thưởng Streak Premium mới</li><li>Đã sửa: Đã khắc phục các sự cố, sự cố đăng ký Premium và lỗi Stories.</li></ul>"
+    "<ul><li>Đã thêm Widget theo dõi người theo dõi</li><li>Đã thêm Xu hướng phát triển chuyên nghiệp</li><li>Đã thêm Thời gian đăng bài tốt nhất nâng cao</li><li>Đã thêm Chỉ số sức khỏe tài khoản</li><li>Đã thêm Thông báo tăng trưởng thông minh</li><li>Đã cải tiến Phần thưởng chuỗi Premium</li><li>Đã cải tiến Tính năng hủy theo dõi hàng loạt</li><li>Đã sửa các lỗi lớn</li></ul>"
   ],
   "th": [
     "<b>มีอะไรใหม่</b>",
-    "<ul><li>การอัปเดตครั้งใหญ่ – แก้ไขปัญหาจากการอัปเดตครั้งล่าสุด</li><li>ฟีเจอร์ Unfollow แบบหมู่ใหม่</li><li>โบนัส Streak Premium ใหม่</li><li>แก้ไข: แก้ไขการขัดข้อง ปัญหาการสมัครสมาชิก Premium และข้อผิดพลาด Stories</li></ul>"
+    "<ul><li>เพิ่มวิดเจ็ตติดตามผู้ติดตามแล้ว</li><li>เพิ่มแนวโน้มการเติบโตทางวิชาชีพแล้ว</li><li>เพิ่มเวลาที่ดีที่สุดในการโพสต์แบบขั้นสูงแล้ว</li><li>เพิ่มตัวบ่งชี้สุขภาพบัญชีแล้ว</li><li>เพิ่มการแจ้งเตือนการเติบโตอัจฉริยะแล้ว</li><li>ปรับปรุงโบนัสพรีเมียมของสตรีคแล้ว</li><li>ปรับปรุงการเลิกติดตามจำนวนมากแล้ว</li><li>แก้ไขข้อผิดพลาดหลักแล้ว</li></ul>"
   ],
   "ja": [
     "<b>新機能</b>",
-    "<ul><li>大型アップデート - 前回のアップデートの問題を修正</li><li>新しい一括フォロー解除機能</li><li>新しいストリーク・プレミアムボーナス</li><li>修正: クラッシュ、プレミアム購読の問題、Stories の問題を解決しました。</li></ul>"
+    "<ul><li>フォロワートラッカーウィジェットを追加しました</li><li>プロフェッショナルな成長トレンドを追加しました</li><li>高度な「投稿に最適な時間」を追加しました</li><li>アカウントの健全性インジケーターを追加しました</li><li>スマート成長通知を追加しました</li><li>継続プレミアムボーナスを改善しました</li><li>一括フォロー解除を改善しました</li><li>主要なバグを修正しました</li></ul>"
   ],
   "az": [
     "<b>Yeniliklər</b>",
-    "<ul><li>Əsas Yeniləmə – Son yeniləmədəki problemlər düzəldildi</li><li>Yeni Kütləvi İzləmədən Çıxma (Mass Unfollow)</li><li>Yeni Streak Premium Bonusu</li><li>Düzəldildi: Qırılmalar, Premium abonelik problemləri və Stories xətaları həll edildi.</li></ul>"
+    "<ul><li>İzləyici İzləmə Vidceti Əlavə Edildi</li><li>Peşəkar Böyümə Trendləri Əlavə Edildi</li><li>Təkmilləşdirilmiş Paylaşım üçün Ən Yaxşı Vaxt Əlavə Edildi</li><li>Hesabın Sağlamlıq Göstəricisi Əlavə Edildi</li><li>Ağıllı Böyümə Bildirişləri Əlavə Edildi</li><li>Seriya Premium Bonusu Təkmilləşdirildi</li><li>Kütləvi İzləməni Dayandırma Təkmilləşdirildi</li><li>Əsas Səhvlər Düzəldildi</li></ul>"
   ],
   "fa": [
     "<b>چه خبر</b>",
-    "<ul><li>به‌روزرسانی بزرگ - مشکلات به‌روزرسانی قبلی برطرف شد</li><li>قابلیت جدید آنفالو دسته‌جمعی</li><li>بونوس جدید Streak Premium</li><li>رفع شد: برطرف شدن خرابی‌ها، مشکلات اشتراک Premium و خطاهای Stories.</li></ul>"
+    "<ul><li>ویجت ردیاب دنبال‌کننده اضافه شد</li><li>روندهای رشد حرفه‌ای اضافه شد</li><li>ویژگی پیشرفته بهترین زمان برای ارسال پست اضافه شد</li><li>شاخص سلامت حساب اضافه شد</li><li>اعلان‌های رشد هوشمند اضافه شد</li><li>پاداش پرمیوم تسلسل بهبود یافت</li><li>لغو دنبال کردن دسته‌جمعی بهبود یافت</li><li>باग‌های بزرگ برطرف شدند</li></ul>"
   ],
   "pl": [
     "<b>Co nowego</b>",
-    "<ul><li>Główna aktualizacja – naprawiono błędy z poprzedniej wersji</li><li>Nowe masowe odobserwowanie</li><li>Nowy bonus Premium za serię (Streak)</li><li>Naprawiono: Rozwiązano awarie, problemy z subskrypcją Premium i błędy Stories.</li></ul>"
+    "<ul><li>Dodano widżet śledzenia obserwujących</li><li>Dodano trendy wzrostu zawodowego</li><li>Dodano zaawansowaną funkcję najlepszego czasu na publikację</li><li>Dodano wskaźnik stanu konta</li><li>Dodano inteligentne powiadomienia o wzroście</li><li>Ulepszono premię premium za serię dni</li><li>Ulepszono masowe cofanie obserwowania</li><li>Naprawiono główne błędy</li></ul>"
   ],
   "da": [
     "<b>Hvad er nyt</b>",
-    "<ul><li>Stor opdatering – fejl fra sidste opdatering rettet</li><li>Ny Mass Unfollow-funktion</li><li>Ny Streak Premium-bonus</li><li>Rettet: Løst nedbrud, problemer med Premium-abonnement og Stories-fejl.</li></ul>"
+    "<ul><li>Følgertracker-widget tilføjet</li><li>Professionelle væksttendenser tilføjet</li><li>Avanceret bedste tidspunkt at poste på tilføjet</li><li>Konto-helbredsindikator tilføjet</li><li>Smarte vækstnotifikationer tilføjet</li><li>Premium-streakbonus forbedret</li><li>Massiv affølgning forbedret</li><li>Større fejl rettet</li></ul>"
   ],
   "ro": [
     "<b>Ce este nou</b>",
-    "<ul><li>Actualizare majoră – Problemele din ultima versiune au fost remediate</li><li>Funcție nouă de Unfollow în masă</li><li>Bonus nou Streak Premium</li><li>Remediat: Au fost rezolvate defecțiunile, problemele abonamentului Premium și erorile Stories.</li></ul>"
+    "<ul><li>A fost adăugat widgetul de urmărire a urmăritorilor</li><li>Au fost adăugate tendințele de creștere profesională</li><li>A fost adăugat cel mai bun moment avansat pentru postare</li><li>A fost adăugat indicatorul de sănătate a contului</li><li>Au fost adăugate notificările inteligente de creștere</li><li>A fost îmbunătățit bonusul premium pentru serie</li><li>A fost îmbunătățită dezabonarea în masă</li><li>Au fost remediate erorile majore</li></ul>"
   ],
   "nl": [
     "<b>Wat is er nieuw</b>",
-    "<ul><li>Grote update – fouten uit de vorige versie opgelost</li><li>Nieuwe Mass Unfollow-functie</li><li>Nieuwe Streak Premium-bonus</li><li>Opgelost: Crashes, problemen met Premium-abonnement en Stories-fouten.</li></ul>"
+    "<ul><li>Volgers-trackerwidget toegevoegd</li><li>Professionele groeitrends toegevoegd</li><li>Geavanceerde beste tijd om te posten toegevoegd</li><li>Accountgezondheidsindicator toegevoegd</li><li>Slimme groeimeldingen toegevoegd</li><li>Premium streakbonus verbeterd</li><li>Massaal ontvolgen verbeterd</li><li>Belangrijke bugs opgelost</li></ul>"
   ],
   "tr": [
     "<b>Yenilikler</b>",
-    "<ul><li>Büyük Güncelleme – Son güncellemedeki sorunlar giderildi</li><li>Yeni Toplu Takibi Bırakma Özelliği</li><li>Yeni Streak Premium Bonusu</li><li>Düzeltildi: Çökmeler, Premium abonelik sorunları ve Stories hataları çözüldü.</li></ul>"
+    "<ul><li>Takipçi Takip Aracı Eklendi</li><li>Profesyonel Büyüme Trendleri Eklendi</li><li>Gelişmiş Gönderi Paylaşımı İçin En İyi Zaman Eklendi</li><li>Hesap Durumu Göstergesi Eklendi</li><li>Akıllı Büyüme Bildirimleri Eklendi</li><li>Seri Premium Bonusu İyileştirildi</li><li>Toplu Takibi Bırakma İyileştirildi</li><li>Önemli Hatalar Düzeltildi</li></ul>"
   ]
 
 }
