@@ -1,178 +1,177 @@
-{ 
-    "version": "1.56", 
-    "messages": {
-"en": [
-    "<b>What's New</b>",
-    "<ul><li>New 10x Faster Syncing Engine</li><li>Growth History Dashboard And Charts Added</li><li>Smart Growth Predictions Added</li><li>Follower Tracker Widget Added</li><li>Professional Growth Trends Added</li><li>Advanced Best Time to Post Added</li><li>Account Health Indicator Added</li><li>Smart Growth Notifications Added</li><li>Streak Premium Bonus Improved</li><li>Mass Unfollow Improved</li><li>Major Bugs Fixed</li></ul>"
-  ],
- "de": [
-    "<b>Was gibt's Neues</b>",
-    "<ul><li>Neue 10x schnellere Sync-Engine</li><li>Dashboard und Diagramme für den Wachstumsverlauf hinzugefügt</li><li>Intelligente Wachstumsprognosen hinzugefügt</li><li>Follower-Tracker-Widget hinzugefügt</li><li>Professionelle Wachstumstrends hinzugefügt</li><li>Erweiterte Funktion für die beste Zeit zum Posten hinzugefügt</li><li>Konto-Gesundheitsindikator hinzugefügt</li><li>Intelligente Wachstumsbenachrichtigungen hinzugefügt</li><li>Streak-Premium-Bonus verbessert</li><li>Massen-Unfollow verbessert</li><li>Größere Fehler behoben</li></ul>"
-  ],
-  "hi": [
-    "<b>नया क्या है</b>",
-    "<ul><li>नया 10 गुना तेज़ सिंकिंग इंजन</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट जोड़े गए</li><li>स्मार्ट ग्रोथ प्रेडिक्शन जोड़े गए</li><li>फॉलोअर ट्रैकर विजेट जोड़ा गया</li><li>प्रोफेशनल ग्रोथ ट्रेंड्स जोड़े गए</li><li>पोस्ट करने का उन्नत सर्वश्रेष्ठ समय जोड़ा गया</li><li>अकाउंट हेल्थ इंडिकेटर जोड़ा गया</li><li>स्मार्ट ग्रोथ नोटिफिकेशन जोड़े गए</li><li>स्ट्र्रीक प्रीमियम बोनस में सुधार किया गया</li><li>मास अनफॉलो में सुधार किया गया</li><li>बड़ी कमियां दूर की गईं</li></ul>"
-  ],
-  "be": [
-    "<b>Што новага</b>",
-    "<ul><li>Новы ў 10 разоў хутчэйшы рухавічок сінхранізацыі</li><li>Дададзены панэль і графікі гісторыі росту</li><li>Дададзены разумныя прагнозы росту</li><li>Дададзены віджэт адсочвання падпісчыкаў</li><li>Дададзены прафесійныя трэнды росту</li><li>Дададзена пашыраная функцыя найлепшага часу для публікацыі</li><li>Дададзены індыкатар здароўя акаўнта</li><li>Дададзены разумныя апавяшчэнні пра рост</li><li>Палепшаны прэміум-бонус за серыю дзён</li><li>Палепшана масавая адмена падпіскі</li><li>Выпраўлены асноўныя памылкі</li></ul>"
-  ],
-  "fi": [
-    "<b>Mitä uutta</b>",
-    "<ul><li>Uusi 10 kertaa nopeampi synkronointimoottori</li><li>Kasvuhistorian hallintapaneeli ja kaaviot lisätty</li><li>Älykkäät kasvuennusteet lisätty</li><li>Seuraajien seurantawidget lisätty</li><li>Ammattimaiset kasvutrendit lisätty</li><li>Paras aika postittaa (Advanced) lisätty</li><li>Tilinin terveysindikaattori lisätty</li><li>Älykkäät kasvuilmoitukset lisätty</li><li>Streak Premium -bonusta parannettu</li><li>Massaperuutus (Mass Unfollow) parannettu</li><li>Suuria virheitä korjattu</li></ul>"
-  ],
-  "ru": [
-    "<b>Что нового</b>",
-    "<ul><li>Новый в 10 раз более быстрый движок синхронизации</li><li>Добавлены панель и графики истории роста</li><li>Добавлены умные прогнозы роста</li><li>Добавлен виджет отслеживания подписчиков</li><li>Добавлены профессиональные тренды роста</li><li>Добавлено продвинутое лучшее время для публикации</li><li>Добавлен индикатор здоровья аккаунта</li><li>Добавлены умные уведомления о росте</li><li>Улучшен премиум-бонус за серию дней</li><li>Улучшена функция массовой отписки</li><li>Исправлены основные ошибки</li></ul>"
-  ],
-  "pt": [
-    "<b>O que há de novo</b>",
-    "<ul><li>Novo mecanismo de sincronização 10x mais rápido</li><li>Painel e gráficos de histórico de crescimento adicionados</li><li>Previsões de crescimento inteligentes adicionadas</li><li>Widget de rastreamento de seguidores adicionado</li><li>Tendências de crescimento profissional adicionadas</li><li>Melhor horário avançado para postar adicionado</li><li>Indicador de integridade da conta adicionado</li><li>Notificações de crescimento inteligentes adicionadas</li><li>Bônus Streak Premium aprimorado</li><li>Deixar de seguir em massa aprimorado</li><li>Principais bugs corrigidos</li></ul>"
-  ],
-  "bg": [
-    "<b>Какво ново</b>",
-    "<ul><li>Нов 10 пъти по-бърз двигател за синхронизиране</li><li>Добавени са табло и диаграми за история на растежа</li><li>Добавени са интелигентни прогнози за растеж</li><li>Добавено е уиджет за проследяване на последователи</li><li>Добавени са професионални тенденции за растеж</li><li>Добавено е усъвършенствано най-добро време за публикуване</li><li>Добавен е индикатор за здравето на акаунта</li><li>Добавени са интелигентни известия за растеж</li><li>Подобряване на Premium бонуса за серия (Streak)</li><li>Подобрено масово спиране на следване</li><li>Коригирани са основни грешки</li></ul>"
-  ],
-  "fil": [
-    "<b>Ano'ng Bago</b>",
-    "<ul><li>Bagong 10x Mas Mabilis na Syncing Engine</li><li>Idinagdag ang Dashboard at Mga Chart ng History ng Paglago</li><li>Idinagdag ang Mga Smart na Prediksyon sa Paglago</li><li>Idinagdag ang Widget ng Tagasubaybay ng Follower</li><li>Idinagdag ang Mga Propesyonal na Trend sa Paglago</li><li>Idinagdag ang Advanced na Pinakamagandang Oras para Mag-post</li><li>Idinagdag ang Indicator ng Kalusugan ng Account</li><li>Idinagdag ang Mga Smart na Notification sa Paglago</li><li>Pinaunlad ang Bonus sa Streak Premium</li><li>Pinaunlad ang Mass Unfollow</li><li>Inayos ang Mga Pangunahing Bug</li></ul>"
-  ],
-  "lt": [
-    "<b>Kas naujo</b>",
-    "<ul><li>Naujas 10 kartų spartesnis sinchronizavimo variklis</li><li>Pridėtas augimo istorijos prietaisų skydelis ir diagramos</li><li>Pridėtos išmaniosios augimo prognozės</li><li>Pridėtas sekėjų sekimo valdiklis</li><li>Pridėtos profesionalios augimo tendencijos</li><li>Pridėtas pažangus geriausias laikas skelbti</li><li>Pridėtas paskyros būsenos indikatorius</li><li>Pridėti išmanieji augimo pranešimai</li><li>Patobulinta „Streak Premium“ premija</li><li>Patobulintas masinis sekimo atsisakymas</li><li>Ištaisytos pagrindinės klaidos</li></ul>"
-  ],
-  "hr": [
-    "<b>Što je novo</b>",
-    "<ul><li>Novi 10x brži mehanizam za sinkronizaciju</li><li>Dodane nadzorna ploča i grafikoni povijesti rasta</li><li>Dodana pametna predviđanja rasta</li><li>Dodana kartica za praćenje pratitelja</li><li>Dodani profesionalni trendovi rasta</li><li>Dodano napredno najbolje vrijeme za objavljivanje</li><li>Dodana provjera zdravlja računa</li><li>Dodane pametne obavijesti o rastu</li><li>Poboljšan Streak Premium bonus</li><li>Poboljšano masovno otpraćivanje</li><li>Ispravljene glavne pogreške</li></ul>"
-  ],
-  "fr": [
-    "<b>Quoi de neuf</b>",
-    "<ul><li>Nouveau moteur de synchronisation 10x plus rapide</li><li>Tableau de bord et graphiques de l'historique de croissance ajoutés</li><li>Prédictions de croissance intelligentes ajoutées</li><li>Widget de suivi des abonnés ajouté</li><li>Tendances de croissance professionnelle ajoutées</li><li>Meilleur moment pour publier (Avancé) ajouté</li><li>Indicateur de santé du compte ajouté</li><li>Notifications de croissance intelligentes ajoutées</li><li>Bonus Streak Premium amélioré</li><li>Désabonnement de masse amélioré</li><li>Bugs majeurs corrigés</li></ul>"
-  ],
-  "hu": [
-    "<b>Újdonságok</b>",
-    "<ul><li>Új, 10-szer gyorsabb szinkronizáló motor</li><li>Növekedési előzmények irányítópult és diagramok hozzáadva</li><li>Intelligens növekedési előrejelzések hozzáadva</li><li>Követőkövető widget hozzáadva</li><li>Professzionális növekedési trendek hozzáadva</li><li>Fejlett legjobb posztolási idő funkció hozzáadva</li><li>Fiókállapot-jelző hozzáadva</li><li>Intelligens növekedési értesítések hozzáadva</li><li>Streak Premium bónusz továbbfejlesztve</li><li>Tömeges kikövetés továbbfejlesztve</li><li>Súlyos hibák javítva</li></ul>"
-  ],
-  "uk": [
-    "<b>Що нового</b>",
-    "<ul><li>Новий у 10 разів швидший рушій синхронізації</li><li>Додано панель та графіки історії зростання</li><li>Додано розумні прогнози зростання</li><li>Додано віджет відстеження підписників</li><li>Додано професійні тренди зростання</li><li>Додано розширену функцію найкращого часу для публікації</li><li>Додано індикатор здоров'я акаунта</li><li>Додано розумні сповіщення про зростання</li><li>Покращено преміум-бонус за серію днів</li><li>Покращено масове скасування підписки</li><li>Виправлено основні помилки</li></ul>"
-  ],
-  "sk": [
-    "<b>Čo je nové</b>",
-    "<ul><li>Nový 10x rýchlejší synchronizačný nástroj</li><li>Pridaný panel a grafy histórie rastu</li><li>Pridané inteligentné predpovede rastu</li><li>Pridaný widget na sledovanie sledovateľov</li><li>Pridané profesionálne trendy rastu</li><li>Pridaný pokročilý najlepší čas na uverejňovanie</li><li>Pridaný indikátor zdravia účtu</li><li>Pridané inteligentné upozornenia na rast</li><li>Vylepšený bonus Streak Premium</li><li>Vylepšené hromadné zrušenie sledovania</li><li>Opravené hlavné chyby</li></ul>"
-  ],
-  "sl": [
-    "<b>Kaj je novega</b>",
-    "<ul><li>Nov 10-krat hitrejši motor za sinhronizacijo</li><li>Dodana nadzorna plošča in grafikoni zgodovine rasti</li><li>Dodane pametne napovedi rasti</li><li>Dodan gradnik za spremljanje sledilcev</li><li>Dodani profesionalni trendi rasti</li><li>Dodan napreden najboljši čas za objavljanje</li><li>Dodan indikator zdravja računa</li><li>Dodana pametna obvestila o rasti</li><li>Izboljšan Streak Premium bonus</li><li>Izboljšano množično odnehanje sledenja</li><li>Odpravljene glavne napake</li></ul>"
-  ],
-  "ca": [
-    "<b>Novetats</b>",
-    "<ul><li>Nou motor de sincronització 10 vegades més ràpid</li><li>S'ha afegit el tauler i els gràfics de l'historial de creixement</li><li>S'han afegit prediccions de creixement intel·ligents</li><li>S'ha afegit el giny de seguiment de seguidors</li><li>S'han afegit tendències de creixement professional</li><li>S'ha afegit la millor hora avançada per publicar</li><li>S'ha afegit l'indicador de salut del compte</li><li>S'han afegit notificacions de creixement intel·ligents</li><li>S'ha millorat el bonificació Streak Premium</li><li>S'ha millorat la funció de deixar de seguir en massa</li><li>S'han corregit errors importants</li></ul>"
-  ],
-  "mk": [
-    "<b>Што е ново</b>",
-    "<ul><li>Нов 10 пати побрз мотор за синхронизација</li><li>Додадени се контролна табла и графикони за историја на раст</li><li>Додадени се паметни предвидувања за раст</li><li>Додаден е виџет за следење на следбеници</li><li>Додадени се професионални трендови на раст</li><li>Додадено е напредно најдобро време за објавување</li><li>Додаден е индикатор за здравје на сметката</li><li>Додадени се паметни известувања за раст</li><li>Подобрен Streak Premium бонус</li><li>Подобрено масовно прекинување на следење</li><li>Поправени се големи грешки</li></ul>"
-  ],
-  "sq": [
-    "<b>Çfarë ka të re</b>",
-    "<ul><li>Motor i ri sinkronizimi 10 herë më i shpejtë</li><li>Shtohen paneli dhe grafikët e historisë së rritjes</li><li>Shtohen parashikimet inteligjente të rritjes</li><li>Shtohet widget-i i gjurmimit të ndjekësve</li><li>Shtohen trendet e rritjes profesionale</li><li>Shtohet koha më e mirë e avancuar për të postuar</li><li>Shtohet indikatori i shëndetit të llogarisë</li><li>Shtohen njoftimet inteligjente të rritjes</li><li>Përmirësohet bonusi Streak Premium</li><li>Përmirësohet ndalimi i ndjekjes në masë</li><li>Ndreqen defektet kryesore</li></ul>"
-  ],
-  "ml": [
-    "<b>പുതിയ വിവരങ്ങൾ</b>",
-    "<ul><li>പുതിയ 10 മടങ്ങ് വേഗതയേറിയ സിൻകിംഗ് എഞ്ചിൻ</li><li>വളർച്ചാ ചരിത്ര ഡാഷ്‌ബോർഡും ചാർട്ടുകളും ചേർത്തു</li><li>സ്മാർട്ട് വളർച്ചാ പ്രവചനങ്ങൾ ചേർത്തു</li><li>ഫോളോവർ ട്രാക്കർ വിജറ്റ് ചേർത്തു</li><li>പ്രൊഫഷണൽ വളർച്ചാ ട്രെൻഡുകൾ ചേർത്തു</li><li>പോസ്റ്റ് ചെയ്യാനുള്ള മികച്ച സമയം കണ്ടെത്താനുള്ള അഡ്വാൻസ്ഡ് ഫീച്ചർ ചേർത്തു</li><li>അക്കൗണ്ട് ഹെൽത്ത് ഇൻഡിക്കേറ്റർ ചേർത്തു</li><li>സ്മാർട്ട് വളർച്ചാ അറിയിപ്പുകൾ ചേർത്തു</li><li>സ്ട്രീക്ക് പ്രീമിയം ബോണസ് മെച്ചപ്പെടുത്തി</li><li>മാസ് അൺഫോളോ ഫീച്ചർ മെച്ചപ്പെടുത്തി</li><li>പ്രധാന ബഗുകൾ പരിഹരിച്ചു</li></ul>"
-  ],
-  "sr": [
-    "<b>Шта је ново</b>",
-    "<ul><li>Нови 10 пута бржи мотор за синхронизацију</li><li>Додати су контролна табла и графикони историје раста</li><li>Додата су паметна предвиђања раста</li><li>Додат је виџет за праћење пратилаца</li><li>Додати су професионални трендови раста</li><li>Додато је напредно најбоље време за објављивање</li><li>Додат је индикатор здравља налога</li><li>Додата су паметна обавештења о расту</li><li>Побољшан Streak Premium бонус</li><li>Побољшано масовно отпраћивање</li><li>Исправљене су главне грешке</li></ul>"
-  ],
-  "sv": [
-    "<b>Nyheter</b>",
-    "<ul><li>Ny 10x snabbare synkroniseringsmotor</li><li>Instrumentpanel och diagram för tillväxthistorik har lagts till</li><li>Smarta tillväxtprognoser har lagts till</li><li>Widget för följarspårning har lagts till</li><li>Professionella tillväxttrender har lagts till</li><li>Avancerad bästa tid att posta har lagts till</li><li>Konto-hälsoindikator har lagts till</li><li>Smarta tillväxtaviseringar har lagts till</li><li>Streak Premium-bonus har förbättrats</li><li>Massavföljning har förbättrats</li><li>Större buggar har åtgärdats</li></ul>"
-  ],
-  "ko": [
-    "<b>새로운 기능</b>",
-    "<ul><li>10배 더 빨라진 새로운 동기화 엔진</li><li>성장 기록 대시보드 및 차트 추가</li><li>스마트 성장 예측 추가</li><li>팔로워 추적 위젯 추가</li><li>전문적인 성장 트렌드 추가</li><li>고급 게시하기 좋은 시간 추천 추가</li><li>계정 상태 지표 추가</li><li>스마트 성장 알림 추가</li><li>스트릭 프리미엄 보너스 개선</li><li>대량 언팔로우 기능 개선</li><li>주요 버그 수정</li></ul>"
-  ],
-  "af": [
-    "<b>Wat's Nuut</b>",
-    "<ul><li>Nuwe 10x vinniger sinchroniseerenjin</li><li>Groeigeskiedenis-tekenbord en -grafieke bygevoeg</li><li>Slim groeivoorspellings bygevoeg</li><li>Volger-spoorder-dingesie (widget) bygevoeg</li><li>Professionele groeitendense bygevoeg</li><li>Gevorderde beste tyd om te plaas bygevoeg</li><li>Rekeninggesondheitsaanwyser bygevoeg</li><li>Slim groeikennisgewings bygevoeg</li><li>Streak Premium-bonus verbeter</li><li>Massadesvolg (Mass Unfollow) verbeter</li><li>Groot foute reggemaak</li></ul>"
-  ],
-  "in": [
-    "<b>Yang Baru</b>",
-    "<ul><li>Mesin Sinkronisasi Baru 10x Lebih Cepat</li><li>Dasbor Dan Grafik Riwayat Pertumbuhan Ditambahkan</li><li>Prediksi Pertumbuhan Pintar Ditambahkan</li><li>Widget Pelacak Pengikut Ditambahkan</li><li>Tren Pertumbuhan Profesional Ditambahkan</li><li>Fitur Lanjutan Waktu Terbaik untuk Memposting Ditambahkan</li><li>Indikator Kesehatan Akun Ditambahkan</li><li>Notifikasi Pertumbuhan Pintar Ditambahkan</li><li>Bonus Streak Premium Ditingkatkan</li><li>Fitur Berhenti Mengikuti Massal Ditingkatkan</li><li>Bug Utama Diperbaiki</li></ul>"
-  ],
-  "ms": [
-    "<b>Apa yang Baharu</b>",
-    "<ul><li>Enjin Panyंकronan 10x Lebih Pantas Baharu</li><li>Papan Pemuka Dan Carta Sejarah Pertumbuhan Ditambah</li><li>Ramalan Pertumbuhan Pintar Ditambah</li><li>Widget Penjejak Pengikut Ditambah</li><li>Trend Pertumbuhan Profesional Ditambah</li><li>Masa Terbaik Lanjutan untuk Menyiarkan Ditambah</li><li>Petunjuk Kesihatan Akaun Ditambah</li><li>Notifikasi Pertumbuhan Pintar Ditambah</li><li>Bonus Premium Streak Diperbaik</li><li>Nyahikut Pukal Diperbaik</li><li>Bug Utama Diperbaiki</li></ul>"
-  ],
-  "el": [
-    "<b>Τι νέο υπάρχει</b>",
-    "<ul><li>Νέος 10 φορές ταχύτερος μηχανισμός συγχρονισμού</li><li>Προστέθηκε πίνακας ελέγχου και γραφήματα ιστορικού ανάπτυξης</li><li>Προστέθηκαν έξυπνες προβλέψεις ανάπτυξης</li><li>Προστέθηκε γραφικό στοιχείο παρακολούθησης ακόλουθων</li><li>Προστέθηκαν επαγγελματικές τάσεις ανάπτυξης</li><li>Προστέθηκε προηγμένη λειτουργία για την καλύτερη ώρα δημοσίευσης</li><li>Προστέθηκε δείκτης υγείας λογαριασμού</li><li>Προστέθηκαν έξυπνες ειδοποιήσεις ανάπτυξης</li><li>Βελτιώθηκε το Streak Premium μπόνους</li><li>Βελτιώθηκε η μαζική κατάργηση παρακολούθησης</li><li>Διορθώθηκαν σημαντικά σφάλματα</li></ul>"
-  ],
-  "it": [
-    "<b>Novità</b>",
-    "<ul><li>Nuovo motore di sincronizzazione 10 volte più veloce</li><li>Aggiunti dashboard e grafici della cronologia di crescita</li><li>Aggiunte previsioni di crescita intelligenti</li><li>Aggiunto widget di monitoraggio dei follower</li><li>Aggiunte tendenze di crescita professionale</li><li>Aggiunta la função avanzata Miglior orario di pubblicazione</li><li>Aggiunto indicatore dello stato dell'account</li><li>Aggiunte notifiche di crescita intelligenti</li><li>Migliorato il bonus Streak Premium</li><li>Migliorato l'unfollow di massa</li><li>Risolti i bug principali</li></ul>"
-  ],
-  "es": [
-    "<b>Novedades</b>",
-    "<ul><li>Nuevo motor de sincronización 10 veces más rápido</li><li>Se agregaron el panel y los gráficos de historial de crecimiento</li><li>Se agregaron predicciones de crecimiento inteligentes</li><li>Se agregó el widget de seguimiento de seguidores</li><li>Se agregaron tendencias de crecimiento profesional</li><li>Se agregó la mejor hora avanzada para publicar</li><li>Se agregó el indicador de salud de la cuenta</li><li>Se agregaron notificaciones de crescimento inteligentes</li><li>Se mejoró el bono Streak Premium</li><li>Se mejoró la función de dejar de seguir en masa</li><li>Se corrigieron errores importantes</li></ul>"
-  ],
-  "et": [
-    "<b>Mis uut</b>",
-    "<ul><li>Uus 10x kiirem sünkroonimismootor</li><li>Lisatud kasvuajaloo töölaud ja graafikud</li><li>Lisatud nutikad kasvuprognoosid</li><li>Lisatud jälgijate jälgimise vidin</li><li>Lisatud professionaalsed kasvutrendid</li><li>Lisatud täpsem parim postitamisaeg</li><li>Lisatud konto tervislikkuse indikaator</li><li>Lisatud nutikad kasvuteavitused</li><li>Täiustatud Streak Premium boonust</li><li>Täiustatud massilist jälgimise lõpetamist</li><li>Parandatud suuremad vead</li></ul>"
-  ],
-  "cs": [
-    "<b>Co je nového</b>",
-    "<ul><li>Nový 10x rychlejší synchronizační nástroj</li><li>Přidán panel a grafy historie růstu</li><li>Přidány inteligentní předpovědi růstu</li><li>Přidán widget pro sledování sledujících</li><li>Přidány profesionální trendy růstu</li><li>Přidán pokročilý nejlepší čas pro přidávání příspěvků</li><li>Přidán indikátor zdraví účtu</li><li>Přidána inteligentní upozornění na růst</li><li>Vylepšen bonus Streak Premium</li><li>Vylepšeno hromadné rušení sledování</li><li>Opraveny hlavní chyby</li></ul>"
-  ],
-  "eu": [
-    "<b>Berritasunak</b>",
-    "<ul><li>Sinkronizazio-motor berria, 10 bider azkarragoa</li><li>Hazkunde-historiaren panela eta diagramak gehitu dira</li><li>Hazkunde-aurreikuspen adimendunak gehitu dira</li><li>Jarraitzaileen jarraipena egiteko widget-a gehitu da</li><li>Hazkunde profesionalaren joerak gehitu dira</li><li>Argitaratzeko une onenaren funtzio aurreratua gehitu da</li><li>Kontuaren osasun-adierazlea gehitu da</li><li>Hazkunde-jakinarazpen adimendunak gehitu dira</li><li>Streak Premium bonusa hobetu da</li><li>Mass Unfollow (jarraitzeari taldean uztea) hobetu da</li><li>Akats nagusiak konpondu dira</li></ul>"
-  ],
-  "ar": [
-    "<b>ما الجديد</b>",
-    "<ul><li>محرك مزامنة جديد أسرع بـ 10 مرات</li><li>تم إضافة لوحة تحكم ورسوم بيانية لسجل النمو</li><li>تم إضافة توقعات النمو الذكية</li><li>تم إضافة أداة تتبع المتابعين</li><li>تم إضافة اتجاهات النمو الاحترافي</li><li>تم إضافة ميزة الوقت الأفضل المتقدم للنشر</li><li>تم إضافة مؤشر صحة الحساب</li><li>تم إضافة إشعارات النمو الذكية</li><li>تم تحسين مكافأة Streak Premium</li><li>تم تحسين ميزة إلغاء المتابعة الجماعية</li><li>تم إصلاح الأخطاء البرمجية الكبرى</li></ul>"
-  ],
-  "vi": [
-    "<b>Có gì mới</b>",
-    "<ul><li>Công cụ đồng bộ hóa mới nhanh hơn gấp 10 lần</li><li>Đã thêm bảng điều khiển và biểu đồ lịch sử tăng trưởng</li><li>Đã thêm dự đoán tăng trưởng thông minh</li><li>Đã thêm tiện ích theo dõi người theo dõi</li><li>Đã thêm xu hướng tăng trưởng chuyên nghiệp</li><li>Đã thêm tính năng nâng cao thời gian đăng bài tốt nhất</li><li>Đã thêm chỉ số sức khỏe tài khoản</li><li>Đã thêm thông báo tăng trưởng thông minh</li><li>Đã cải thiện phần thưởng Streak Premium</li><li>Đã cải thiện tính năng hủy theo dõi hàng loạt</li><li>Đã sửa các lỗi lớn</li></ul>"
-  ],
-   "th": [
-    "<b>มีอะไรใหม่</b>",
-    "<ul><li>เครื่องมือซิงค์ใหม่เร็วขึ้น 10 เท่า</li><li>เพิ่มแดชบอร์ดและแผนภูมิประวัติการเติบโตแล้ว</li><li>เพิ่มการคาดการณ์การเติบโตอัจฉริยะแล้ว</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตามแล้ว</li><li>เพิ่มแนวโน้มการเติบโตแบบมืออาชีพแล้ว</li><li>เพิ่มฟีเจอร์ขั้นสูงช่วงเวลาที่ดีที่สุดในการโพสต์แล้ว</li><li>เพิ่มตัวบ่งชี้สถานะบัญชีแล้ว</li><li>เพิ่มการแจ้งเตือนการเติบโตอัจฉริยะแล้ว</li><li>ปรับปรุงโบนัส Streak Premium แล้ว</li><li>ปรับปรุงระบบเลิกติดตามจำนวนมากแล้ว</li><li>แก้ไขข้อผิดพลาดหลักเรียบร้อยแล้ว</li></ul>"
-  ],
-  "ja": [
-    "<b>新機能</b>",
-    "<ul><li>10倍高速になった新しい同期エンジン</li><li>成長履歴ダッシュボードとチャートを追加</li><li>スマート成長予測を追加</li><li>フォロワートラッカーウィジェットを追加</li><li>プロフェッショナルな成長トレンドを追加</li><li>高度な「投稿に最適な時間」を追加</li><li>アカウント健康度インジケーターを追加</li><li>スマート成長通知を追加</li><li>Streakプレミアムボーナスを改善</li><li>一括フォロー解除を改善</li><li>重大なバグを修正</li></ul>"
-  ],
-  "az": [
-    "<b>Yeniliklər</b>",
-    "<ul><li>10 qat daha sürətli yeni sinxronizasiya mühərriki</li><li>Artım tarixi paneli və qrafikləri əlavə edildi</li><li>Ağıllı artım proqnozları əlavə edildi</li><li>Izləyici izləmə vidceti əlavə edildi</li><li>Peşəkar artım trendləri əlavə edildi</li><li>Genişləndirilmiş \"Paylaşım üçün ən yaxşı vaxt\" əlavə edildi</li><li>Hesabın sağlamlıq göstəricisi əlavə edildi</li><li>Ağıllı artım bildirişləri əlavə edildi</li><li>Streak Premium bonusu təkmilləşdirildi</li><li>Kütləvi izləmədən çıxma təkmilləşdirildi</li><li>Ciddi xətalar düzəldildi</li></ul>"
-  ],
-  "fa": [
-    "<b>چه خبر</b>",
-    "<ul><li>موتور همگام‌سازی جدید با سرعت ۱۰ برابر بیشتر</li><li>داشبورد و نمودارهای تاریخچه رشد اضافه شد</li><li>پیش‌بینی‌های هوشمند رشد اضافه شد</li><li>ویجت ردیاب دنبال‌کنندگان اضافه شد</li><li>روندهای رشد حرفه‌ای اضافه شد</li><li>ویژگی پیشرفته بهترین زمان برای پست گذاشتن اضافه شد</li><li>شاخص سلامت حساب کاربری اضافه شد</li><li>اعلان‌های هوشمند رشد اضافه شد</li><li>پاداش Streak Premium بهبود یافت</li><li>قابلیت آنفالو دسته‌جمعی بهبود یافت</li><li>باग‌های اصلی برطرف شدند</li></ul>"
-  ],
-  "pl": [
-    "<b>Co nowego</b>",
-    "<ul><li>Nowy, 10-krotnie szybszy silnik synchronizacji</li><li>Dodano panel i wykresy historii wzrostu</li><li>Dodano inteligentne prognozy wzrostu</li><li>Dodano widżet do śledzenia obserwujących</li><li>Dodano profesjonalne trendy wzrostu</li><li>Dodano zaawansowaną funkcję najlepszego czasu na publikację</li><li>Dodano wskaźnik kondycji konta</li><li>Dodano inteligentne powiadomienia o wzroście</li><li>Ulepszono premię Streak Premium</li><li>Ulepszono masowe cofanie obserwacji</li><li>Naprawiono główne błędy</li></ul>"
-  ],
-  "da": [
-    "<b>Hvad er nyt</b>",
-    "<ul><li>Ny 10x hurtigere synkroniseringsmotor</li><li>Dashboard og diagrammer over væksthistorik tilføjet</li><li>Smarte vækstforudsigelser tilføjet</li><li>Widget til sporing af følgere tilføjet</li><li>Professionelle væksttrends tilføjet</li><li>Avanceret bedste tidspunkt at opslå tilføjet</li><li>Konto-helbredsindikator tilføjet</li><li>Smarte vækstnotifikationer tilføjet</li><li>Streak Premium-bonus forbedret</li><li>Mass Unfollow forbedret</li><li>Større fejl rettet</li></ul>"
-  ],
-  "ro": [
-    "<b>Ce este nou</b>",
-    "<ul><li>Nou motor de sincronizare de 10 ori mai rapid</li><li>Au fost adăugate tabloul de bord și graficele istoricului de creștere</li><li>Au fost adăugate predicții intelligente de creștere</li><li>A fost adăugat widget-ul de urmărire a urmăritorilor</li><li>Au fost adăugate tendințe de creștere profesională</li><li>A fost adăugată funcția avansată pentru cel mai bun moment de postare</li><li>A fost adăugat indicatorul de sănătate al contului</li><li>Au fost adăugate notificări intelligente de creștere</li><li>Bonusul Streak Premium a fost îmbunătățit</li><li>Funcția de dezabonare în masă a fost îmbunătățitâ</li><li>Au fost remediate erorile majore</li></ul>"
-  ],
-  "nl": [
-    "<b>Wat is er nieuw</b>",
-    "<ul><li>Nieuwe 10x snellere synchronisatie-engine</li><li>Groeigeschiedenis-dashboard og grafieken toegevoegd</li><li>Slimme groeivoorspellingen toegevoegd</li><li>Volgers-trackerwidget toegevoegd</li><li>Professionele groeitrends toegevoegd</li><li>Geavanceerde beste tijd om te plaatsen toegevoegd</li><li>Accountgezondheidsindicator toegevoegd</li><li>Slimme groeimeldingen toegevoegd</li><li>Streak Premium-bonus verbeterd</li><li>Massaal ontvolgen verbeterd</li><li>Belangrijke bugs opgelost</li></ul>"
-  ],
-  "tr": [
-    "<b>Yenilikler</b>",
-    "<ul><li>Yeni 10 Kat Daha Hızlı Senkronizasyon Motoru</li><li>Büyüme Geçmişi Paneli ve Grafikleri Eklendi</li><li>Akıllı Büyüme Tahminleri Eklendi</li><li>Takipçi Takip Aracı (Widget) Eklendi</li><li>Profesyonel Büyüme Trendleri Eklendi</li><li>Gelişmiş Gönderi Paylaşımı İçin En İyi Zaman Eklendi</li><li>Hesap Sağlığı Göstergesi Eklendi</li><li>Akıllı Büyüme Bildirimleri Eklendi</li><li>Seri (Streak) Premium Bonusu Geliştirildi</li><li>Toplu Takibi Bırakma Geliştirildi</li><li>Önemli Hatalar Düzeltildi</li></ul>"
-  ]
-        }
-
+{
+  "version": "1.56",
+  "messages": {
+    "en": [
+      "<b>What's New</b>",
+      "<ul><li>New 10x Faster Syncing Engine</li><li>Growth History Dashboard And Charts Added</li><li>Smart Growth Predictions Added</li><li>Follower Tracker Widget Added</li><li>Professional Growth Reports</li></ul>"
+    ],
+    "de": [
+      "<b>Was gibt's Neues</b>",
+      "<ul><li>Neue 10x schnellere Sync-Engine</li><li>Dashboard und Diagramme für den Wachstumsverlauf hinzugefügt</li><li>Intelligente Wachstumsprognosen hinzugefügt</li><li>Follower-Tracker-Widget hinzugefügt</li><li>Professionelle Wachstumsberichte</li></ul>"
+    ],
+    "hi": [
+      "<b>नया क्या है</b>",
+      "<ul><li>नया 10 गुना तेज़ सिंकिंग इंजन</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट जोड़े गए</li><li>स्मार्ट ग्रोथ प्रेडिक्शन्स जोड़े गए</li><li>फॉलोअर ट्रैकर विजेट जोड़ा गया</li><li>प्रोफेशनल ग्रोथ रिपोर्ट्स</li></ul>"
+    ],
+    "be": [
+      "<b>Што новага</b>",
+      "<ul><li>Новы ў 10 разоў хутчэйшы рухавічок сінхранізацыі</li><li>Дададзены панэль і графікі гісторыі росту</li><li>Дададзены разумныя прагнозы росту</li><li>Дададзены віджэт для сачыванні прыхаваўцаў</li><li>Прафесійныя справаводы росту</li></ul>"
+    ],
+    "fi": [
+      "<b>Mitä uutta</b>",
+      "<ul><li>Uusi 10 kertaa nopeampi synkronointimoottori</li><li>Kasvuhistorian hallintapaneeli ja kaaviot lisätty</li><li>Älykkäät kasvuennusteet lisätty</li><li>Seuraajien seurantawidget lisätty</li><li>Ammattimaiset kasvuraportit</li></ul>"
+    ],
+    "ru": [
+      "<b>Что нового</b>",
+      "<ul><li>Новый в 10 раз более быстрый движок синхронизации</li><li>Добавлены панель и графики истории роста</li><li>Добавлены интеллектуальные прогнозы роста</li><li>Добавлен виджет отслеживания подписчиков</li><li>Профессиональные отчеты о росте</li></ul>"
+    ],
+    "pt": [
+      "<b>O que há de novo</b>",
+      "<ul><li>Novo mecanismo de sincronização 10x mais rápido</li><li>Painel e gráficos de histórico de crescimento adicionados</li><li>Previsões de crescimento inteligentes adicionadas</li><li>Widget rastreador de seguidores adicionado</li><li>Relatórios profissionais de crescimento</li></ul>"
+    ],
+    "bg": [
+      "<b>Какво ново</b>",
+      "<ul><li>Нов 10 пъти по-бърз двигател за синхронизиране</li><li>Добавени са табло и диаграми за история на растежа</li><li>Добавени са интелигентни прогнози за растеж</li><li>Добавен е джаджа за проследяване на последователите</li><li>Професионални доклади за растеж</li></ul>"
+    ],
+    "fil": [
+      "<b>Ano'ng Bago</b>",
+      "<ul><li>Bagong 10x Mas Mabilis na Syncing Engine</li><li>Idinagdag ang Dashboard at Mga Chart ng History ng Paglago</li><li>Idinagdag ang Mga Smart na Prediksyon sa Paglago</li><li>Idinagdag ang Widget para sa Pagsubaybay sa mga Follower</li><li>Propesyonal na Mga Ulat ng Paglago</li></ul>"
+    ],
+    "lt": [
+      "<b>Kas naujo</b>",
+      "<ul><li>Naujas 10 kartų spartesnis sinchronizavimo variklis</li><li>Pridėtas augimo istorijos prietaisų skydelis ir diagramos</li><li>Pridėtos išmaniosios augimo prognozės</li><li>Pridėtas sekiklis sekėjams stebėti</li><li>Profesionalūs augimo ataskaitai</li></ul>"
+    ],
+    "hr": [
+      "<b>Što je novo</b>",
+      "<ul><li>Novi 10x brži mehanizam za sinkronizaciju</li><li>Dodane nadzorna ploča i grafikoni povijesti rasta</li><li>Dodana pametna predviđanja rasta</li><li>Dodana kartica za praćenje pratitelja</li><li>Profesionalni izvještaji o rastu</li></ul>"
+    ],
+    "fr": [
+      "<b>Quoi de neuf</b>",
+      "<ul><li>Nouveau moteur de synchronisation 10x plus rapide</li><li>Tableau de bord et graphiques de l'historique de croissance ajoutés</li><li>Prédictions de croissance intelligentes ajoutées</li><li>Widget de suivi des abonnés ajouté</li><li>Rapports professionnels de croissance</li></ul>"
+    ],
+    "hu": [
+      "<b>Újdonságok</b>",
+      "<ul><li>Új, 10-szer gyorsabb szinkronizáló motor</li><li>Növekedési előzmények irányítópult és diagramok hozzáadva</li><li>Intelligens növekedési előrejelzések hozzáadva</li><li>Követő nyomonkövetési widget hozzáadva</li><li>Professzionális növekedési jelentések</li></ul>"
+    ],
+    "uk": [
+      "<b>Що нового</b>",
+      "<ul><li>Новий у 10 разів швидший рушій синхронізації</li><li>Додано панель та графіки історії зростання</li><li>Додано інтелектуальні прогнози зростання</li><li>Додано віджет для відстеження послідовників</li><li>Професійні звіти про зростання</li></ul>"
+    ],
+    "sk": [
+      "<b>Čo je nové</b>",
+      "<ul><li>Nový 10x rýchlejší synchronizačný nástroj</li><li>Pridaný panel a grafy histórie rastu</li><li>Pridané inteligentné predpovede rastu</li><li>Pridaný widget na sledovanie sledovateľov</li><li>Profesionálne správy o raste</li></ul>"
+    ],
+    "sl": [
+      "<b>Kaj je novega</b>",
+      "<ul><li>Nov 10-krat hitrejši motor za sinhronizacijo</li><li>Dodana nadzorna plošča in grafikoni zgodovine rasti</li><li>Dodane pametne napovedi rasti</li><li>Dodan gradnik za spremljanje sledilcev</li><li>Profesionalna poročila o rasti</li></ul>"
+    ],
+    "ca": [
+      "<b>Novetats</b>",
+      "<ul><li>Nou motor de sincronització 10 vegades més ràpid</li><li>S'ha afegit el tauler i els gràfics de l'historial de creixement</li><li>S'han afegit prediccions de creixement intel·ligents</li><li>S'ha afegit el widget de seguiment de seguidors</li><li>Informes professionals de creixement</li></ul>"
+    ],
+    "mk": [
+      "<b>Што е ново</b>",
+      "<ul><li>Нов 10 пати побрз мотор за синхронизација</li><li>Додадени се контролна табла и графикони за историја на раст</li><li>Додадени се паметни прогнози за раст</li><li>Додадено е приклучок за следење на следбеници</li><li>Професионални извештаи за раст</li></ul>"
+    ],
+    "sq": [
+      "<b>Çfarë ka të re</b>",
+      "<ul><li>Motor i ri sinkronizimi 10 herë më i shpejtë</li><li>Shtohen paneli dhe grafikët e historisë së rritjes</li><li>Shtohen parashikimet inteligjente të rritjes</li><li>Shtohet widget-i për ndjekjen e ndjekësve</li><li>Raportet profesionale të rritjes</li></ul>"
+    ],
+    "ml": [
+      "<b>പുതിയ വിവരങ്ങൾ</b>",
+      "<ul><li>പുതിയ 10 മടങ്ങ് വേഗതയേറിയ സിൻകിംഗ് എഞ്ചിൻ</li><li>വളർച്ചാ ചരിത്ര ഡാഷ്‌ബോർഡും ചാർട്ടുകളും ചേർത്തു</li><li>സ്മാർട്ട് വളർച്ചാ പൂർവ്വാനുമാനങ്ങൾ ചേർത്തു</li><li>ഫോളോവർ ട്രാക്കർ വിജെറ്റ് ചേർത്തു</li><li>പ്രൊഫഷണൽ വളർച്ചാ റിപ്പോർട്ടുകൾ</li></ul>"
+    ],
+    "sr": [
+      "<b>Шта је ново</b>",
+      "<ul><li>Нови 10 пута бржи мотор за синхронизацију</li><li>Додати су контролна табла и графикони историје раста</li><li>Додате су паметне предвиђања раста</li><li>Додат је виџет за праћење пратилаца</li><li>Професионални извештаји о раста</li></ul>"
+    ],
+    "sv": [
+      "<b>Nyheter</b>",
+      "<ul><li>Ny 10x snabbare synkroniseringsmotor</li><li>Instrumentpanel och diagram för tillväxthistorik har lagts till</li><li>Smarta tillväxtprognoser har lagts till</li><li>Widget för följarspårning har lagts till</li><li>Professionella tillväxtrapporter</li></ul>"
+    ],
+    "ko": [
+      "<b>새로운 기능</b>",
+      "<ul><li>10배 더 빨라진 새로운 동기화 엔진</li><li>성장 기록 대시보드 및 차트 추가</li><li>스마트 성장 예측 추가</li><li>팔로워 추적 위젯 추가</li><li>전문적인 성장 보고서</li></ul>"
+    ],
+    "af": [
+      "<b>Wat's Nuut</b>",
+      "<ul><li>Nuwe 10x vinniger sinchroniseerenjin</li><li>Groeigeskiedenis-tekenbord en -grafieke bygevoeg</li><li>Slim groeivoorspellings bygevoeg</li><li>Volger-spoorder-dingesie (widget) bygevoeg</li><li>Professionele groeiverslae</li></ul>"
+    ],
+    "in": [
+      "<b>Yang Baru</b>",
+      "<ul><li>Mesin Sinkronisasi Baru 10x Lebih Cepat</li><li>Dasbor Dan Grafik Riwayat Pertumbuhan Ditambahkan</li><li>Prediksi Pertumbuhan Pintar Ditambahkan</li><li>Widget Pelacak Pengikut Ditambahkan</li><li>Laporan Pertumbuhan Profesional</li></ul>"
+    ],
+    "ms": [
+      "<b>Apa yang Baharu</b>",
+      "<ul><li>Enjin Sinkronan 10x Lebih Pantas Baharu</li><li>Papan Pemuka Dan Carta Sejarah Pertumbuhan Ditambah</li><li>Ramalan Pertumbuhan Pintar Ditambah</li><li>Widget Penjejak Pengikut Ditambah</li><li>Laporan Pertumbuhan Profesional</li></ul>"
+    ],
+    "el": [
+      "<b>Τι νέο υπάρχει</b>",
+      "<ul><li>Νέος 10 φορές ταχύτερος μηχανισμός συγχρονισμού</li><li>Προστέθηκε πίνακας ελέγχου και γραφήματα ιστορικού ανάπτυξης</li><li>Προστέθηκαν έξυπνες προβλέψεις ανάπτυξης</li><li>Προστέθηκε γραφικό στοιχείο ιχνηλάτησης ακολούθων</li><li>Επαγγελματικές αναφορές ανάπτυξης</li></ul>"
+    ],
+    "it": [
+      "<b>Novità</b>",
+      "<ul><li>Nuovo motore di sincronizzazione 10 volte più veloce</li><li>Aggiunti dashboard e grafici della cronologia di crescita</li><li>Aggiunte previsioni di crescita intelligenti</li><li>Aggiunto widget di tracciamento dei follower</li><li>Rapporti di crescita professionali</li></ul>"
+    ],
+    "es": [
+      "<b>Novedades</b>",
+      "<ul><li>Nuevo motor de sincronización 10 veces más rápido</li><li>Se agregaron el panel y los gráficos de historial de crecimiento</li><li>Se agregaron predicciones de crecimiento inteligente</li><li>Se agregó el widget de rastreador de seguidores</li><li>Informes de crecimiento profesionales</li></ul>"
+    ],
+    "et": [
+      "<b>Mis uut</b>",
+      "<ul><li>Uus 10x kiirem sünkroonimismootor</li><li>Lisatud kasvuajaloo töölaud ja graafikud</li><li>Lisatud nutikad kasvuprognoosid</li><li>Lisatud jälgijate jälgimise vidin</li><li>Professionaalsed kasvuaruanded</li></ul>"
+    ],
+    "cs": [
+      "<b>Co je nového</b>",
+      "<ul><li>Nový 10x rychlejší synchronizační nástroj</li><li>Přidán panel a grafy historie růstu</li><li>Přidány inteligentní předpovědi růstu</li><li>Přidán widget pro sledování sledujících</li><li>Profesionální zprávy o růstu</li></ul>"
+    ],
+    "eu": [
+      "<b>Berritasunak</b>",
+      "<ul><li>Sinkronizazio-motor berria, 10 bider azkarragoa</li><li>Hazkunde-historiaren panela eta diagramak gehitu dira</li><li>Hazkunde-aurreikuspen adimendunak gehitu dira</li><li>Jarraitzaileen jarraitzeko widgeta gehitu da</li><li>Hazkunde-txostenen profesionalak</li></ul>"
+    ],
+    "ar": [
+      "<b>ما الجديد</b>",
+      "<ul><li>محرك مزامنة جديد أسرع بـ 10 مرات</li><li>تم إضافة لوحة تحكم ورسوم بيانية لسجل النمو</li><li>تم إضافة توقعات النمو الذكية</li><li>تم إضافة أداة تتبع المتابعين</li><li>تقارير النمو الاحترافية</li></ul>"
+    ],
+    "vi": [
+      "<b>Có gì mới</b>",
+      "<ul><li>Công cụ đồng bộ hóa mới nhanh hơn gấp 10 lần</li><li>Đã thêm bảng điều khiển và biểu đồ lịch sử tăng trưởng</li><li>Đã thêm dự đoán tăng trưởng thông minh</li><li>Đã thêm tiện ích theo dõi người theo dõi</li><li>Báo cáo tăng trưởng chuyên nghiệp</li></ul>"
+    ],
+    "th": [
+      "<b>มีอะไรใหม่</b>",
+      "<ul><li>เครื่องมือซิงค์ใหม่เร็วขึ้น 10 เท่า</li><li>เพิ่มแดชบอร์ดและแผนภูมิประวัติการเติบโต</li><li>เพิ่มการทำนายการเติบโตที่ฉลาด</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตาม</li><li>รายงานการเติบโตระดับมืออาชีพ</li></ul>"
+    ],
+    "ja": [
+      "<b>新機能</b>",
+      "<ul><li>10倍高速になった新しい同期エンジン</li><li>成長履歴ダッシュボードとチャートを追加</li><li>スマート成長予測を追加</li><li>フォロワー追跡ウィジェットを追加</li><li>プロフェッショナルな成長レポート</li></ul>"
+    ],
+    "az": [
+      "<b>Yeniliklər</b>",
+      "<ul><li>10 qat daha sürətli yeni sinxronizasiya mühərriki</li><li>Artım tarixi paneli və qrafikləri əlavə edildi</li><li>Ağıllı artım proqnozları əlavə edildi</li><li>İzləyici izləmə vidceti əlavə edildi</li><li>Peşəkar artım hesabatları</li></ul>"
+    ],
+    "fa": [
+      "<b>چه خبر</b>",
+      "<ul><li>موتور همگام‌سازی جدید با سرعت ۱۰ برابر بیشتر</li><li>داشبورد و نمودارهای تاریخچه رشد اضافه شد</li><li>پیش‌بینی‌های رشد هوشمند اضافه شد</li><li>ابزار پیگیری دنبال‌کنندگان اضافه شد</li><li>گزارشات رشد حرفه‌ای</li></ul>"
+    ],
+    "pl": [
+      "<b>Co nowego</b>",
+      "<ul><li>Nowy, 10-krotnie szybszy silnik synchronizacji</li><li>Dodano panel i wykresy historii wzrostu</li><li>Dodano inteligentne prognozy wzrostu</li><li>Dodano widżet do śledzenia obserwujących</li><li>Profesjonalne raporty wzrostu</li></ul>"
+    ],
+    "da": [
+      "<b>Hvad er nyt</b>",
+      "<ul><li>Ny 10x hurtigere synkroniseringsmotor</li><li>Dashboard og diagrammer over væksthistorik tilføjet</li><li>Smarte vækstforudsigelser tilføjet</li><li>Widget til sporing af følgere tilføjet</li><li>Professionelle vækstrapporter</li></ul>"
+    ],
+    "ro": [
+      "<b>Ce este nou</b>",
+      "<ul><li>Nou motor de sincronizare de 10 ori mai rapid</li><li>Au fost adăugate tabloul de bord și graficele istoricului de creștere</li><li>Au fost adăugate predicții inteligente de creștere</li><li>A fost adăugat widgetul de urmărire a urmăritorilor</li><li>Rapoarte de creștere profesionale</li></ul>"
+    ],
+    "nl": [
+      "<b>Wat is er nieuw</b>",
+      "<ul><li>Nieuwe 10x snellere synchronisatie-engine</li><li>Groeigeschiedenis-dashboard en grafieken toegevoegd</li><li>Slimme groeivoorspellingen toegevoegd</li><li>Volgers-trackerwidget toegevoegd</li><li>Professionele groeirapporten</li></ul>"
+    ],
+    "tr": [
+      "<b>Yenilikler</b>",
+      "<ul><li>Yeni 10 Kat Daha Hızlı Senkronizasyon Motoru</li><li>Büyüme Geçmişi Paneli ve Grafikleri Eklendi</li><li>Akıllı Büyüme Tahminleri Eklendi</li><li>Takipçi Takip Aracı (Widget) Eklendi</li><li>Profesyonel Büyüme Raporları</li></ul>"
+    ]
+  }
 }
