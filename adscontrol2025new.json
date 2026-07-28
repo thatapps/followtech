@@ -10,6 +10,10 @@
     "show_admob_native_ad": true,
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
+
+    "show_plans_1": false, // (1W, 1M, 3M)
+    "show_plans_2": false, // (1W, 1M, 12M)
+    "show_plans_3": false, // (1W, 3M, 12M)
     
     
      "is_insight_unlocked": true, // False means it will show dialog
