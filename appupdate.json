@@ -1,177 +1,178 @@
 {
-  "version": "1.56",
+  "version": "1.57",
   "messages": {
-    "en": [
-      "<b>What's New</b>",
-      "<ul><li>New 10x Faster Syncing Engine</li><li>Growth History Dashboard And Charts Added</li><li>Smart Growth Predictions Added</li><li>Follower Tracker Widget Added</li><li>Professional Growth Reports</li></ul>"
-    ],
-    "de": [
-      "<b>Was gibt's Neues</b>",
-      "<ul><li>Neue 10x schnellere Sync-Engine</li><li>Dashboard und Diagramme für den Wachstumsverlauf hinzugefügt</li><li>Intelligente Wachstumsprognosen hinzugefügt</li><li>Follower-Tracker-Widget hinzugefügt</li><li>Professionelle Wachstumsberichte</li></ul>"
-    ],
-    "hi": [
-      "<b>नया क्या है</b>",
-      "<ul><li>नया 10 गुना तेज़ सिंकिंग इंजन</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट जोड़े गए</li><li>स्मार्ट ग्रोथ प्रेडिक्शन्स जोड़े गए</li><li>फॉलोअर ट्रैकर विजेट जोड़ा गया</li><li>प्रोफेशनल ग्रोथ रिपोर्ट्स</li></ul>"
-    ],
-    "be": [
-      "<b>Што новага</b>",
-      "<ul><li>Новы ў 10 разоў хутчэйшы рухавічок сінхранізацыі</li><li>Дададзены панэль і графікі гісторыі росту</li><li>Дададзены разумныя прагнозы росту</li><li>Дададзены віджэт для сачыванні прыхаваўцаў</li><li>Прафесійныя справаводы росту</li></ul>"
-    ],
-    "fi": [
-      "<b>Mitä uutta</b>",
-      "<ul><li>Uusi 10 kertaa nopeampi synkronointimoottori</li><li>Kasvuhistorian hallintapaneeli ja kaaviot lisätty</li><li>Älykkäät kasvuennusteet lisätty</li><li>Seuraajien seurantawidget lisätty</li><li>Ammattimaiset kasvuraportit</li></ul>"
-    ],
-    "ru": [
-      "<b>Что нового</b>",
-      "<ul><li>Новый в 10 раз более быстрый движок синхронизации</li><li>Добавлены панель и графики истории роста</li><li>Добавлены интеллектуальные прогнозы роста</li><li>Добавлен виджет отслеживания подписчиков</li><li>Профессиональные отчеты о росте</li></ul>"
-    ],
-    "pt": [
-      "<b>O que há de novo</b>",
-      "<ul><li>Novo mecanismo de sincronização 10x mais rápido</li><li>Painel e gráficos de histórico de crescimento adicionados</li><li>Previsões de crescimento inteligentes adicionadas</li><li>Widget rastreador de seguidores adicionado</li><li>Relatórios profissionais de crescimento</li></ul>"
-    ],
-    "bg": [
-      "<b>Какво ново</b>",
-      "<ul><li>Нов 10 пъти по-бърз двигател за синхронизиране</li><li>Добавени са табло и диаграми за история на растежа</li><li>Добавени са интелигентни прогнози за растеж</li><li>Добавен е джаджа за проследяване на последователите</li><li>Професионални доклади за растеж</li></ul>"
-    ],
-    "fil": [
-      "<b>Ano'ng Bago</b>",
-      "<ul><li>Bagong 10x Mas Mabilis na Syncing Engine</li><li>Idinagdag ang Dashboard at Mga Chart ng History ng Paglago</li><li>Idinagdag ang Mga Smart na Prediksyon sa Paglago</li><li>Idinagdag ang Widget para sa Pagsubaybay sa mga Follower</li><li>Propesyonal na Mga Ulat ng Paglago</li></ul>"
-    ],
-    "lt": [
-      "<b>Kas naujo</b>",
-      "<ul><li>Naujas 10 kartų spartesnis sinchronizavimo variklis</li><li>Pridėtas augimo istorijos prietaisų skydelis ir diagramos</li><li>Pridėtos išmaniosios augimo prognozės</li><li>Pridėtas sekiklis sekėjams stebėti</li><li>Profesionalūs augimo ataskaitai</li></ul>"
-    ],
-    "hr": [
-      "<b>Što je novo</b>",
-      "<ul><li>Novi 10x brži mehanizam za sinkronizaciju</li><li>Dodane nadzorna ploča i grafikoni povijesti rasta</li><li>Dodana pametna predviđanja rasta</li><li>Dodana kartica za praćenje pratitelja</li><li>Profesionalni izvještaji o rastu</li></ul>"
-    ],
-    "fr": [
-      "<b>Quoi de neuf</b>",
-      "<ul><li>Nouveau moteur de synchronisation 10x plus rapide</li><li>Tableau de bord et graphiques de l'historique de croissance ajoutés</li><li>Prédictions de croissance intelligentes ajoutées</li><li>Widget de suivi des abonnés ajouté</li><li>Rapports professionnels de croissance</li></ul>"
-    ],
-    "hu": [
-      "<b>Újdonságok</b>",
-      "<ul><li>Új, 10-szer gyorsabb szinkronizáló motor</li><li>Növekedési előzmények irányítópult és diagramok hozzáadva</li><li>Intelligens növekedési előrejelzések hozzáadva</li><li>Követő nyomonkövetési widget hozzáadva</li><li>Professzionális növekedési jelentések</li></ul>"
-    ],
-    "uk": [
-      "<b>Що нового</b>",
-      "<ul><li>Новий у 10 разів швидший рушій синхронізації</li><li>Додано панель та графіки історії зростання</li><li>Додано інтелектуальні прогнози зростання</li><li>Додано віджет для відстеження послідовників</li><li>Професійні звіти про зростання</li></ul>"
-    ],
-    "sk": [
-      "<b>Čo je nové</b>",
-      "<ul><li>Nový 10x rýchlejší synchronizačný nástroj</li><li>Pridaný panel a grafy histórie rastu</li><li>Pridané inteligentné predpovede rastu</li><li>Pridaný widget na sledovanie sledovateľov</li><li>Profesionálne správy o raste</li></ul>"
-    ],
-    "sl": [
-      "<b>Kaj je novega</b>",
-      "<ul><li>Nov 10-krat hitrejši motor za sinhronizacijo</li><li>Dodana nadzorna plošča in grafikoni zgodovine rasti</li><li>Dodane pametne napovedi rasti</li><li>Dodan gradnik za spremljanje sledilcev</li><li>Profesionalna poročila o rasti</li></ul>"
-    ],
-    "ca": [
-      "<b>Novetats</b>",
-      "<ul><li>Nou motor de sincronització 10 vegades més ràpid</li><li>S'ha afegit el tauler i els gràfics de l'historial de creixement</li><li>S'han afegit prediccions de creixement intel·ligents</li><li>S'ha afegit el widget de seguiment de seguidors</li><li>Informes professionals de creixement</li></ul>"
-    ],
-    "mk": [
-      "<b>Што е ново</b>",
-      "<ul><li>Нов 10 пати побрз мотор за синхронизација</li><li>Додадени се контролна табла и графикони за историја на раст</li><li>Додадени се паметни прогнози за раст</li><li>Додадено е приклучок за следење на следбеници</li><li>Професионални извештаи за раст</li></ul>"
-    ],
-    "sq": [
-      "<b>Çfarë ka të re</b>",
-      "<ul><li>Motor i ri sinkronizimi 10 herë më i shpejtë</li><li>Shtohen paneli dhe grafikët e historisë së rritjes</li><li>Shtohen parashikimet inteligjente të rritjes</li><li>Shtohet widget-i për ndjekjen e ndjekësve</li><li>Raportet profesionale të rritjes</li></ul>"
-    ],
-    "ml": [
-      "<b>പുതിയ വിവരങ്ങൾ</b>",
-      "<ul><li>പുതിയ 10 മടങ്ങ് വേഗതയേറിയ സിൻകിംഗ് എഞ്ചിൻ</li><li>വളർച്ചാ ചരിത്ര ഡാഷ്‌ബോർഡും ചാർട്ടുകളും ചേർത്തു</li><li>സ്മാർട്ട് വളർച്ചാ പൂർവ്വാനുമാനങ്ങൾ ചേർത്തു</li><li>ഫോളോവർ ട്രാക്കർ വിജെറ്റ് ചേർത്തു</li><li>പ്രൊഫഷണൽ വളർച്ചാ റിപ്പോർട്ടുകൾ</li></ul>"
-    ],
-    "sr": [
-      "<b>Шта је ново</b>",
-      "<ul><li>Нови 10 пута бржи мотор за синхронизацију</li><li>Додати су контролна табла и графикони историје раста</li><li>Додате су паметне предвиђања раста</li><li>Додат је виџет за праћење пратилаца</li><li>Професионални извештаји о раста</li></ul>"
-    ],
-    "sv": [
-      "<b>Nyheter</b>",
-      "<ul><li>Ny 10x snabbare synkroniseringsmotor</li><li>Instrumentpanel och diagram för tillväxthistorik har lagts till</li><li>Smarta tillväxtprognoser har lagts till</li><li>Widget för följarspårning har lagts till</li><li>Professionella tillväxtrapporter</li></ul>"
-    ],
-    "ko": [
-      "<b>새로운 기능</b>",
-      "<ul><li>10배 더 빨라진 새로운 동기화 엔진</li><li>성장 기록 대시보드 및 차트 추가</li><li>스마트 성장 예측 추가</li><li>팔로워 추적 위젯 추가</li><li>전문적인 성장 보고서</li></ul>"
-    ],
-    "af": [
-      "<b>Wat's Nuut</b>",
-      "<ul><li>Nuwe 10x vinniger sinchroniseerenjin</li><li>Groeigeskiedenis-tekenbord en -grafieke bygevoeg</li><li>Slim groeivoorspellings bygevoeg</li><li>Volger-spoorder-dingesie (widget) bygevoeg</li><li>Professionele groeiverslae</li></ul>"
-    ],
-    "in": [
-      "<b>Yang Baru</b>",
-      "<ul><li>Mesin Sinkronisasi Baru 10x Lebih Cepat</li><li>Dasbor Dan Grafik Riwayat Pertumbuhan Ditambahkan</li><li>Prediksi Pertumbuhan Pintar Ditambahkan</li><li>Widget Pelacak Pengikut Ditambahkan</li><li>Laporan Pertumbuhan Profesional</li></ul>"
-    ],
-    "ms": [
-      "<b>Apa yang Baharu</b>",
-      "<ul><li>Enjin Sinkronan 10x Lebih Pantas Baharu</li><li>Papan Pemuka Dan Carta Sejarah Pertumbuhan Ditambah</li><li>Ramalan Pertumbuhan Pintar Ditambah</li><li>Widget Penjejak Pengikut Ditambah</li><li>Laporan Pertumbuhan Profesional</li></ul>"
-    ],
-    "el": [
-      "<b>Τι νέο υπάρχει</b>",
-      "<ul><li>Νέος 10 φορές ταχύτερος μηχανισμός συγχρονισμού</li><li>Προστέθηκε πίνακας ελέγχου και γραφήματα ιστορικού ανάπτυξης</li><li>Προστέθηκαν έξυπνες προβλέψεις ανάπτυξης</li><li>Προστέθηκε γραφικό στοιχείο ιχνηλάτησης ακολούθων</li><li>Επαγγελματικές αναφορές ανάπτυξης</li></ul>"
-    ],
-    "it": [
-      "<b>Novità</b>",
-      "<ul><li>Nuovo motore di sincronizzazione 10 volte più veloce</li><li>Aggiunti dashboard e grafici della cronologia di crescita</li><li>Aggiunte previsioni di crescita intelligenti</li><li>Aggiunto widget di tracciamento dei follower</li><li>Rapporti di crescita professionali</li></ul>"
-    ],
-    "es": [
-      "<b>Novedades</b>",
-      "<ul><li>Nuevo motor de sincronización 10 veces más rápido</li><li>Se agregaron el panel y los gráficos de historial de crecimiento</li><li>Se agregaron predicciones de crecimiento inteligente</li><li>Se agregó el widget de rastreador de seguidores</li><li>Informes de crecimiento profesionales</li></ul>"
-    ],
-    "et": [
-      "<b>Mis uut</b>",
-      "<ul><li>Uus 10x kiirem sünkroonimismootor</li><li>Lisatud kasvuajaloo töölaud ja graafikud</li><li>Lisatud nutikad kasvuprognoosid</li><li>Lisatud jälgijate jälgimise vidin</li><li>Professionaalsed kasvuaruanded</li></ul>"
-    ],
-    "cs": [
-      "<b>Co je nového</b>",
-      "<ul><li>Nový 10x rychlejší synchronizační nástroj</li><li>Přidán panel a grafy historie růstu</li><li>Přidány inteligentní předpovědi růstu</li><li>Přidán widget pro sledování sledujících</li><li>Profesionální zprávy o růstu</li></ul>"
-    ],
-    "eu": [
-      "<b>Berritasunak</b>",
-      "<ul><li>Sinkronizazio-motor berria, 10 bider azkarragoa</li><li>Hazkunde-historiaren panela eta diagramak gehitu dira</li><li>Hazkunde-aurreikuspen adimendunak gehitu dira</li><li>Jarraitzaileen jarraitzeko widgeta gehitu da</li><li>Hazkunde-txostenen profesionalak</li></ul>"
-    ],
-    "ar": [
-      "<b>ما الجديد</b>",
-      "<ul><li>محرك مزامنة جديد أسرع بـ 10 مرات</li><li>تم إضافة لوحة تحكم ورسوم بيانية لسجل النمو</li><li>تم إضافة توقعات النمو الذكية</li><li>تم إضافة أداة تتبع المتابعين</li><li>تقارير النمو الاحترافية</li></ul>"
-    ],
-    "vi": [
-      "<b>Có gì mới</b>",
-      "<ul><li>Công cụ đồng bộ hóa mới nhanh hơn gấp 10 lần</li><li>Đã thêm bảng điều khiển và biểu đồ lịch sử tăng trưởng</li><li>Đã thêm dự đoán tăng trưởng thông minh</li><li>Đã thêm tiện ích theo dõi người theo dõi</li><li>Báo cáo tăng trưởng chuyên nghiệp</li></ul>"
-    ],
-    "th": [
-      "<b>มีอะไรใหม่</b>",
-      "<ul><li>เครื่องมือซิงค์ใหม่เร็วขึ้น 10 เท่า</li><li>เพิ่มแดชบอร์ดและแผนภูมิประวัติการเติบโต</li><li>เพิ่มการทำนายการเติบโตที่ฉลาด</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตาม</li><li>รายงานการเติบโตระดับมืออาชีพ</li></ul>"
-    ],
-    "ja": [
-      "<b>新機能</b>",
-      "<ul><li>10倍高速になった新しい同期エンジン</li><li>成長履歴ダッシュボードとチャートを追加</li><li>スマート成長予測を追加</li><li>フォロワー追跡ウィジェットを追加</li><li>プロフェッショナルな成長レポート</li></ul>"
-    ],
-    "az": [
-      "<b>Yeniliklər</b>",
-      "<ul><li>10 qat daha sürətli yeni sinxronizasiya mühərriki</li><li>Artım tarixi paneli və qrafikləri əlavə edildi</li><li>Ağıllı artım proqnozları əlavə edildi</li><li>İzləyici izləmə vidceti əlavə edildi</li><li>Peşəkar artım hesabatları</li></ul>"
-    ],
-    "fa": [
-      "<b>چه خبر</b>",
-      "<ul><li>موتور همگام‌سازی جدید با سرعت ۱۰ برابر بیشتر</li><li>داشبورد و نمودارهای تاریخچه رشد اضافه شد</li><li>پیش‌بینی‌های رشد هوشمند اضافه شد</li><li>ابزار پیگیری دنبال‌کنندگان اضافه شد</li><li>گزارشات رشد حرفه‌ای</li></ul>"
-    ],
-    "pl": [
-      "<b>Co nowego</b>",
-      "<ul><li>Nowy, 10-krotnie szybszy silnik synchronizacji</li><li>Dodano panel i wykresy historii wzrostu</li><li>Dodano inteligentne prognozy wzrostu</li><li>Dodano widżet do śledzenia obserwujących</li><li>Profesjonalne raporty wzrostu</li></ul>"
-    ],
-    "da": [
-      "<b>Hvad er nyt</b>",
-      "<ul><li>Ny 10x hurtigere synkroniseringsmotor</li><li>Dashboard og diagrammer over væksthistorik tilføjet</li><li>Smarte vækstforudsigelser tilføjet</li><li>Widget til sporing af følgere tilføjet</li><li>Professionelle vækstrapporter</li></ul>"
-    ],
-    "ro": [
-      "<b>Ce este nou</b>",
-      "<ul><li>Nou motor de sincronizare de 10 ori mai rapid</li><li>Au fost adăugate tabloul de bord și graficele istoricului de creștere</li><li>Au fost adăugate predicții inteligente de creștere</li><li>A fost adăugat widgetul de urmărire a urmăritorilor</li><li>Rapoarte de creștere profesionale</li></ul>"
-    ],
-    "nl": [
-      "<b>Wat is er nieuw</b>",
-      "<ul><li>Nieuwe 10x snellere synchronisatie-engine</li><li>Groeigeschiedenis-dashboard en grafieken toegevoegd</li><li>Slimme groeivoorspellingen toegevoegd</li><li>Volgers-trackerwidget toegevoegd</li><li>Professionele groeirapporten</li></ul>"
-    ],
-    "tr": [
-      "<b>Yenilikler</b>",
-      "<ul><li>Yeni 10 Kat Daha Hızlı Senkronizasyon Motoru</li><li>Büyüme Geçmişi Paneli ve Grafikleri Eklendi</li><li>Akıllı Büyüme Tahminleri Eklendi</li><li>Takipçi Takip Aracı (Widget) Eklendi</li><li>Profesyonel Büyüme Raporları</li></ul>"
-    ]
+   "en": [
+ "<b>What's New</b>",
+      "<ul><li>New Engagement Hub</li> 
+<li>New Daily Profile Audit</li><li>Enhanced Best Time to Post<li>Growth History Dashboard And Charts Added</li><li>New 10x Faster Syncing Engine</li><li>Follower Tracker Widget Added</li><li>Professional Growth Reports</li><li>Bugs Fixed</li></ul>"],
+ "de": [
+    "<b>Was gibt's Neues</b>",
+    "<ul><li>Neues Engagement-Hub</li><li>Neues tägliches Profil-Audit</li><li>Optimierte beste Zeit zum Posten</li><li>Wachstumsverlauf-Dashboard und Diagramme hinzugefügt</li><li>Neue, 10-mal schnellere Synchronisierungs-Engine</li><li>Follower-Tracker-Widget hinzugefügt</li><li>Professionelle Wachstumsberichte</li><li>Fehler behoben</li></ul>"
+  ],
+  "hi": [
+    "<b>नया क्या है</b>",
+    "<ul><li>नया इंगेजमेंट हब (Engagement Hub)</li><li>नया दैनिक प्रोफ़ाइल ऑडिट</li><li>बेहतर 'पोस्ट करने का सबसे अच्छा समय'</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट जोड़े गए</li><li>नया 10 गुना तेज़ सिंकिंग इंजन</li><li>फ़ॉलोअर ट्रैकर विजेट जोड़ा गया</li><li>प्रोफेशनल ग्रोथ रिपोर्ट्स</li><li>बग्स ठीक किए गए</li></ul>"
+  ],
+  "be": [
+    "<b>Што новага</b>",
+    "<ul><li>Новы цэнтр узаемадзеяння</li><li>Новы штодзённы аўдыт профілю</li><li>Палепшаны аптымальны час для публікацыі</li><li>Дададзены панэль і графікі гісторыі росту</li><li>Новы ў 10 разоў хутчэйшы рухавічок сінхранізацыі</li><li>Дададзены віджэт адсочвання падпісчыкаў</li><li>Прафесійныя справаздачы аб росце</li><li>Выпраўлены памылкі</li></ul>"
+  ],
+  "fi": [
+    "<b>Mitä uutta</b>",
+    "<ul><li>Uusi vuorovaikutuskeskus (Engagement Hub)</li><li>Uusi päivittäinen profiilin auditointi</li><li>Parannettu 'Paras aika postata' -ominaisuus</li><li>Kasvuhistorian hallintapaneeli ja kaaviot lisätty</li><li>Uusi 10 kertaa nopeampi synkronointimoottori</li><li>Seuraajien seurantavidjeti lisätty</li><li>Ammattimaiset kasvuraportit</li><li>Korjattu virheitä</li></ul>"
+  ],
+  "ru": [
+    "<b>Что нового</b>",
+    "<ul><li>Новый центр вовлеченности (Engagement Hub)</li><li>Новый ежедневный аудит профиля</li><li>Улучшенное лучшее время для публикаций</li><li>Добавлены панель и графики истории роста</li><li>Новый в 10 раз более быстрый движок синхронизации</li><li>Добавлен виджет отслеживания подписчиков</li><li>Профессиональные отчеты о росте</li><li>Исправлены ошибки</li></ul>"
+  ],
+  "pt": [
+    "<b>Novidades</b>",
+    "<ul><li>Novo Hub de Engajamento</li><li>Nova Auditoria Diária de Perfil</li><li>Melhor Horário para Postar Aprimorado</li><li>Painel e Gráficos de Histórico de Crescimento Adicionados</li><li>Novo Motor de Sincronização 10x Mais Rápido</li><li>Widget Rastreador de Seguidores Adicionado</li><li>Relatórios de Crescimento Profissional</li><li>Bugs corrigidos</li></ul>"
+  ],
+  "bg": [
+    "<b>Какво ново</b>",
+    "<ul><li>Нов център за ангажираност (Engagement Hub)</li><li>Нов ежедневен одит на профила</li><li>Подобрено най-добро време за публикуване</li><li>Добавени са табло и графики за история на растежа</li><li>Нов 10 пъти по-бърз двигател за синхронизация</li><li>Добавено е уиджет за проследяване на последователи</li><li>Професионални доклади за растеж</li><li>Поправени грешки</li></ul>"
+  ],
+  "fil": [
+    "<b>Ano'ng Bago</b>",
+    "<ul><li>Bagong Engagement Hub</li><li>Bagong Araw-araw na Audit ng Profile</li><li>Pinahusay na Pinakamagandang Oras para Mag-post</li><li>Idinagdag ang Dashboard at mga Chart ng History ng Paglago</li><li>Bagong 10x Mas Mabilis na Syncing Engine</li><li>Idinagdag ang Follower Tracker Widget</li><li>Mga Propesyonal na Ulat sa Paglago</li><li>Mga Inayos na Bug</li></ul>"
+  ],
+  "lt": [
+    "<b>Kas naujo</b>",
+    "<ul><li>Naujas įtraukimo centras (Engagement Hub)</li><li>Naujas kasdienis profilio auditas</li><li>Patobulintas geriausias laikas skelbti įrašus</li><li>Pridėtas augimo istorijos prietaisų skydelis ir diagramos</li><li>Naujas 10 kartų greitesnis sinchronizavimo variklis</li><li>Pridėtas sekėjų sekimo valdiklis</li><li>Profesionalios augimo ataskaitos</li><li>Ištaisytos klaidos</li></ul>"
+  ],
+  "hr": [
+    "<b>Što je novo</b>",
+    "<ul><li>Novi centar za angažman (Engagement Hub)</li><li>Novi dnevni pregled profila</li><li>Poboljšano najbolje vrijeme za objavu</li><li>Dodana nadzorna ploča i grafikoni povijesti rasta</li><li>Novi 10 puta brži pokretač sinkronizacije</li><li>Dodan widget za praćenje pratitelja</li><li>Profesionalna izvješća o rastu</li><li>Ispravljene pogreške</li></ul>"
+  ],
+  "fr": [
+    "<b>Quoi de neuf</b>",
+    "<ul><li>Nouveau hub d'engagement</li><li>Nouvel audit quotidien du profil</li><li>Meilleur moment pour publier amélioré</li><li>Tableau de bord et graphiques de l'historique de croissance ajoutés</li><li>Nouveau moteur de synchronisation 10x plus rapide</li><li>Widget de suivi des abonnés ajouté</li><li>Rapports de croissance professionnels</li><li>Bugs corrigés</li></ul>"
+  ],
+  "hu": [
+    "<b>Újdonságok</b>",
+    "<ul><li>Új aktivitási központ (Engagement Hub)</li><li>Új napi profilvizsgálat</li><li>Továbbfejlesztett 'Legjobb időpont a posztolásra'</li><li>Növekedési előzmények irányítópult és grafikonok hozzáadva</li><li>Új, 10-szer gyorsabb szinkronizálási motor</li><li>Követőkövető widget hozzáadva</li><li>Professzionális növekedési jelentések</li><li>Hibák javítva</li></ul>"
+  ],
+  "uk": [
+    "<b>Що нового</b>",
+    "<ul><li>Новий центр взаємодії (Engagement Hub)</li><li>Новий щоденний аудит профілю</li><li>Покращено найкращий час для публікацій</li><li>Додано панель та графіки історії зростання</li><li>Новий у 10 разів швидший движок синхронізації</li><li>Додано віджет відстеження підписників</li><li>Професійні звіти про зростання</li><li>Виправлено помилки</li></ul>"
+  ],
+  "sk": [
+    "<b>Čo je nové</b>",
+    "<ul><li>Nový centrály záujmu (Engagement Hub)</li><li>Nový denný audit profilu</li><li>Vylepšený najlepší čas na uverejňovanie príspevkov</li><li>Pridaný panel a grafy histórie rastu</li><li>Nový 10-krát rýchlejší synchronizačný modul</li><li>Pridaný widget na sledovanie sledovateľov</li><li>Profesionálne správy o raste</li><li>Opravené chyby</li></ul>"
+  ],
+  "sl": [
+    "<b>Kaj je novega</b>",
+    "<ul><li>Novo središče za sodelovanje (Engagement Hub)</li><li>Nov dnevni pregled profila</li><li>Izboljšan najboljši čas za objavo</li><li>Dodana nadzorna plošča in grafikoni zgodovine rasti</li><li>Nov 10-krat hitrejši sinhronizacijski pogon</li><li>Dodan gradnik za sledenje sledilcem</li><li>Profesionalna poročila o rasti</li><li>Odpravljene napake</li></ul>"
+  ],
+  "ca": [
+    "<b>Novetats</b>",
+    "<ul><li>Nou centre d'interacció (Engagement Hub)</li><li>Nova auditoria diària del perfil</li><li>Millor hora per publicar millorada</li><li>S'ha afegit el tauler i els gràfics de l'historial de creixement</li><li>Nou motor de sincronització 10 vegades més ràpid</li><li>S'ha afegit el giny de seguiment de seguidors</li><li>Informes de creixement professional</li><li>S'han corregit errors</li></ul>"
+  ],
+  "mk": [
+    "<b>Што е ново</b>",
+    "<ul><li>Нов центар за ангажман (Engagement Hub)</li><li>Нова дневна ревизија на профилот</li><li>Подобрено најдобро време за објавување</li><li>Додадени се контролна табла и графикони за историја на раст</li><li>Нов 10 пати побрз мотор за синхронизација</li><li>Додаден е виџет за следење следбеници</li><li>Професионални извештаи за раст</li><li>Поправени грешки</li></ul>"
+  ],
+  "sq": [
+    "<b>Çfarë ka të re</b>",
+    "<ul><li>Qendra e re e angazhimit (Engagement Hub)</li><li>Auditimi i ri ditor i profilit</li><li>Koha më e mirë e përmirësuar për të postuar</li><li>Shtohen paneli dhe grafikët e historisë së rritjes</li><li>Motor i ri sinkronizimi 10 herë më i shpejtë</li><li>Shtohet widget-i i gjurmimit të ndjekësve</li><li>Raporte profesionale të rritjes</li><li>Ndreqje gabimesh (Bugs fixed)</li></ul>"
+  ],
+  "ml": [
+    "<b>എന്താണ് പുതിയത്</b>",
+    "<ul><li>പുതിയ എൻഗേജ്‌മെന്റ് ഹബ്</li><li>പുതിയ പ്രതിദിന പ്രൊഫൈൽ ഓഡിറ്റ്</li><li>മെച്ചപ്പെടുത്തിയ 'പോസ്റ്റ് ചെയ്യാൻ ഏറ്റവും അനുയോജ്യമായ സമയം'</li><li>ഗ്രോത്ത് ഹിസ്റ്ററി ഡാഷ്‌ബോർഡും ചാർട്ടുകളും ചേർത്തു</li><li>10 മടങ്ങ് വേഗതയേറിയ പുതിയ സിങ്കിംഗ് എഞ്ചിൻ</li><li>ഫോളോവർ ട്രാക്കർ വിജറ്റ് ചേർത്തു</li><li>പ്രൊഫഷണൽ ഗ്രോത്ത് റിപ്പോർട്ടുകൾ</li><li>ബഗ്ഗുകൾ പരിഹരിച്ചു</li></ul>"
+  ],
+  "sr": [
+    "<b>Шта је ново</b>",
+    "<ul><li>Нови центар за ангажовање (Engagement Hub)</li><li>Нови дневни преглед профила</li><li>Побољшано најбоље време за објављивање</li><li>Додата контролна табла и графикони историје раста</li><li>Нови 10 пута бржи систем за синхронизацију</li><li>Додат виџет за праћење пратилаца</li><li>Професионални извештаји о расту</li><li>Исправљене грешке</li></ul>"
+  ],
+  "sv": [
+    "<b>Nyheter</b>",
+    "<ul><li>Nytt engagemangscenter (Engagement Hub)</li><li>Ny daglig profilgranskning</li><li>Förbättrad 'Bästa tid att publicera'</li><li>Kontrollpanel och diagram för tillväxthistorik har lagts till</li><li>Ny 10x snabbare synkroniseringsmotor</li><li>Widget för följarspårning har lagts till</li><li>Professionella tillväxtrapporter</li><li>Buggar har åtgärdats</li></ul>"
+  ],
+  "ko": [
+    "<b>새로운 기능</b>",
+    "<ul><li>새로운 인게이지먼트 허브(Engagement Hub)</li><li>새로운 일일 프로필 감사</li><li>최적의 게시 시간 기능 개선</li><li>성장 기록 대시보드 및 차트 추가</li><li>10배 더 빨라진 새로운 동기화 엔진</li><li>팔로워 추적 위젯 추가</li><li>전문적인 성장 보고서</li><li>버그 수정</li></ul>"
+  ],
+  "af": [
+    "<b>Wat's Nuut</b>",
+    "<ul><li>Nuwe Betrokkenheid-spilpunt (Engagement Hub)</li><li>Nuwe Daaglikse Profiel-oudit</li><li>Verbeterde Beste Tyd om te Plaas</li><li>Groeigeskiedenis-tekenbord en -grafieke Bygevoeg</li><li>Nuwe 10x Vinniger Sinchroniseer-enjin</li><li>Volger-spoorder-omtrekkie Bygevoeg</li><li>Professionele Groeiverslae</li><li>Foute Reggemaak</li></ul>"
+  ],
+  "in": [
+    "<b>Yang Baru</b>",
+    "<ul><li>Engagement Hub Baru</li><li>Audit Profil Harian Baru</li><li>Waktu Terbaik untuk Memposting yang Ditingkatkan</li><li>Dashboard dan Grafik Riwayat Pertumbuhan Ditambahkan</li><li>Mesin Sinkronisasi Baru 10x Lebih Cepat</li><li>Widget Pelacak Pengikut Ditambahkan</li><li>Laporan Pertumbuhan Profesional</li><li>Perbaikan Bug</li></ul>"
+  ],
+  "ms": [
+    "<b>Apa Yang Baru</b>",
+    "<ul><li>Hab Penglibatan (Engagement Hub) Baru</li><li>Audit Profil Harian Baru</li><li>Masa Terbaik untuk Menyiarkan yang Dipertingkatkan</li><li>Papan Pemuka dan Carta Sejarah Pertumbuhan Ditambah</li><li>Enjin Pensegkerapan Baru 10x Lebih Cepat</li><li>Widget Penjejak Pengikut Ditambah</li><li>Laporan Pertumbuhan Profesional</li><li>Pepijat Dibetulkan</li></ul>"
+  ],
+  "el": [
+    "<b>Τι νέο υπάρχει</b>",
+    "<ul><li>Νέο Κέντρο Αλληλεπίδρασης (Engagement Hub)</li><li>Νέος Καθημερινός Έλεγχος Προφίλ</li><li>Βελτιωμένη 'Καλύτερη Ώρα για Δημοσίευση'</li><li>Προστέθηκε Πίνακας Ελέγχου και Γραφήματα Ιστορικού Ανάπτυξης</li><li>Νέα 10x Ταχύτερη Μηχανή Συγχρονισμού</li><li>Προστέθηκε Γραφικό Στοιχείο Παρακολούθησης Ακολούθων</li><li>Επαγγελματικές Αναφορές Ανάπτυξης</li><li>Διορθώθηκαν Σφάλματα</li></ul>"
+  ],
+  "it": [
+    "<b>Novità</b>",
+    "<ul><li>Nuovo Hub di Coinvolgimento (Engagement Hub)</li><li>Nuova Analisi Quotidiana del Profilo</li><li>Migliorato il 'Momento migliore pentru pubblicare'</li><li>Aggiunti Dashboard e Grafici della Cronologia di Crescita</li><li>Nuovo Motore di Sincronizzazione 10 volte più veloce</li><li>Aggiunto Widget di Tracciamento dei Follower</li><li>Report di Crescita Professionali</li><li>Bug corretti</li></ul>"
+  ],
+  "es": [
+    "<b>Novedades</b>",
+    "<ul><li>Nuevo Centro de Interacción (Engagement Hub)</li><li>Nueva Auditoría Diaria de Perfil</li><li>Mejor hora para publicar optimizada</li><li>Panel y gráficos de historial de crecimiento añadidos</li><li>Nuevo motor de sincronización 10 veces más rápido</li><li>Widget de seguimiento de seguidores añadido</li><li>Informes de crecimiento profesionales</li><li>Errores corregidos</li></ul>"
+  ],
+  "et": [
+    "<b>Mis uut</b>",
+    "<ul><li>Uus kaasatuse keskus (Engagement Hub)</li><li>Uus igapäevane profiili audit</li><li>Täiustatud parim aeg postitamiseks</li><li>Kasvuajaloo töölaud ja graafikud lisatud</li><li>Uus 10x kiirem sünkroonimismootor</li><li>Jälgijate jälgimise vidin lisatud</li><li>Professionaalsed kasvuraportid</li><li>Vead parandatud</li></ul>"
+  ],
+  "cs": [
+    "<b>Co je nového</b>",
+    "<ul><li>Nový panel zapojení (Engagement Hub)</li><li>Nový denní audit profilu</li><li>Vylepšený nejlepší čas pro přidávání příspěvků</li><li>Přidán přehled a grafy historie růstu</li><li>Nový 10krát rychlejší synchronizační modul</li><li>Přidán widget pro sledování sledujících</li><li>Profesionální přehledy růstu</li><li>Opravy chyb</li></ul>"
+  ],
+  "eu": [
+    "<b>Zer berri</b>",
+    "<ul><li>Interakzio Gune Berria (Engagement Hub)</li><li>Profileko Eguneroko Ikuskapen Berria</li><li>Argitaratzeko Ordu Onena Hobetua</li><li>Hazkundearen Historiaren Panela eta Grafikoak Gehituta</li><li>Sinkronizazio Motor Berria, 10 aldiz azkarragoa</li><li>Jarraitzaileen Jarraipena Egiteko Widget-a Gehituta</li><li>Hazkunde Txosten Profesionalak</li><li>Akatsak konponduta</li></ul>"
+  ],
+  "ar": [
+    "<b>ما الجديد</b>",
+    "<ul><li>مركز التفاعل الجديد (Engagement Hub)</li><li>تدقيق يومي جديد للملف الشخصي</li><li>تحسين ميزة 'أفضل وقت للنشر'</li><li>إضافة لوحة تحكم ورسوم بيانية لسجل النمو</li><li>محرك مزامنة جديد أسرع بـ 10 مرات</li><li>إضافة أداة تتبع المتابعين (Widget)</li><li>تقارير نمو احترافية</li><li>تم إصلاح الأخطاء</li></ul>"
+  ],
+  "vi": [
+    "<b>Có gì mới</b>",
+    "<ul><li>Trung tâm Tương tác Mới (Engagement Hub)</li><li>Kiểm tra Hồ sơ Hàng ngày Mới</li><li>Cải tiến tính năng 'Thời gian tốt nhất để đăng bài'</li><li>Đã thêm Bảng điều khiển và Biểu đồ Lịch sử Tăng trưởng</li><li>Trình đồng bộ hóa mới nhanh hơn gấp 10 lần</li><li>Đã thêm Tiện ích Theo dõi Người theo dõi</li><li>Báo cáo Tăng trưởng Chuyên nghiệp</li><li>Đã sửa lỗi</li></ul>"
+  ],
+  "th": [
+    "<b>มีอะไรใหม่</b>",
+    "<ul><li>ศูนย์กลางการมีส่วนร่วมใหม่ (Engagement Hub)</li><li>การตรวจสอบโปรไฟล์รายวันแบบใหม่</li><li>ปรับปรุงฟีเจอร์ 'เวลาที่ดีที่สุดในการโพสต์'</li><li>เพิ่มแดชบอร์ดและแผนภูมิประวัติการเติบโต</li><li>เครื่องมือซิงค์แบบใหม่ที่เร็วขึ้น 10 เท่า</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตาม</li><li>รายงานการเติบโตระดับมืออาชีพ</li><li>แก้ไขข้อผิดพลาดแล้ว</li></ul>"
+  ],
+  "ja": [
+    "<b>新機能</b>",
+    "<ul><li>新しいエンゲージメントハブ（Engagement Hub）</li><li>新しい毎日のプロフィール監査</li><li>「投稿に最適な時間」の強化</li><li>成長履歴ダッシュボードとチャートの追加</li><li>10倍高速になった新しい同期エンジン</li><li>フォロワートラッカーウィジェットの追加</li><li>プロフェッショナル成長レポート</li><li>バグの修正</li></ul>"
+  ],
+  "az": [
+    "<b>Yeniliklər</b>",
+    "<ul><li>Yeni Aktivlik Mərkəzi (Engagement Hub)</li><li>Yeni Gündəlik Profil Auditi</li><li>Təkmilləşdirilmiş 'Paylaşım üçün Ən Yaxşı Vaxt'</li><li>Artım Tarixçəsi Paneli və Qrafikləri Əlavə Edildi</li><li>10 qat Daha Süretli Yeni Sinxronizasiya Mühərriki</li><li>İzləyici İzləmə Vidceti Əlavə Edildi</li><li>Peşəkar Artım Hesabatları</li><li>Xətalar düzəldildi</li></ul>"
+  ],
+  "fa": [
+    "<b>چه خبر؟</b>",
+    "<ul><li>مرکز تعامل جدید (Engagement Hub)</li><li>حسابرسی روزانه جدید پروفایل</li><li>بهبود ویژگی «بهترین زمان برای پست گذاشتن»</li><li>اضافه شدن داشبورد و نمودارهای تاریخچه رشد</li><li>موتور همگام‌سازی جدید با سرعت ۱۰ برابر بیشتر</li><li>اضافه شدن ویجت ردیاب دنبال‌کنندگان</li><li>گزارش‌های رشد حرفه‌ای</li><li>باگ‌ها رفع شدند</li></ul>"
+  ],
+  "pl": [
+    "<b>Co nowego</b>",
+    "<ul><li>Nowe Centrum Zaangażowania (Engagement Hub)</li><li>Nowy codzienny audyt profilu</li><li>Ulepszona funkcja „Najlepszy czas na publikację”</li><li>Dodano panel i wykresy historii wzrostu</li><li>Nowy, 10-krotnie szybszy silnik synchronizacji</li><li>Dodano widżet do śledzenia obserwujących</li><li>Profesjonalne raporty wzrostu</li><li>Naprawiono błędy</li></ul>"
+  ],
+  "da": [
+    "<b>Hvad er nyt</b>",
+    "<ul><li>Nyt Engagement Hub</li><li>Ny daglig profilovervågning</li><li>Forbedret 'Bedste tidspunkt at opslå'</li><li>Kontrolpanel og diagrammer for væksthistorik tilføjet</li><li>Ny 10x hurtigere synkroniseringsmotor</li><li>Widget til sporing af følgere tilføjet</li><li>Professionelle vækstrapporter</li><li>Fejl rettet</li></ul>"
+  ],
+  "ro": [
+    "<b>Ce este nou</b>",
+    "<ul><li>Nou Hub de Interacțiune (Engagement Hub)</li><li>Nou Audit Zilnic al Profilului</li><li>Funcția „Cel mai bun moment pentru a publica” îmbunătățită</li><li>S-au adăugat panoul și graficele pentru istoricul de creștere</li><li>Nou motor de sincronizare de 10 ori mai rapid</li><li>S-a adăugat widgetul de urmărire a urmăritorilor</li><li>Rapoarte profesionale de creștere</li><li>Erori remediate</li></ul>"
+  ],
+  "nl": [
+    "<b>Wat is er nieuw</b>",
+    "<ul><li>Nieuwe Engagement Hub</li><li>Nieuwe dagelijkse profielaudit</li><li>Verbeterde 'Beste tijd om te plaatsen'</li><li>Dashboard og grafieken voor groei-historie toegevoegd</li><li>Nieuwe, 10x snellere synchronisatie-engine</li><li>Follower Tracker-widget toegevoegd</li><li>Professionele groeirapporten</li><li>Fouten opgelost</li></ul>"
+  ],
+  "tr": [
+    "<b>Yenilikler</b>",
+    "<ul><li>Yeni Etkileşim Merkezi (Engagement Hub)</li><li>Yeni Günlük Profil Denetimi</li><li>Geliştirilmiş 'Paylaşım İçin En İyi Zaman' Özelliği</li><li>Büyüme Geçmişi Paneli ve Grafikleri Eklendi</li><li>10 Kat Daha Hızlı Yeni Senkronizasyon Motoru</li><li>Takipçi Takip Aracı (Widget) Eklendi</li><li>Profesyonel Büyüme Raporları</li><li>Hatalar Düzeltildi</li></ul>"
+  ]
+  
   }
 }
