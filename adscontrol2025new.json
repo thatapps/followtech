@@ -19,7 +19,7 @@
      "is_insight_unlocked": true, // False means it will show dialog
      "show_mass_unfollow": true,  //Show Mass Unfollow in Lists
      
-    "show_reward_ad_profile_visitors": true
+    "show_reward_ad_profile_visitors": false
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
