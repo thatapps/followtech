@@ -14,6 +14,11 @@
     "show_plans_1": true, // (1W, 1M, 3M)
     "show_plans_2": false, // (1W, 1M, 12M)
     "show_plans_3": false, // (1W, 3M, 12M)
+
+    //Controllers for Account Health & Growth Strategy
+    "show_health_guide_main_menu": true,
+    "show_health_guide_login": false,
+    "show_health_guide_bulk": false,
     
     
      "is_insight_unlocked": true, // False means it will show dialog
