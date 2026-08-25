@@ -1,4 +1,6 @@
-"messages": {
+{
+  "version": "1.58",
+  "messages": {
     "en": [
       "<b>What's New</b>",
       "<ul><li>New Recently Unfollowed By You</li><li>New Account Health Guide</li><li>New Sent Requests</li><li>Enhanced Best Time to Post</li><li>Growth History Dashboard And Charts Added</li><li>Follower Tracker Widget Added</li><li>Professional Insights Added</li><li>Bug Fixes And UI Polish</li></ul>"
