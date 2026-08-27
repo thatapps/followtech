@@ -5,6 +5,7 @@
     "show_native_list": true,
     "show_native_interaction": true,
     "show_native_post": true,
+    "show_native_fullscreen_image": true,
     
     "show_native_feed_ad": false,
     "show_admob_native_ad": true,
