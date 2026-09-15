@@ -27,5 +27,5 @@
     "selectorCountScript": "document.querySelectorAll('a.button--download, a.button--options, a.download-file, a[download]').length",
     "selector": "a.button--download, a.button--options, a.download-file, a[download]"
   },
-  "premium_main": false
+  "premium_main": true
 }
