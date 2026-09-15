@@ -13,5 +13,19 @@
     "selectorCountScript": "document.querySelectorAll('a.button.is-success').length",
     "selector": "a.button.is-success"
   },
-  "premium_main": "true"
+  "site3": {
+    "url": "https://saveinsta.app/en",
+    "inputScript": "var i=document.getElementById('s_input')||document.querySelector('input[type=\"text\"], input[type=\"url\"]');if(i){i.value='%s';i.dispatchEvent(new Event('input',{bubbles:true}));i.dispatchEvent(new Event('change',{bubbles:true}));}",
+    "clickScript": "var b=document.querySelector('button.btn-download')||document.querySelector('button[type=\"submit\"]');if(b)b.click();",
+    "selectorCountScript": "document.querySelectorAll('a.btn-download, a.download-media, div.download-items a, a[download]').length",
+    "selector": "a.btn-download, a.download-media, div.download-items a, a[download]"
+  },
+  "site4": {
+    "url": "https://fastdl.app/en",
+    "inputScript": "var i=document.getElementById('search-form-input')||document.querySelector('input.search-form__input')||document.querySelector('input[type=\"url\"]');if(i){i.value='%s';i.dispatchEvent(new Event('input',{bubbles:true}));i.dispatchEvent(new Event('change',{bubbles:true}));}",
+    "clickScript": "var b=document.querySelector('button.search-form__button')||document.querySelector('button[type=\"submit\"]');if(b)b.click();",
+    "selectorCountScript": "document.querySelectorAll('a.button--download, a.button--options, a.download-file, a[download]').length",
+    "selector": "a.button--download, a.button--options, a.download-file, a[download]"
+  },
+  "premium_main": false
 }
