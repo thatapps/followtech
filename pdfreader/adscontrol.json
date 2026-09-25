@@ -1,0 +1,72 @@
+{
+  "__comment_capping__": "===== Global Interstitial Capping (in Seconds) =====",
+  "interstitial_interval_seconds": 60,
+
+  "__comment_main__": "===== 1. MainActivity Controls =====",
+  "banner_enabled_main": true,
+  "banner_ad_unit_id": "ca-app-pub-6264397123968867/8436131392",
+
+  "native_enabled_main": true,
+  "native_ad_unit_id": "ca-app-pub-6264397123968867/4766209813",
+
+  "interstitial_enabled_main": true,
+  "interstitial_ad_unit_id": "ca-app-pub-6264397123968867/6003269867",
+
+  "app_open_enabled_main": true,
+  "app_open_ad_unit_id": "ca-app-pub-6264397123968867/9302606229",
+
+
+  "__comment_pdf_reader__": "===== 2. PdfReaderActivity Controls =====",
+  "banner_enabled_pdf_reader": true,
+  "banner_ad_unit_id_pdf_reader": "ca-app-pub-6264397123968867/8436131392",
+
+  "native_enabled_pdf_reader": true,
+  "native_ad_unit_id_pdf_reader": "ca-app-pub-6264397123968867/7176750739",
+
+  "interstitial_enabled_pdf_reader": true,
+  "interstitial_ad_unit_id_pdf_reader": "ca-app-pub-6264397123968867/6003269867",
+
+
+  "__comment_read_all_doc__": "===== 3. ReadAllDocActivity Controls =====",
+  "banner_enabled_read_all_doc": true,
+  "banner_ad_unit_id_read_all_doc": "ca-app-pub-6264397123968867/8436131392",
+
+  "native_enabled_read_all_doc": true,
+  "native_ad_unit_id_read_all_doc": "ca-app-pub-6264397123968867/4957781501",
+
+  "interstitial_enabled_read_all_doc": true,
+  "interstitial_ad_unit_id_read_all_doc": "ca-app-pub-6264397123968867/4027843217",
+
+
+  "__comment_share_image__": "===== 4. ShareImageActivity Controls =====",
+  "banner_enabled_share_image": true,
+  "banner_ad_unit_id_share_image": "ca-app-pub-6264397123968867/8436131392",
+
+  "native_enabled_share_image": true,
+  "native_ad_unit_id_share_image": "ca-app-pub-6264397123968867/3429077412",
+
+  "interstitial_enabled_share_image": true,
+  "interstitial_ad_unit_id_share_image": "ca-app-pub-6264397123968867/6246812441",
+
+
+  "__comment_merge_pdf__": "===== 5. MergePdfActivity Controls =====",
+  "banner_enabled_merge_pdf": true,
+  "banner_ad_unit_id_merge_pdf": "ca-app-pub-6264397123968867/8436131392",
+
+  "native_enabled_merge_pdf": true,
+  "native_ad_unit_id_merge_pdf": "ca-app-pub-6264397123968867/3429077412",
+
+  "interstitial_enabled_merge_pdf": true,
+  "interstitial_ad_unit_id_merge_pdf": "ca-app-pub-6264397123968867/6246812441",
+
+
+  "__comment_split_pdf__": "===== 6. SplitPdfActivity Controls =====",
+  "banner_enabled_split_pdf": true,
+  "banner_ad_unit_id_split_pdf": "ca-app-pub-6264397123968867/8436131392",
+
+  "native_enabled_split_pdf": true,
+  "native_ad_unit_id_split_pdf": "ca-app-pub-6264397123968867/3429077412",
+
+  "interstitial_enabled_split_pdf": true,
+  "interstitial_ad_unit_id_split_pdf": "ca-app-pub-6264397123968867/6246812441"
+}
