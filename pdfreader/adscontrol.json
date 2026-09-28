@@ -12,7 +12,7 @@
   "interstitial_enabled_main": true,
   "interstitial_ad_unit_id": "ca-app-pub-6264397123968867/6003269867",
 
-  "app_open_enabled_main": true,
+  "app_open_enabled_main": false,
   "app_open_ad_unit_id": "ca-app-pub-6264397123968867/9302606229",
 
 
