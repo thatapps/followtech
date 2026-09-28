@@ -68,5 +68,13 @@
   "native_ad_unit_id_split_pdf": "ca-app-pub-6264397123968867/3429077412",
 
   "interstitial_enabled_split_pdf": true,
-  "interstitial_ad_unit_id_split_pdf": "ca-app-pub-6264397123968867/6246812441"
+  "interstitial_ad_unit_id_split_pdf": "ca-app-pub-6264397123968867/6246812441",
+
+  "__comment_tools_pdf__": "===== 6. PDFToolsActivity Controls =====",
+  "interstitial_enabled_pdf_tools": true,
+  "interstitial_ad_unit_id_pdf_tools": "ca-app-pub-3940256099942544/1033173712",
+
+  "rewarded_enabled_pdf_tools": true,
+  "rewarded_ad_unit_id_pdf_tools": "ca-app-pub-3940256099942544/5224354917"
+  
 }
