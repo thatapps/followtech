@@ -1,177 +1,177 @@
 {
-  "version": "1.65",
+  "version": "1.66",
   "messages": {
-  "en": [
+ "en": [
     "<b>What's New</b>",
-    "<ul><li>Important Update</li><li>Major Bugs Fixed</li><li>New Recently Unfollowed By You</li><li>New Account Health Guide</li><li>New Sent Requests</li><li>Enhanced Best Time to Post</li><li>Growth History Dashboard And Charts Added</li><li>Follower Tracker Widget Added</li><li>Professional Insights Added</li><li>Bug Fixes And UI Polish</li></ul>"
+    "<ul><li>Important Update</li><li>Fixed Major Bug Fixes And UI Polish</li><li>New Streak Dashboard</li><li>Improved Recently Unfollowed By You</li><li>Improved Account Health Guide</li><li>Improved Sent Requests</li><li>Enhanced Best Time to Post</li><li>Growth History Dashboard And Charts Improved </li><li>Follower Tracker Widget Added</li><li>Professional Insights Added</li></ul>"
   ],
-  "de": [
+ "de": [
     "<b>Was gibt's Neues</b>",
-    "<ul><li>Wichtiges Update</li><li>Große Fehler behoben</li><li>Neu: Kürzlich von Ihnen entfolgt</li><li>Neu: Leitfaden zur Kontogesundheit</li><li>Neu: Gesendete Anfragen</li><li>Verbesserte beste Zeit zum Posten</li><li>Wachstumsverlauf-Dashboard und Diagramme hinzugefügt</li><li>Follower-Tracker-Widget hinzugefügt</li><li>Professionelle Einblicke hinzugefügt</li><li>Fehlerbehebungen und UI-Feinschliff</li></ul>"
+    "<ul><li>Wichtiges Update</li><li>Wichtige Fehlerbehebungen und UI-Feinschliff</li><li>Neues Streak-Dashboard</li><li>Verbesserte Liste 'Kürzlich von dir entfolgt'</li><li>Verbesserter Kontostatus-Leitfaden</li><li>Verbesserte gesendete Anfragen</li><li>Optimierte 'Beste Zeit zum Posten'</li><li>Wachstumsverlauf-Dashboard und Diagramme verbessert</li><li>Follower-Tracker-Widget hinzugefügt</li><li>Professionelle Einblicke hinzugefügt</li></ul>"
   ],
   "hi": [
     "<b>नया क्या है</b>",
-    "<ul><li>महत्वपूर्ण अपडेट</li><li>प्रमुख बग्स ठीक किए गए</li><li>नया: हाल ही में आपके द्वारा अनफॉलो किए गए</li><li>नया: अकाउंट हेल्थ गाइड</li><li>नया: भेजी गई रिक्वेस्ट</li><li>बेहतर पोस्ट करने का सबसे अच्छा समय</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट जोड़े गए</li><li>फॉलोअर ट्रैकर विजेट जोड़ा गया</li><li>प्रोफेशनल इनसाइट्स जोड़े गए</li><li>बग फिक्स और यूआई में सुधार</li></ul>"
+    "<ul><li>महत्वपूर्ण अपडेट</li><li>बग्स ठीक किए गए और UI को बेहतर बनाया गया</li><li>नया स्ट्रीक डैशबोर्ड</li><li>'हाल ही में आपके द्वारा अनफ़ॉलो किए गए' में सुधार</li><li>अकाउंट हेल्थ गाइड में सुधार</li><li>भेजी गई अनुरोधों (Sent Requests) में सुधार</li><li>पोस्ट करने के सबसे अच्छे समय में सुधार</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट्स में सुधार</li><li>फॉलोअर ट्रैकर विजेट जोड़ा गया</li><li>प्रोफेशनल इनसाइट्स जोड़े गए</li></ul>"
   ],
   "be": [
     "<b>Што новага</b>",
-    "<ul><li>Важнае абнаўленне</li><li>Выпраўлены асноўныя памылкі</li><li>Новае: Нядаўна адпісаныя вамі</li><li>Новае: Кіраўніцтва па здароўі акаўнта</li><li>Новае: Адпраўленыя запыты</li><li>Палепшаны найлепшы час для публікацыі</li><li>Дададзены панэль і графікі гісторыі росту</li><li>Дададзены віджэт адсочвання падпісчыкаў</li><li>Дададзены прафесійныя аналітычныя дадзеныя</li><li>Выпраўленне памылак і паліроўка інтэрфейсу</li></ul>"
+    "<ul><li>Важнае абнаўленне</li><li>Выпраўлены асноўныя памылкі і палепшаны інтэрфейс</li><li>Новая панэль страйкаў</li><li>Палепшана функцыя 'Нядаўна адпісаныя вамі'</li><li>Палепшана кіраўніцтва па здароўі акаўнта</li><li>Палепшана функцыя 'Адпраўленыя запыты'</li><li>Палепшана функцыя 'Лепшы час для публікацыі'</li><li>Палепшаны панэль і графікі гісторыі росту</li><li>Дададзены віджэт адсочвання падпісчыкаў</li><li>Дададзены прафесійныя аналітычныя дадзеныя</li></ul>"
   ],
   "fi": [
     "<b>Mitä uutta</b>",
-    "<ul><li>Tärkeä päivitys</li><li>Suuria virheitä korjattu</li><li>Uutta: Äskettäin lopettamasi seuraukset</li><li>Uutta: Tilin terveysopas</li><li>Uutta: Lähetetyt pyynnöt</li><li>Parannettu paras aika postata</li><li>Kasvuhistorian hallintapaneeli ja kaaviot lisätty</li><li>Seuraajien seurantavidgeti lisätty</li><li>Ammattimaiset tilastot lisätty</li><li>Virheiden korjauksia ja käyttöliittymän hienosäätöä</li></ul>"
+    "<ul><li>Tärkeä päivitys</li><li>Korjattu merkittäviä virheitä ja hiottu käyttöliittymää</li><li>Uusi putki-ohjauspaneeli (Streak)</li><li>Parannettu 'Äskettäin lopettamasi seuraukset'</li><li>Parannettu tilin kunto-opas</li><li>Parannetut lähetetyt pyynnöt</li><li>Optimoitu paras aika postata</li><li>Kasvuhistorian ohjauspaneelia ja kaavioita parannettu</li><li>Seuraajien seurantavidgeti lisätty</li><li>Ammattilaisnäkymät lisätty</li></ul>"
   ],
   "ru": [
     "<b>Что нового</b>",
-    "<ul><li>Важное обновление</li><li>Исправлены основные ошибки</li><li>Новое: Вы недавно отписались</li><li>Новое: Руководство по здоровью аккаунта</li><li>Новое: Отправленные запросы</li><li>Улучшено: Лучшее время для публикации</li><li>Добавлены панель и графики истории роста</li><li>Добавлен виджет отслеживания подписчиков</li><li>Добавлены профессиональные инсайты</li><li>Исправление ошибок и доработка интерфейса</li></ul>"
+    "<ul><li>Важное обновление</li><li>Исправлены основные ошибки и доработан интерфейс</li><li>Новая панель серии дней (Streak)</li><li>Улучшен список 'Вы недавно отписались'</li><li>Улучшено руководство по здоровью аккаунта</li><li>Улучшены отправленные запросы</li><li>Оптимизировано 'Лучшее время для публикации'</li><li>Улучшены панель и графики истории роста</li><li>Добавлен виджет отслеживания подписчиков</li><li>Добавлена профессиональная аналитика</li></ul>"
   ],
   "pt": [
-    "<b>O que há de novo</b>",
-    "<ul><li>Atualização importante</li><li>Erros graves corrigidos</li><li>Novo: Deixado de seguir recentemente por você</li><li>Novo: Guia de integridade da conta</li><li>Novo: Solicitações enviadas</li><li>Melhoria no melhor momento para postar</li><li>Painel e gráficos de histórico de crescimento adicionados</li><li>Widget rastreador de seguidores adicionado</li><li>Insights profissionais adicionados</li><li>Correções de bugs e polimento da interface</li></ul>"
+    "<b>Novidades</b>",
+    "<ul><li>Atualização Importante</li><li>Correções de Bugs Principais e Ajustes na IU</li><li>Novo Painel de Streak</li><li>Melhorias em 'Deixado de seguir recentemente por você'</li><li>Melhorias no Guia de Saúde da Conta</li><li>Melhorias nos Pedidos Enviados</li><li>Melhoria em 'Melhor Momento para Publicar'</li><li>Painel e Gráficos do Histórico de Crescimento Melhorados</li><li>Widget Rastreador de Seguidores Adicionado</li><li>Informações Profissionais Adicionadas</li></ul>"
   ],
   "bg": [
     "<b>Какво ново</b>",
-    "<ul><li>Важна актуализация</li><li>Коригирани големи грешки</li><li>Ново: Наскоро прекратени последвания от вас</li><li>Ново: Ръководство за здравето на акаунта</li><li>Ново: Изпратени заявки</li><li>Подобрено най-добро време за публикуване</li><li>Добавени са табло и графики за историята на растежа</li><li>Добавено е уиджет за проследяване на последователи</li><li>Добавени са професионални прозрения</li><li>Поправки на грешки и изглаждане на интерфейса</li></ul>"
+    "<ul><li>Важна актуализация</li><li>Коригирани основни грешки и изчистен интерфейс</li><li>Ново табло за серии (Streak)</li><li>Подобрено 'Наскоро спрени от следване от вас'</li><li>Подобрено ръководство за здравето на акаунта</li><li>Подобрени изпратени заявки</li><li>Оптимизирано 'Най-добро време за публикуване'</li><li>Подобрено табло и графики за история на растежа</li><li>Добавено уиджет за проследяване на последователи</li><li>Добавени професионални прозрения</li></ul>"
   ],
   "fil": [
     "<b>Ano'ng Bago</b>",
-    "<ul><li>Mahalagang Update</li><li>Naitama ang mga Pangunahing Bug</li><li>Bago: Kamakailang Inunfollow Mo</li><li>Bago: Gabay sa Kalusugan ng Account</li><li>Bago: Mga Ipinadalang Request</li><li>Pinaiging Pinakamagandang Oras para Mag-post</li><li>Idinagdag ang Dashboard at mga Chart ng History ng Paglago</li><li>Idinagdag ang Follower Tracker Widget</li><li>Idinagdag ang Mga Propesyonal na Insight</li><li>Mga Pagwawasto sa Bug at Pagpapakinis ng UI</li></ul>"
+    "<ul><li>Mahalagang Update</li><li>Inayos ang mga Pangunahing Bug at Pinaganda ang UI</li><li>Bagong Streak Dashboard</li><li>Pinaayos ang 'Kamakailang In-unfollow Mo'</li><li>Pinaayos ang Gabay sa Kalusugan ng Account</li><li>Pinaayos ang mga Ipinadalang Request</li><li>Pinahusay na Pinakamagandang Oras para Mag-post</li><li>Pinaganda ang Dashboard at mga Chart ng Kasaysayan ng Paglago</li><li>Idinagdag ang Follower Tracker Widget</li><li>Idinagdag ang Mga Propesyonal na Insight</li></ul>"
   ],
   "lt": [
     "<b>Kas naujo</b>",
-    "<ul><li>Svarbus atnaujinimas</li><li>Ištaisytos pagrindinės klaidos</li><li>Nauja: Neseniai jūsų atsekta</li><li>Nauja: Paskyros būsenos vadovas</li><li>Nauja: Išsiųstos užklausos</li><li>Patobulintas geriausias laikas skelbti</li><li>Pridėta augimo istorijos suvestinė ir diagramos</li><li>Pridėtas sekėjų sekimo valdiklis</li><li>Pridėtos profesionalios įžvalgos</li><li>Klaidų taisymai ir sąsajos patobulinimai</li></ul>"
+    "<ul><li>Svarbus atnaujinimas</li><li>Ištaisytos pagrindinės klaidos ir patobulinta sąsaja</li><li>Nauja „Streak“ valdymo pultas</li><li>Patobulinta „Neseniai jūsų atsekti“ funkcija</li><li>Patobulintas paskyros būsenos vadovas</li><li>Patobulintos išsiųstos užklausos</li><li>Patobulintas geriausias laikas skelbti</li><li>Patobulintas augimo istorijos valdymo pultas ir diagramos</li><li>Pridėtas sekėjų sekimo valdiklis</li><li>Pridėtos profesionalios įžvalgos</li></ul>"
   ],
   "hr": [
     "<b>Što je novo</b>",
-    "<ul><li>Važno ažuriranje</li><li>Ispravljene velike pogreške</li><li>Novo: Nedavno ste prestali pratiti</li><li>Novo: Vodič za zdravlje računa</li><li>Novo: Poslani zahtjevi</li><li>Poboljšano najbolje vrijeme za objavu</li><li>Dodana nadzorna ploča i grafikoni povijesti rasta</li><li>Dodana widget za praćenje pratitelja</li><li>Dodani profesionalni uvidi</li><li>Ispravci pogrešaka i dotjerivanje sučelja</li></ul>"
+    "<ul><li>Važno ažuriranje</li><li>Ispravljene glavne pogreške i dotjerano sučelje</li><li>Nova nadzorna ploča za nizove (Streak)</li><li>Poboljšano 'Nedavno ste prestali pratiti'</li><li>Poboljšan vodič za zdravlje računa</li><li>Poboljšani poslani zahtjevi</li><li>Poboljšano najbolje vrijeme za objavu</li><li>Poboljšana nadzorna ploča i grafikoni povijesti rasta</li><li>Dodan widget za praćenje pratitelja</li><li>Dodani profesionalni uvidi</li></ul>"
   ],
   "fr": [
     "<b>Quoi de neuf</b>",
-    "<ul><li>Mise à jour importante</li><li>Bugs majeurs corrigés</li><li>Nouveau : Désabonnements récents par vous</li><li>Nouveau : Guide de santé du compte</li><li>Nouveau : Demandes envoyées</li><li>Optimisation du meilleur moment pour publier</li><li>Tableau de bord et graphiques de l'historique de croissance ajoutés</li><li>Widget de suivi des abonnés ajouté</li><li>Statistiques professionnelles ajoutées</li><li>Corrections de bugs et finitions de l'interface</li></ul>"
+    "<ul><li>Mise à jour importante</li><li>Corrections de bugs majeurs et peaufinage de l'interface</li><li>Nouveau tableau de bord des séries (Streak)</li><li>Amélioration de 'Récemment désabonnés par vous'</li><li>Amélioration du guide de santé du compte</li><li>Amélioration des demandes envoyées</li><li>Optimisation du meilleur moment pour publier</li><li>Tableau de bord et graphiques de l'historique de croissance améliorés</li><li>Ajout du widget de suivi des abonnés</li><li>Ajout d'aperçus professionnels</li></ul>"
   ],
   "hu": [
     "<b>Újdonságok</b>",
-    "<ul><li>Fontos frissítés</li><li>Súlyos hibák javítva</li><li>Új: Nemrég általad kikövetve</li><li>Új: Fiókegészségügyi útmutató</li><li>Új: Elküldött kérések</li><li>Továbbfejlesztett legjobb időpont a posztolásra</li><li>Növekedési előzmények irányítópult és diagramok hozzáadva</li><li>Követőkövető widget hozzáadva</li><li>Professzionális statisztikák hozzáadva</li><li>Hibajavítások és UI finomítások</li></ul>"
+    "<ul><li>Fontos frissítés</li><li>Főbb hibajavítások és felületi finomítások</li><li>Új Streak irányítópult</li><li>Továbbfejlesztett 'Nemrég általad kikövetve' funkció</li><li>Továbbfejlesztett fiókállapot-útmutató</li><li>Továbbfejlesztett elküldött kérések</li><li>Optimalizált legjobb posztolási idő</li><li>Továbbfejlesztett növekedési előzmények irányítópult és grafikonok</li><li>Követőkövető widget hozzáadva</li><li>Professzionális statisztikák hozzáadva</li></ul>"
   ],
   "uk": [
     "<b>Що нового</b>",
-    "<ul><li>Важливе оновлення</li><li>Виправлено основні помилки</li><li>Нове: Щойно відписані вами</li><li>Нове: Посібник ізі здоров'я аккаунта</li><li>Нове: Надіслані запити</li><li>Покращено найкращий час для публікації</li><li>Додано панель та графіки історії зростання</li><li>Додано віджет відстеження підписників</li><li>Додано професійну аналітику</li><li>Виправлення помилок та полірування інтерфейсу</li></ul>"
+    "<ul><li>Важливе оновлення</li><li>Виправлено основні помилки та вдосконалено інтерфейс</li><li>Нова панель серій (Streak)</li><li>Покращено список 'Ви нещодавно відписалися'</li><li>Покращено посібник із відновлення здоров'я акаунта</li><li>Покращено надіслані запити</li><li>Оптимізовано 'Найкращий час для публікації'</li><li>Покращено панель та графіки історії зростання</li><li>Додано віджет відстеження підписників</li><li>Додано професійну аналітику</li></ul>"
   ],
   "sk": [
     "<b>Čo je nové</b>",
-    "<ul><li>Dôležitá aktualizácia</li><li>Opravené hlavné chyby</li><li>Nové: Nedávno ste prestali sledovať</li><li>Nové: Sprievodca zdravím účtu</li><li>Nové: Odoslané žiadosti</li><li>Vylepšený najlepší čas na uverejňovanie</li><li>Pridaný panel a grafy histórie rastu</li><li>Pridaný widget na sledovanie sledovateľov</li><li>Pridané profesionálne prehľady</li><li>Opravy chýb a vyladenie používateľského rozhrania</li></ul>"
+    "<ul><li>Dôležitá aktualizácia</li><li>Oprava hlavných chýb a úprava rozhrania</li><li>Nový panel pre série (Streak)</li><li>Vylepšené 'Nedávno vami zrušené sledovania'</li><li>Vylepšený sprievodca zdravím účtu</li><li>Vylepšené odoslané žiadosti</li><li>Optimalizovaný najlepší čas na uverejňovanie</li><li>Vylepšený panel a grafy histórie rastu</li><li>Pridaný widget na sledovanie sledovateľov</li><li>Pridané profesionálne prehľady</li></ul>"
   ],
   "sl": [
     "<b>Kaj je novega</b>",
-    "<ul><li>Pomembna posodobitev</li><li>Odpravljene večje napake</li><li>Novo: Nedavno ste nehali slediti</li><li>Novo: Vodnik za zdravje računa</li><li>Novo: Poslane zahteve</li><li>Izboljšan najboljši čas za objavo</li><li>Dodana nadzorna plošča in grafikoni zgodovine rasti</li><li>Dodan gradnik za sledenje sledilcem</li><li>Dodani profesionalni vpogledi</li><li>Popravki napak in poliranje vmesnika</li></ul>"
+    "<ul><li>Pomembna posodobitev</li><li>Odpravljene glavne napake in izboljšan vmesnik</li><li>Nova nadzorna plošča za nize (Streak)</li><li>Izboljšano 'Nedavno ste prenehali slediti'</li><li>Izboljšan vodnik za zdravje računa</li><li>Izboljšane poslane zahteve</li><li>Izboljšan najboljši čas za objavo</li><li>Izboljšana nadzorna plošča in grafikoni zgodovine rasti</li><li>Dodan pripomoček za sledenje sledilcem</li><li>Dodani profesionalni vpogledi</li></ul>"
   ],
   "ca": [
     "<b>Novetats</b>",
-    "<ul><li>Actualització important</li><li>Errors principals corregits</li><li>Nou: Deixats de seguir recentment per tu</li><li>Nou: Guia de salut del compte</li><li>Nou: Sol·licituds enviades</li><li>Millorat el millor moment per publicar</li><li>S'ha afegit el tauler i els gràfics de l'historial de creixement</li><li>S'ha afegit el giny de seguiment de seguidors</li><li>S'han afegit estadístiques professionals</li><li>Correcció d'errors i retocs de la interfície</li></ul>"
+    "<ul><li>Actualització important</li><li>Correcció d'errors principals i poliment de la IU</li><li>Nou tauler de ratxes (Streak)</li><li>Millorat 'Deixats de seguir recentment per tu'</li><li>Millorada la guia de salut del compte</li><li>Millorades les sol·licituds enviades</li><li>Millorat el millor moment per publicar</li><li>Tauler i gràfics de l'historial de creixement millorats</li><li>Afegit el giny de seguiment de seguidors</li><li>Afegides estadístiques professionals</li></ul>"
   ],
   "mk": [
     "<b>Што е ново</b>",
-    "<ul><li>Важно ажурирање</li><li>Поправени главните грешки</li><li>Ново: Неодамна отследени од вас</li><li>Ново: Водич за здравје на профилот</li><li>Ново: Испратени барања</li><li>Подобрено најдобро време за објавување</li><li>Додадени се контролна табла и графикони за историја на раст</li><li>Додаден е виџет за следење на следбеници</li><li>Додадени се професионални увиди</li><li>Поправки на грешки и полирање на корисничкиот интерфејс</li></ul>"
+    "<ul><li>Важно ажурирање</li><li>Поправени главни грешки и полиран кориснички интерфејс</li><li>Нова командна табла за серии (Streak)</li><li>Подобрено 'Неодамна отследено од вас'</li><li>Подобрен водич за здравје на сметката</li><li>Подобрени испратени барања</li><li>Оптимизирано најдобро време за објавување</li><li>Подобрена командна табла и графикони за историја на раст</li><li>Додаден виџет за следење на следбеници</li><li>Додадени професионални увиди</li></ul>"
   ],
   "sq": [
     "<b>Çfarë ka të re</b>",
-    "<ul><li>Përditësim i rëndësishëm</li><li>Gabimet kryesore janë rregulluar</li><li>E re: Të ndjekur së fundmi nga ju</li><li>E re: Udhëzuesi i shëndetit të llogarisë</li><li>E re: Kërkesat e dërguara</li><li>Koha më e mirë e përmirësuar për të postuar</li><li>Shtohen paneli dhe grafikët e historisë së rritjes</li><li>Shtohet widget-i i gjurmimit të ndjekësve</li><li>Shtohen njohuri profesionale</li><li>Rregullime gabimesh dhe lustrim i UI</li></ul>"
+    "<ul><li>Përditësim i rëndësishëm</li><li>Rregullime të gabimeve kryesore dhe lustrim i ndërfaqes</li><li>Panel i ri i serive (Streak)</li><li>Përmirësuar 'Ndjekjet e hequra së fundmi nga ju'</li><li>Përmirësuar udhëzuesi i shëndetit të llogarisë</li><li>Përmirësuar kërkesat e dërguara</li><li>Optimizuar koha më e mirë për të postuar</li><li>Panel dhe grafikë të përmirësuar të historisë së rritjes</li><li>Shtuar widget-i i gjurmimit të ndjekësve</li><li>Shtuar statistika profesionale</li></ul>"
   ],
   "ml": [
-    "<b>എന്താണ് പുതിയത്</b>",
-    "<ul><li>പ്രധാനപ്പെട്ട അപ്ഡേറ്റ്</li><li>പ്രധാന ബഗ്ഗുകൾ പരിഹരിച്ചു</li><li>പുതിയത്: നിങ്ങൾ അടുത്തിടെ അൺഫോളോ ചെയ്തവർ</li><li>പുതിയത്: അക്കൗണ്ട് ഹെൽത്ത് ഗൈഡ്</li><li>പുതിയത്: അയച്ച അഭ്യർത്ഥനകൾ</li><li>പോസ്റ്റ് ചെയ്യാൻ മെച്ചപ്പെട്ട മികച്ച സമയം</li><li>ഗ്രോത്ത് ഹിസ്റ്ററി ഡാഷ്‌ബോർഡും ചാർട്ടുകളും ചേർത്തു</li><li>ഫോളോവർ ട്രാക്കർ വിജറ്റ് ചേർത്തു</li><li>പ്രൊഫഷണൽ സ്ഥിതിവിവരക്കണക്കുകൾ ചേർത്തു</li><li>ബഗ് പരിഹരിക്കലുകളും യുഐ മിനുക്കുപണികളും</li></ul>"
+    "<b>പുതിയ വിശേഷങ്ങൾ</b>",
+    "<ul><li>പ്രധാനപ്പെട്ട അപ്ഡേറ്റ്</li><li>പ്രധാന ബഗുകൾ പരിഹരിക്കുകയും യുഐ മെച്ചപ്പെടുത്തുകയും ചെയ്തു</li><li>പുതിയ സ്ട്രീക്ക് ഡാഷ്‌ബോർഡ്</li><li>'നിങ്ങൾ അടുത്തിടെ അൺഫോളോ ചെയ്തവ' മെച്ചപ്പെടുത്തി</li><li>അക്കൗണ്ട് ഹെൽത്ത് ഗൈഡ് മെച്ചപ്പെടുത്തി</li><li>അയച്ച അഭ്യർത്ഥനകൾ മെച്ചപ്പെടുത്തി</li><li>പോസ്റ്റ് ചെയ്യാൻ ഏറ്റവും അനുയോജ്യമായ സമയം മെച്ചപ്പെടുത്തി</li><li>ഗ്രോത്ത് ഹിസ്റ്ററി ഡാഷ്‌ബോർഡും ചാർട്ടുകളും മെച്ചപ്പെടുത്തി</li><li>ഫോളോവേഴ്‌സ് ട്രാക്കർ വിഡ്ജറ്റ് ചേർത്തു</li><li>പ്രൊഫഷണൽ ഇൻസൈറ്റുകൾ ചേർത്തു</li></ul>"
   ],
   "sr": [
     "<b>Шта је ново</b>",
-    "<ul><li>Важно ажурирање</li><li>Исправљене главне грешке</li><li>Ново: Недавно сте престали да пратите</li><li>Ново: Водич за здравље налога</li><li>Ново: Послати захтеви</li><li>Побољшано најбоље време за објављивање</li><li>Додата командна табла и графикони историје раста</li><li>Додат виџет за праћење пратилаца</li><li>Додати професионални увиди</li><li>Исправке грешака и дотеривање интерфејса</li></ul>"
+    "<ul><li>Важно ажурирање</li><li>Исправљене главне грешке и дотеран интерфејс</li><li>Нова контролна табла за низове (Streak)</li><li>Побољшано 'Недавно сте престали да пратите'</li><li>Побољшан водич за здравље налога</li><li>Побољшани послати захтеви</li><li>Оптимизовано најбоље време за објављивање</li><li>Контролна табла и графикони историје раста побољшани</li><li>Додат виџет за праћење пратилаца</li><li>Додати професионални увиди</li></ul>"
   ],
   "sv": [
     "<b>Nyheter</b>",
-    "<ul><li>Viktig uppdatering</li><li>Större buggar åtgärdade</li><li>Nytt: Nyligen avföljda av dig</li><li>Nytt: Guide för kontohälsa</li><li>Nytt: Skickade förfrågningar</li><li>Förbättrad bästa tid att posta</li><li>Instrumentpanel och diagram för tillväxthistorik tillagda</li><li>Widget för följarspårning tillagd</li><li>Professionella insikter tillagda</li><li>Buggfixar och gränssnittspolering</li></ul>"
+    "<ul><li>Viktig uppdatering</li><li>Åtgärdat stora buggar och finslipat gränssnittet</li><li>Ny streak-instrumentpanel</li><li>Förbättrat 'Nyligen avföljda av dig'</li><li>Förbättrad hälsoguide för kontot</li><li>Förbättrade skickade förfrågningar</li><li>Optimerad bästa tid att posta</li><li>Instrumentpanel och diagram för tillväxthistorik har förbättrats</li><li>Widget för följarspårning har lagts till</li><li>Professionella insikter har lagts till</li></ul>"
   ],
   "ko": [
     "<b>새로운 기능</b>",
-    "<ul><li>중요 업데이트</li><li>주요 버그 수정</li><li>새로운 기능: 최근 회원님이 팔로우 취소함</li><li>새로운 기능: 계정 상태 가이드</li><li>새로운 기능: 보낸 요청</li><li>게시하기 가장 좋은 시간 개선</li><li>성장 기록 대시보드 및 차트 추가</li><li>팔로워 추적 위젯 추가</li><li>전문적인 인사이트 추가</li><li>버그 수정 및 UI 개선</li></ul>"
+    "<ul><li>중요 업데이트</li><li>주요 버그 수정 및 UI 개선</li><li>새로운 스트릭 대시보드</li><li>'최근 내가 팔로우 취소한 계정' 개선</li><li>계정 상태 가이드 개선</li><li>보낸 요청 기능 개선</li><li>게시하기 가장 좋은 시간 기능 향상</li><li>성장 기록 대시보드 및 차트 개선</li><li>팔로워 추적 위젯 추가</li><li>프로페셔널 인사이트 추가</li></ul>"
   ],
   "af": [
     "<b>Wat's Nuut</b>",
-    "<ul><li>Belangrike opdatering</li><li>Groot foute reggemaak</li><li>Nuut: Onlangs deur jou ontvolg</li><li>Nuut: Rekeninggesondheidsgids</li><li>Nuut: Gestuurde versoeke</li><li>Verbeterde beste tyd om te plaas</li><li>Groeigeskiedenis-kontroleskerm en -grafieke bygevoeg</li><li>Volgeling-spoorder-widget bygevoeg</li><li>Professionele insigte bygevoeg</li><li>Foutoplossings en UI-polering</li></ul>"
+    "<ul><li>Belangrike Opdatering</li><li>Groot Foute Reggemaak en UI Afgerond</li><li>Nuwe Streak-kontroleskerm</li><li>Verbeterde 'Onlangs deur jou ontvolg'</li><li>Verbeterde Rekeninggesondheidsgids</li><li>Verbeterde Gestuurde Versoeke</li><li>Geoptimaliseerde Beste Tyd om te Plaas</li><li>Groeigeskiedenis-kontroleskerm en -grafieke Verbeter</li><li>Volger-spoorsnyer-widget Bygevoeg</li><li>Professionele Insigte Bygevoeg</li></ul>"
   ],
   "in": [
-    "<b>Yang Baru</b>",
-    "<ul><li>Pembaruan Penting</li><li>Bug Utama Diperbaiki</li><li>Baru: Baru saja Anda Berhenti Ikuti</li><li>Baru: Panduan Kesehatan Akun</li><li>Baru: Permintaan Terkirim</li><li>Waktu Terbaik untuk Memposting yang Ditingkatkan</li><li>Dasbor Dan Grafik Riwayat Pertumbuhan Ditambahkan</li><li>Widget Pelacak Pengikut Ditambahkan</li><li>Wawasan Profesional Ditambahkan</li><li>Perbaikan Bug Dan Pemolesan UI</li></ul>"
+    "<b>Apa yang Baru</b>",
+    "<ul><li>Pembaruan Penting</li><li>Perbaikan Bug Utama dan Penyempurnaan UI</li><li>Dasbor Streak Baru</li><li>Peningkatan 'Baru-baru ini Anda Unfollow'</li><li>Peningkatan Panduan Kesehatan Akun</li><li>Peningkatan Permintaan Dikirim</li><li>Peningkatan Waktu Terbaik untuk Memposting</li><li>Dasbor dan Grafik Riwayat Pertumbuhan Ditingkatkan</li><li>Widget Pelacak Pengikut Ditambahkan</li><li>Wawasan Profesional Ditambahkan</li></ul>"
   ],
   "ms": [
-    "<b>Apa Yang Baharu</b>",
-    "<ul><li>Kemas Kini Penting</li><li>Bug Utama Diperbaiki</li><li>Baharu: Unfollow Terbaru Oleh Anda</li><li>Baharu: Panduan Kesihatan Akaun</li><li>Baharu: Permintaan Dihantar</li><li>Masa Terbaik untuk Menyiarkan yang Dipertingkatkan</li><li>Papan Pemuka Dan Carta Sejarah Pertumbuhan Ditambah</li><li>Widget Penjejak Pengikut Ditambah</li><li>Wawasan Profesional Ditambah</li><li>Pembetulan Bug Dan Pengemasan UI</li></ul>"
+    "<b>Apa Yang Baru</b>",
+    "<ul><li>Kemas Kini Penting</li><li>Pembetulan Bug Utama dan Kemasan UI</li><li>Papan Pemuka Streak Baharu</li><li>Peningkatan 'Baru-baru Ini Di-unfollow Oleh Anda'</li><li>Peningkatan Panduan Kesihatan Akaun</li><li>Peningkatan Permintaan Dihantar</li><li>Peningkatan Masa Terbaik untuk Menyiarkan</li><li>Papan Pemuka dan Carta Sejarah Pertumbuhan Ditambah Baik</li><li>Widget Penjejak Pengikut Ditambah</li><li>Wawasan Profesional Ditambah</li></ul>"
   ],
   "el": [
     "<b>Τι νέο υπάρχει</b>",
-    "<ul><li>Σημαντική ενημέρωση</li><li>Διορθώθηκαν σημαντικά σφάλματα</li><li>Νέο: Καταργήθηκαν πρόσφατα από εσάς</li><li>Νέο: Οδηγός υγείας λογαριασμού</li><li>Νέο: Απεσταλμένα αιτήματα</li><li>Βελτιωμένη καλύτερη ώρα για δημοσίευση</li><li>Προστέθηκε πίνακας ελέγχου και γραφήματα ιστορικού ανάπτυξης</li><li>Προστέθηκε γραφικό στοιχείο παρακολούθησης ακόλουθων</li><li>Προστέθηκαν επαγγελματικά στατιστικά στοιχεία</li><li>Διορθώσεις σφαλμάτων και βελτιώσεις διεπαφής</li></ul>"
+    "<ul><li>Σημαντική ενημέρωση</li><li>Διορθώσεις σημαντικών σφαλμάτων και βελτίωση της διεπαφής χρήστη</li><li>Νέος πίνακας ελέγχου σερί (Streak)</li><li>Βελτιώθηκε το 'Καταργήθηκε πρόσφατα η ακολουθία από εσάς'</li><li>Βελτιώθηκε ο οδηγός υγείας λογαριασμού</li><li>Βελτιώθηκαν τα απεσταλμένα αιτήματα</li><li>Βελτιώθηκε η καλύτερη ώρα για δημοσίευση</li><li>Βελτιώθηκε ο πίνακας ελέγχου και τα γραφήματα ιστορικού ανάπτυξης</li><li>Προστέθηκε widget παρακολούθησης ακόλουθων</li><li>Προστέθηκαν επαγγελματικά στατιστικά στοιχεία</li></ul>"
   ],
   "it": [
     "<b>Novità</b>",
-    "<ul><li>Aggiornamento importante</li><li>Bug principali corretti</li><li>Novità: Non seguiti più di recente da te</li><li>Novità: Guida allo stato dell'account</li><li>Novità: Richieste inviate</li><li>Migliorato il momento migliore per pubblicare</li><li>Aggiunti dashboard e grafici della cronologia di crescita</li><li>Aggiunto widget di monitoraggio dei follower</li><li>Aggiunti insight professionali</li><li>Correzioni di bug e perfezionamenti della UI</li></ul>"
+    "<ul><li>Aggiornamento importante</li><li>Risoluzione di bug principali e perfezionamento dell'interfaccia utente</li><li>Nuova dashboard dei progressi (Streak)</li><li>Migliorato 'Non più seguiti di recente da te'</li><li>Migliorata la guida sullo stato dell'account</li><li>Migliorate le richieste inviate</li><li>Ottimizzato l'orario migliore per pubblicare</li><li>Dashboard e grafici della cronologia di crescita migliorati</li><li>Aggiunto il widget di tracciamento dei follower</li><li>Aggiunti insight professionali</li></ul>"
   ],
   "es": [
     "<b>Novedades</b>",
-    "<ul><li>Actualización importante</li><li>Errores mayores corregidos</li><li>Nuevo: Dejados de seguir recientemente por ti</li><li>Nuevo: Guía de salud de la cuenta</li><li>Nuevo: Solicitudes enviadas</li><li>Mejor hora para publicar optimizada</li><li>Panel y gráficos de historial de crecimiento añadidos</li><li>Widget de seguimiento de seguidores añadido</li><li>Estadísticas profesionales añadidas</li><li>Corrección de errores y retoques de interfaz</li></ul>"
+    "<ul><li>Actualización importante</li><li>Corrección de errores principales y pulido de la interfaz</li><li>Nuevo panel de rachas (Streak)</li><li>Mejora en 'Dejados de seguir recientemente por ti'</li><li>Mejora en la guía de salud de la cuenta</li><li>Mejora en las solicitudes enviadas</li><li>Optimización del mejor momento para publicar</li><li>Panel y gráficos del historial de crecimiento mejorados</li><li>Se añadió el widget de seguimiento de seguidores</li><li>Se añadieron estadísticas profesionales</li></ul>"
   ],
   "et": [
     "<b>Mis uut</b>",
-    "<ul><li>Oluline uuendus</li><li>Suured vead parandatud</li><li>Uus: Hiljuti sinu poolt jälgimisest loobutud</li><li>Uus: Konto tervise juhend</li><li>Uus: Saadetud päringud</li><li>Täiustatud parim aeg postitamiseks</li><li>Kasvuajaloo töölaud ja graafikud lisatud</li><li>Jälgijate jälgimise vidin lisatud</li><li>Professionaalsed ülevaated lisatud</li><li>Veaparandused ja kasutajaliidese viimistlus</li></ul>"
+    "<ul><li>Oluline uuendus</li><li>Suuremate vigade parandused ja kasutajaliidese lihvimine</li><li>Uus seeriate (Streak) töölaud</li><li>Täustatud 'Hiljuti sinu poolt jälgimisest loobutud'</li><li>Täiustatud konto tervislikkuse juhend</li><li>Täiustatud saadetud päringud</li><li>Optimeeritud parim aeg postitamiseks</li><li>Kasvuajaloo töölaud ja graafikud parandatud</li><li>Jälgijate jälgimise vidin lisatud</li><li>Professionaalsed ülevaated lisatud</li></ul>"
   ],
   "cs": [
     "<b>Co je nového</b>",
-    "<ul><li>Důležitá aktualizace</li><li>Opraveny hlavní chyby</li><li>Nové: Nedávno jste přestali sledovat</li><li>Nové: Průvodce zdravím účtu</li><li>Nové: Odeslané žádosti</li><li>Vylepšený nejlepší čas pro přidávání příspěvků</li><li>Přidán panel a grafy historie růstu</li><li>Přidán widget pro sledování sledujících</li><li>Přidány profesionální přehledy</li><li>Opravy chyb a vylepšení uživatelského rozhraní</li></ul>"
+    "<ul><li>Důležitá aktualizace</li><li>Oprava hlavních chyb a vyladění uživatelského rozhraní</li><li>Nový panel sérií (Streak)</li><li>Vylepšeno 'Nedávno vámi zrušená sledování'</li><li>Vylepšený průvodce stavem účtu</li><li>Vylepšené odeslané žádosti</li><li>Optimalizován nejlepší čas pro přidávání příspěvků</li><li>Vylepšen panel a grafy historie růstu</li><li>Přidán widget pro sledování sledujících</li><li>Přidány profesionální přehledy</li></ul>"
   ],
   "eu": [
-    "<b>Zer berri</b>",
-    "<ul><li>Eguneratze garrantzitsua</li><li>Akats nagusiak konponduta</li><li>Berria: Berriki jarraitzeari utzi diozuna</li><li>Berria: Kontuaren osasun gida</li><li>Berria: Bikitako eskaerak</li><li>Argitaratzeko une egokiena hobetua</li><li>Hazkundearen historiaren panela eta grafikoak gehituta</li><li>Jarraitzaileen jarraipena egiteko widgeta gehituta</li><li>Ikuspegi profesionalak gehituta</li><li>Akatsen konponketak eta interfazearen hobekuntzak</li></ul>"
+    "<b>Novitateak</b>",
+    "<ul><li>Eguneratze garrantzitsua</li><li>Akats nagusiak zuzendu eta interfazea findu da</li><li>Jarraipen-arbel berria (Streak)</li><li>Zuk berriki jarraitzeari utzitakoak hobetu dira</li><li>Kontuaren osasun-gida hobetu da</li><li>Bidalitako eskaerak hobetu dira</li><li>Argitaratzeko unerik onena optimizatu da</li><li>Hazkundearen historiaren arbela eta grafikoak hobetu dira</li><li>Jarraitzaileen jarraipena egiteko widget-a gehitu da</li><li>Ikuspegi profesionalak gehitu dira</li></ul>"
   ],
   "ar": [
     "<b>ما الجديد</b>",
-    "<ul><li>تحديث مهم</li><li>تم إصلاح الأخطاء الرئيسية</li><li>جديد: تم إلغاء متابعتهم مؤخرًا بواسطتك</li><li>جديد: دليل صحة الحساب</li><li>جديد: الطلبات المرسلة</li><li>تحسين أفضل وقت للنشر</li><li>تم إضافة لوحة تحكم ورسوم بيانية لسجل النمو</li><li>تم إضافة أداة تتبع المتابعين</li><li>تم إضافة رؤى احترافية</li><li>إصلاح الأخطاء وتحسين واجهة المستخدم</li></ul>"
+    "<ul><li>تحديث مهم</li><li>إصلاح الأخطاء الرئيسية وتحسين واجهة المستخدم</li><li>لوحة تحكم جديدة للمتابعة اليومية (Streak)</li><li>تحسين قائمة 'ألغيت متابعتهم مؤخراً'</li><li>تحسين دليل صحة الحساب</li><li>تحسين الطلبات المرسلة</li><li>تحسين أفضل وقت للنشر</li><li>تحسين لوحة تحكم ورسوم بيانية لسجل النمو</li><li>إضافة أداة تتبع المتابعين</li><li>إضافة رؤى احترافية</li></ul>"
   ],
   "vi": [
     "<b>Có gì mới</b>",
-    "<ul><li>Cập nhật quan trọng</li><li>Đã sửa các lỗi lớn</li><li>Mới: Tài khoản bạn vừa bỏ theo dõi gần đây</li><li>Mới: Hướng dẫn sức khỏe tài khoản</li><li>Mới: Yêu cầu đã gửi</li><li>Tối ưu hóa thời gian đăng bài tốt nhất</li><li>Đã thêm bảng điều khiển và biểu đồ lịch sử phát triển</li><li>Đã thêm tiện ích theo dõi người theo dõi</li><li>Đã thêm thông tin chi tiết chuyên nghiệp</li><li>Sửa lỗi và tinh chỉnh giao diện</li></ul>"
+    "<ul><li>Cập nhật quan trọng</li><li>Sửa các lỗi lớn và tinh chỉnh giao diện</li><li>Bảng điều khiển chuỗi (Streak) mới</li><li>Cải thiện mục 'Bạn đã hủy theo dõi gần đây'</li><li>Cải thiện hướng dẫn sức khỏe tài khoản</li><li>Cải thiện các yêu cầu đã gửi</li><li>Tối ưu hóa thời gian đăng bài tốt nhất</li><li>Cải thiện bảng điều khiển và biểu đồ lịch sử tăng trưởng</li><li>Thêm tiện ích theo dõi người theo dõi</li><li>Thêm thông tin chi tiết chuyên nghiệp</li></ul>"
   ],
   "th": [
     "<b>มีอะไรใหม่</b>",
-    "<ul><li>อัปเดตสำคัญ</li><li>แก้ไขข้อผิดพลาดหลักแล้ว</li><li>ใหม่: เลิกติดตามล่าสุดโดยคุณ</li><li>ใหม่: คู่มือสุขภาพบัญชี</li><li>ใหม่: คำขอที่ส่งแล้ว</li><li>ปรับปรุงเวลาที่ดีที่สุดในการโพสต์</li><li>เพิ่มแดชบอร์ดและแผนภูมิประวัติการเติบโต</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตาม</li><li>เพิ่มข้อมูลเชิงลึกระดับมืออาชีพ</li><li>แก้ไขข้อผิดพลาดและปรับแต่ง UI</li></ul>"
+    "<ul><li>อัปเดตสำคัญ</li><li>แก้ไขข้อผิดพลาดหลักและปรับแต่ง UI</li><li>แดชบอร์ดสตรีคใหม่</li><li>ปรับปรุง 'เลิกติดตามล่าสุดโดยคุณ'</li><li>ปรับปรุงคู่มือสุขภาพบัญชี</li><li>ปรับปรุงคำขอที่ส่งแล้ว</li><li>ปรับปรุงเวลาที่ดีที่สุดในการโพสต์</li><li>ปรับปรุงแดชบอร์ดและแผนภูมิประวัติการเติบโต</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตาม</li><li>เพิ่มข้อมูลเชิงลึกระดับมืออาชีพ</li></ul>"
   ],
   "ja": [
     "<b>新機能</b>",
-    "<ul><li>重要なアップデート</li><li>主要なバグの修正</li><li>新機能：最近あなたがフォロー解除したもの</li><li>新機能：アカウントヘルプガイド</li><li>新機能：送信済みリクエスト</li><li>投稿に最適な時間の向上</li><li>成長履歴ダッシュボードとチャートの追加</li><li>フォロワートラッカーウィジェットの追加</li><li>プロフェッショナルインサイトの追加</li><li>バグ修正とUIのブラッシュアップ</li></ul>"
+    "<ul><li>重要なアップデート</li><li>主なバグ修正とUIのブラッシュアップ</li><li>新しいストリークダッシュボード</li><li>「最近フォロー解除したアカウント」の改善</li><li>アカウントヘルスガイドの改善</li><li>送信済みリクエストの改善</li><li>「投稿に最適な時間」の最適化</li><li>成長履歴ダッシュボードとチャートの改善</li><li>フォロワートラッカーウィジェットの追加</li><li>プロフェッショナルインサイトの追加</li></ul>"
   ],
   "az": [
     "<b>Yeniliklər</b>",
-    "<ul><li>Vacib Yeniləmə</li><li>Böyük Səhvlər Düzəldildi</li><li>Yeni: Son vaxtlar tərəfinizdən izlənməsi dayandırılanlar</li><li>Yeni: Hesab Sağlamlığı Təlimatı</li><li>Yeni: Göndərilən Sorğular</li><li>Təkmilləşdirilmiş Paylaşım üçün Ən Yaxşı Vaxt</li><li>Böyümə Tarixi Paneli və Qrafikləri Əlavə Edildi</li><li>İzləyici İzləmə Vidceti Əlavə Edildi</li><li>Peşəkar Analitika Əlavə Edildi</li><li>Səhvlərin düzəldilməsi və UI təkmilləşdirilməsi</li></ul>"
+    "<ul><li>Vacib Yenilənmə</li><li>Əsas Səhvlər Düzəldildi və UI Təkmilləşdirildi</li><li>Yeni Streak Paneli</li><li>'Son Zamanlar Tərəfinizdən İzlənməsi Dayandırılanlar' Təkmilləşdirildi</li><li>Hesab Sağlamlığı Bələdçisi Təkmilləşdirildi</li><li>Göndərilən Sorğular Təkmilləşdirildi</li><li>Paylaşım Üçün Ən Yaxşı Vaxt Təkmilləşdirildi</li><li>Böyümə Tarixi Paneli və Qrafikləri Təkmilləşdirildi</li><li>Izləyici İzləmə Vidceti Əlavə Edildi</li><li>Peşəkar Analitika Əlavə Edildi</li></ul>"
   ],
   "fa": [
     "<b>چه خبر</b>",
-    "<ul><li>بروزرسانی مهم</li><li>خطاهای اصلی برطرف شد</li><li>جدید: اخیراً توسط شما آنفالو شده است</li><li>جدید: راهنمای سلامت حساب</li><li>جدید: درخواست‌های ارسال شده</li><li>بهبود بهترین زمان برای پست گذاشتن</li><li>داشبورد و نمودارهای تاریخچه رشد اضافه شد</li><li>ویجت ردیاب دنبال‌کننده اضافه شد</li><li>بینش‌های حرفه‌ای اضافه شد</li><li>رفع اشکال و بهبود رابط کاربری</li></ul>"
+    "<ul><li>بروزرسانی مهم</li><li>رفع باگ‌های اصلی و بهبود رابط کاربری</li><li>داشبورد استریک (Streak) جدید</li><li>بهبود بخش 'اخیراً توسط شما آنفالو شده'</li><li>بهبود راهنمای سلامت حساب</li><li>بهبود درخواست‌های ارسال شده</li><li>بهینه‌سازی بهترین زمان برای پست گذاشتن</li><li>بهبود داشبورد و نمودارهای تاریخچه رشد</li><li>افزودن ویجت ردیاب فالوورها</li><li>افزودن آمارهای حرفه‌ای</li></ul>"
   ],
   "pl": [
     "<b>Co nowego</b>",
-    "<ul><li>Ważna aktualizacja</li><li>Naprawiono poważne błędy</li><li>Nowość: Ostatnio przez Ciebie zaobserwowani (cofnięte obserwacje)</li><li>Nowość: Przewodnik po stanie konta</li><li>Nowość: Wysyłane zaproszenia</li><li>Ulepszono najlepszy czas na publikację</li><li>Dodano pulpit nawigacyjny i wykresy historii wzrostu</li><li>Dodano widżet do śledzenia obserwujących</li><li>Dodano profesjonalne statystyki</li><li>Poprawki błędów i odświeżenie interfejsu</li></ul>"
+    "<ul><li>Ważna aktualizacja</li><li>Naprawa głównych błędów i dopracowanie interfejsu</li><li>Nowy panel serii (Streak)</li><li>Ulepszono sekcję 'Ostatnio przez Ciebie zaobserwowani'</li><li>Ulepszono przewodnik po stanie konta</li><li>Ulepszono wysłane zaproszenia</li><li>Zoptymalizowano najlepszy czas na publikację</li><li>Ulepszono panel i wykresy historii wzrostu</li><li>Dodano widget do śledzenia obserwujących</li><li>Dodano profesjonalne statystyki</li></ul>"
   ],
   "da": [
     "<b>Hvad er nyt</b>",
-    "<ul><li>Vigtig opdatering</li><li>Større fejl rettet</li><li>Nyt: Nyligt afmældt af dig</li><li>Nyt: Guide til kontosundhed</li><li>Nyt: Sendte anmodninger</li><li>Optimeret bedste tidspunkt at opslå på</li><li>Kontrolpanel og diagrammer over væksthistorik tilføjet</li><li>Widget til følgertracking tilføjet</li><li>Professionel indsigt tilføjet</li><li>Fejlretninger og UI-finpudsning</li></ul>"
+    "<ul><li>Vigtig opdatering</li><li>Fejlretninger af store fejl og UI-finpudsning</li><li>Nyt Streak-dashboard</li><li>Forbedret 'Senest affulgt af dig'</li><li>Forbedret vejledning om kontosundhed</li><li>Forbedrede sendte anmodninger</li><li>Optimeret bedste tidspunkt at opslå</li><li>Dashboard og diagrammer over væksthistorik forbedret</li><li>Widget til sporing af følgere tilføjet</li><li>Professionel indsigt tilføjet</li></ul>"
   ],
   "ro": [
     "<b>Ce este nou</b>",
-    "<ul><li>Actualizare importantă</li><li>Erori majore remediate</li><li>Nou: Persoane cărora le-ai dat unfollow recent</li><li>Nou: Ghid pentru starea contului</li><li>Nou: Cereri trimise</li><li>Cel mai bun moment pentru a posta optimizat</li><li>Panou și grafice pentru istoricul de creștere adăugate</li><li>Widget pentru urmărirea urmăritorilor adăugat</li><li>Informații profesionale adăugate</li><li>Remedieri de erori și finisaje UI</li></ul>"
+    "<ul><li>Actualizare importantă</li><li>Corectarea erorilor majore și finisarea interfeței</li><li>Nou panou de control pentru serii (Streak)</li><li>Îmbunătățirea secțiunii 'Dezabonări recente realizate de tine'</li><li>Îmbunătățirea ghidului privind starea contului</li><li>Îmbunătățirea solicitărilor trimise</li><li>Optimizarea celui mai bun moment pentru a posta</li><li>Panoul de control și graficele istoricului de creștere îmbunătățite</li><li>A fost adăugat widgetul de urmărire a urmăritorilor</li><li>Au fost adăugate informații profesionale</li></ul>"
   ],
   "nl": [
     "<b>Wat is er nieuw</b>",
-    "<ul><li>Belangrijke update</li><li>Belangrijke bugs opgelost</li><li>Nieuw: Onlangs door jou ontvolgd</li><li>Nieuw: Accountstatusgids</li><li>Nieuw: Verzonden verzoeken</li><li>Verbeterde beste tijd om te plaatsen</li><li>Groeigeschiedenis-dashboard en grafieken toegevoegd</li><li>Volgers-tracker widget toegevoegd</li><li>Professionele inzichten toegevoegd</li><li>Bugfixes en UI-optimalisatie</li></ul>"
+    "<ul><li>Belangrijke update</li><li>Belangrijke bugfixes en UI-afwerking</li><li>Nieuw streak-dashboard</li><li>Verbeterd 'Onlangs door jou ontvolgd'</li><li>Verbeterde gids voor accounthistorie</li><li>Verbeterde verzonden verzoeken</li><li>Geoptimaliseerde 'Beste tijd om te plaatsen'</li><li>Dashboard en grafieken voor groeigeschiedenis verbeterd</li><li>Volgers-tracker widget toegevoegd</li><li>Professionele inzichten toegevoegd</li></ul>"
   ],
   "tr": [
     "<b>Yenilikler</b>",
-    "<ul><li>Önemli Güncelleme</li><li>Büyük Hatalar Düzeltildi</li><li>Yeni: Son Zamanlarda Tarafınızdan Takibi Bırakılanlar</li><li>Yeni: Hesap Durumu Kılavuzu</li><li>Yeni: Gönderilen İstekler</li><li>Geliştirilmiş Gönderi Paylaşımı İçin En İyi Zaman</li><li>Büyüme Geçmişi Paneli ve Grafikleri Eklendi</li><li>Takipçi Takip Aracı Eklendi</li><li>Profesyonel Analizler Eklendi</li><li>Hata Düzeltmeleri ve Arayüz İyileştirmeleri</li></ul>"
+    "<ul><li>Önemli Güncelleme</li><li>Büyük Hata Düzeltmeleri ve Arayüz İyileştirmeleri</li><li>Yeni Seri (Streak) Paneli</li><li>'Son Takibi Bıraktıklarınız' Geliştirildi</li><li>Hesap Durumu Kılavuzu Geliştirildi</li><li>Gönderilen İstekler Geliştirildi</li><li>Paylaşım İçin En İyi Zaman İyileştirildi</li><li>Büyüme Geçmişi Paneli ve Grafikleri Geliştirildi</li><li>Takipçi Takip Aracı (Widget) Eklendi</li><li>Profesyonel Analizler Eklendi</li></ul>"
   ]
 }
 }
