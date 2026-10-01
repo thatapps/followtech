@@ -47,7 +47,7 @@
     
      // interstitialAd Load Controllers For Story
     "story_back_press_interval": 1,
-    "story_cooldown_seconds": 60,
+    "story_cooldown_seconds": 30,
     
 
     
