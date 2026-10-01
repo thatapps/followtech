@@ -5,7 +5,6 @@
     "show_native_list": true,
     "show_native_interaction": true,
     "show_native_post": true,
-    "show_native_fullscreen_image": true,
     
     "show_native_feed_ad": false,
     "show_admob_native_ad": true,
@@ -28,12 +27,29 @@
      "show_mass_unfollow": true,  //Show Mass Unfollow in Lists
      
     "show_reward_ad_profile_visitors": false  // False Means Inside
+    
+       // Dual Rating Controllers
+    
+    "sync_has_rated": true  //Shared State: One 5-star rating disables ALL rating prompts across the entire app.
+  //  "sync_has_rated": false //Independent State: RateDialog (lists) and RatingStarDialog (backpress) run separately
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
     "show_custom_interstitial": false,
     "show_custom_interstitialAd_Failed": true,
     "show_StartApp_interstitialAd": false,
+    
+    // interstitialAd Load Controllers
+    "back_press_interval": 1,
+    "cooldown_seconds": 30,
+    "max_ads_per_session": 0,
+    
+    
+     // interstitialAd Load Controllers For Story
+    "story_back_press_interval": 1,
+    "story_cooldown_seconds": 60,
+    
+
     
     "title": { 
 "en": "Instagram Downloader", 
