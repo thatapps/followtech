@@ -27,6 +27,8 @@
      "show_mass_unfollow": true,  //Show Mass Unfollow in Lists
      
     "show_reward_ad_profile_visitors": false,  // False Means Inside
+
+       "disable_appopen_first_time": false,   // AppOpen Ads First Time Not Show If True
     
        // Dual Rating Controllers
     
