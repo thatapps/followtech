@@ -61,7 +61,7 @@
       - Set to false: Disables cold-start preloading on app boot. Sub-activities 
         (ListActivity, DpView, Stories) will load ads on-demand when opened.
     */
-    "enable_app_launch_interstitial_preload": true,
+    "enable_app_launch_interstitial_preload": false,
 
 
 
