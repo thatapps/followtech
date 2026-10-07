@@ -55,7 +55,7 @@
     "story_back_press_interval": 2,
     "story_cooldown_seconds": 30,
 
-
+ /*
       enable_app_launch_interstitial_preload (true / false):
       -------------------------------------------------------------------------
       Toggles whether App.java preloads 1 global Interstitial Ad in the background 
