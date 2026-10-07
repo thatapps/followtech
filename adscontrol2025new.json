@@ -12,6 +12,10 @@
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
 
+
+   // Set to false to disable asking notification permission on app entry
+    "show_notification_permission": false,
+
     "show_plans_0": false, // (3M, 6M, 12M)
     "show_plans_1": true, // (1W, 1M, 3M)
     "show_plans_2": false, // (1W, 1M, 12M)
