@@ -94,7 +94,7 @@
     */
     "enable_delayed_preload": true,
     "delayed_preload_buffer_seconds": 5,
-    "failed_load_cooldown_seconds": 30,
+    "failed_load_cooldown_seconds": 25,
     
 
     
