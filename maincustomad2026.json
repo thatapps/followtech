@@ -2,7 +2,7 @@
     "refresh_interval": 10, 
   "ads": [
     {
-      "ad_visible": true,
+      "ad_visible": false,
   "ad_app_icon": "https://raw.githubusercontent.com/thatapps/followtech/refs/heads/main/story/logo512.png",
  "ad_headline": { 
 "en": "Instagram Downloader", 
@@ -143,7 +143,7 @@
 },
     
     {
-  "ad_visible": true,
+  "ad_visible": false,
   "ad_app_icon": "https://raw.githubusercontent.com/thatapps/followtech/refs/heads/main/allpdf512.png",
   "ad_url": "https://play.google.com/store/apps/details?id=documentreader.filereader.pdf.reader.pdfviewer.officetool",
   "ad_headline": {
