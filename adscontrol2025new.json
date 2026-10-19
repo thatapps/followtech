@@ -36,8 +36,8 @@
     
        // Dual Rating Controllers
     
-    "sync_has_rated": true  //Shared State: One 5-star rating disables ALL rating prompts across the entire app.
-  //  "sync_has_rated": false //Independent State: RateDialog (lists) and RatingStarDialog (backpress) run separately
+  //  "sync_has_rated": true  //Shared State: One 5-star rating disables ALL rating prompts across the entire app.
+    "sync_has_rated": false //Independent State: RateDialog (lists) and RatingStarDialog (backpress) run separately
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
