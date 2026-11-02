@@ -26,6 +26,9 @@
 
     // Controls visibility of the "Engagement Rate Score" card/banner on Main View
     "show_engagement_rate_score": false,
+
+    // Controls visibility of the "Highlights" quick action button on the main dashboard
+    "show_highlights": false,
     
     // Cooldown in minutes between background Instagram story API refreshes (prevents rate limits / 429 errors)
     "story_refresh_cooldown_minutes": 5,
