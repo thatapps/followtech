@@ -13,6 +13,11 @@
     "show_startapp_banner": false,
 
 
+    / Controls how many days after first install before showing the rating dialog on backpress.
+    // Default is 2 days. Set to 0 to show immediately on Day 1.
+    "rate_dialog_delay_days": 2,
+
+
 
      "free_first_followers_sync": true,     // First Followers sync skips the reward ad
     "free_first_interactions_sync": true, // First Interactions sync skips the reward ad
