@@ -25,8 +25,8 @@
     "activities": {
       "main": {
         "show_native_feed_ad": false,
-        "show_admob_native_ad": true,
-        "show_admob_collapsible_banner": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
         "show_custom_native_ad": false,
         "show_admob_banner": false
       },
@@ -99,7 +99,7 @@
         "show_custom_native_ad": false,
         "show_admob_banner": false
       }
-    }
+    },
 
 
     "enable_follower_notifications": true, // Enables the background follower check and its reminder notifications
@@ -143,8 +143,12 @@
     // Master toggle: true to allow story fetching from network/database, false to disable all story loading
     "enable_story_loading": true,
     
-    // Cooldown in minutes between background Instagram story API refreshes (prevents rate limits / 429 errors)
+    "_comment_story_refresh_cooldown_minutes": "Automatic fetch cooldown, in minutes OLD. ",
     "story_refresh_cooldown_minutes": 5,
+
+    
+    "_comment_story_manual_refresh_cooldown_minutes": "Manual refresh cooldown, in minutes. 60 means one hour.",
+    "story_manual_refresh_cooldown_minutes": 60,
 
 
    // Set to false to disable asking notification permission on app entry
