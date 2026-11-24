@@ -102,6 +102,11 @@
     },
 
 
+    "use_followers_list_api": false, // Disable the direct API route.
+    "use_followers_list_graphql": true, // Try GraphQL first.
+    "use_followers_list_webview": true, // Fall back to WebView if GraphQL fails.
+
+
     "enable_follower_notifications": false, // Enables the background follower check and its reminder notifications
   "follower_check_interval_hours": 8, // Runs the worker every 8 hours (allowed range: 1–168)
 
