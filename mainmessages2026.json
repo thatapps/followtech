@@ -1,7 +1,7 @@
 {
   "main_messages": [
     {
-      "enabled": false,
+      "enabled": true,
       "id": "sync_issue_nov_2026",
       "style": "warning",
       "dismissible": true,
