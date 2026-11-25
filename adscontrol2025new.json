@@ -124,6 +124,9 @@
     "free_first_interactions_sync": true, // First Interactions sync skips the reward ad
     "free_first_all_sync": true,            // First Sync All skips the reward ad
 
+    // Controls visibility of "Sync Followers" in the Sync popup menu
+    "show_sync_followers": true,
+
      // Controls visibility of "Sync Interactions (Likes & Comments)" in the Sync popup menu
     "show_sync_interaction": true,
 
